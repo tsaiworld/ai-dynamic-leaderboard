@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Leaderboard & Top News</title>
+  <meta name="description" content="Live AI leaderboard and Top-5 AI news, refreshed daily." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="container header">
+    <h1>AI Leaderboard <span class="badge">Live</span></h1>
+    <p class="subtitle">Updated daily at 8:00 AM America/Chicago</p>
+    <div class="meta">
+      <button id="refreshBtn" class="btn">Refresh</button>
+      <span id="lastUpdated" class="muted">Loading…</span>
+    </div>
+  </header>
+
+  <main class="container grid">
+    <section class="card">
+      <h2>Top 5 AI News</h2>
+      <ol id="newsList" class="list"></ol>
+    </section>
+
+    <section class="card">
+      <h2>Leaderboard</h2>
+      <div class="legend" id="legend"></div>
+
+      <!-- column headers -->
+      <div class="lb-head row row-grid">
+        <div class="col rank">#</div>
+        <div class="col label">Company</div>
+        <div class="col score">Score</div>
+        <div class="col whatsnew">What’s new (date)</div>
+        <div class="col bestfor">Best used for</div>
+        <div class="col procon">Main pro / con</div>
+      </div>
+
+      <div id="leaderboard"></div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <p>Data source: <code>/data/ai_dashboard.json</code></p>
+    <p><small>&copy; <span id="year"></span> Project Opportunity — AI Consulting</small></p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
