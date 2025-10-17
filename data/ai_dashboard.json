@@ -1,125 +1,94 @@
 {
-  "news": [
+  "generated_at": "2025-10-17T19:08:05Z",
+  "top_news": [
     {
-      "title": "OpenAI ships new context window for flagship model",
-      "url": "#",
-      "source": "OpenAI Blog"
+      "id": "bf94fd6a7ed96e56",
+      "title": "The Stock Market Survives a Bank Scare. There’s Too Much Riding on This Bull.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.barrons.com%2farticles%2fstock-market-survives-bank-scare-73eb4419&c=5083485850401163302&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:05:00Z",
+      "summary": "",
+      "score": 0.7454
     },
     {
-      "title": "Anthropic updates Claude with tool-use boosts",
-      "url": "#",
-      "source": "Anthropic"
+      "id": "7e7608a07e39f679",
+      "title": "Orbán celebrates Hungary as ‘the only place in Europe’ where a Trump-Putin meeting can be held",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.twincities.com%2f2025%2f10%2f17%2forban-celebrates-hungary-trump-putin-meeting%2f&c=14324199038592488836&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:05:00Z",
+      "summary": "",
+      "score": 0.7454
     },
     {
-      "title": "Google announces Gemini upgrades for code",
-      "url": "#",
-      "source": "Google AI"
+      "id": "a987280ec0bfa710",
+      "title": "A Systematic Approach to Experimenting with Gen AI",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fhbr.org%2f2026%2f01%2fa-systematic-approach-to-experimenting-with-gen-ai%3fab%3dHP-latest-text-8&c=3727363173054328046&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:02:00Z",
+      "summary": "",
+      "score": 0.7439
+    },
+    {
+      "id": "2302ba6ffdc95f41",
+      "title": "11 Metrics and Strategies to Gauge Your Brand’s True Health",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.rollingstone.com%2fculture-council%2fpanels%2fmetrics-gauge-brands-health-1235447768%2f&c=10679782270706347094&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:01:00Z",
+      "summary": "",
+      "score": 0.7433
+    },
+    {
+      "id": "1f4399f3a720d1dc",
+      "title": "Vast Plans to Launch First Commercial LEO Space Station in 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.extremetech.com%2faerospace%2fvast-plans-to-launch-first-commercial-leo-space-station-in-2026&c=16343829125956133441&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T11:57:00Z",
+      "summary": "",
+      "score": 0.7413
     }
   ],
   "leaderboard": {
-    "llm": [
+    "LLM/Text": [
       {
-        "name": "GPT-5 Thinking",
-        "whats_new": {
-          "text": "Expanded reasoning + lower latency"
+        "label": "Other",
+        "score_total": 0.4,
+        "scores": {
+          "popularity": 1.0,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
         },
-        "best_for": "Complex reasoning, planning",
-        "pro_con": "Pro: strong tool-use \u2022 Con: cost"
-      },
-      {
-        "name": "Claude 3.7 Opus",
-        "whats_new": {
-          "text": "Longer context + agents"
-        },
-        "best_for": "Summarization, safety-critical",
-        "pro_con": "Pro: steerability \u2022 Con: rate limits"
-      },
-      {
-        "name": "Gemini 2.0 Flash",
-        "whats_new": {
-          "text": "Cheaper tier refresh"
-        },
-        "best_for": "High-volume Q&A",
-        "pro_con": "Pro: price \u2022 Con: edge cases"
+        "examples": [
+          {
+            "title": "The Stock Market Survives a Bank Scare. There’s Too Much Riding on This Bull.",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.barrons.com%2farticles%2fstock-market-survives-bank-scare-73eb4419&c=5083485850401163302&mkt=en-us",
+            "signal": 0.75,
+            "date": "2025-10-17T12:05:00Z"
+          },
+          {
+            "title": "Orbán celebrates Hungary as ‘the only place in Europe’ where a Trump-Putin meeting can be held",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fwww.twincities.com%2f2025%2f10%2f17%2forban-celebrates-hungary-trump-putin-meeting%2f&c=14324199038592488836&mkt=en-us",
+            "signal": 0.75,
+            "date": "2025-10-17T12:05:00Z"
+          },
+          {
+            "title": "A Systematic Approach to Experimenting with Gen AI",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29415ac854312b4bc3b629fcbd725&url=https%3a%2f%2fhbr.org%2f2026%2f01%2fa-systematic-approach-to-experimenting-with-gen-ai%3fab%3dHP-latest-text-8&c=3727363173054328046&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:02:00Z"
+          }
+        ],
+        "whats_new": "The Stock Market Survives a Bank Scare. There’s Too Much Riding on This Bull.",
+        "whats_new_date": "2025-10-17T12:05:00Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": null,
+        "main_con": null
       }
     ],
-    "multimodal": [
-      {
-        "name": "Sora 2",
-        "whats_new": {
-          "text": "Higher fidelity video"
-        },
-        "best_for": "Video generation",
-        "pro_con": "Pro: realism \u2022 Con: compute"
-      },
-      {
-        "name": "Gemini VEO 2",
-        "whats_new": {
-          "text": "Storyboard -> video"
-        },
-        "best_for": "Storyboards to clips",
-        "pro_con": "Pro: workflows \u2022 Con: artifacts"
-      },
-      {
-        "name": "Pika Ultra",
-        "whats_new": {
-          "text": "New motion controls"
-        },
-        "best_for": "Fast social clips",
-        "pro_con": "Pro: speed \u2022 Con: detail"
-      }
-    ],
-    "code": [
-      {
-        "name": "Copilot Enterprise",
-        "whats_new": {
-          "text": "Repo-aware chat"
-        },
-        "best_for": "PRs, code review",
-        "pro_con": "Pro: GitHub native \u2022 Con: org setup"
-      },
-      {
-        "name": "Cursor + Claude",
-        "whats_new": {
-          "text": "Inline tool use"
-        },
-        "best_for": "Greenfield coding",
-        "pro_con": "Pro: edits \u2022 Con: vendor limits"
-      },
-      {
-        "name": "Code Llama 2",
-        "whats_new": {
-          "text": "Better finetunes"
-        },
-        "best_for": "On-prem coding",
-        "pro_con": "Pro: open \u2022 Con: quality spread"
-      }
-    ],
-    "agents": [
-      {
-        "name": "OpenAI Automations",
-        "whats_new": {
-          "text": "Multi-event orchestration"
-        },
-        "best_for": "Workflows & reminders",
-        "pro_con": "Pro: easy \u2022 Con: platform bound"
-      },
-      {
-        "name": "LangGraph Cloud",
-        "whats_new": {
-          "text": "Tracing & evals"
-        },
-        "best_for": "Agent backends",
-        "pro_con": "Pro: observability \u2022 Con: cost"
-      },
-      {
-        "name": "CrewAI",
-        "whats_new": {
-          "text": "New role templates"
-        },
-        "best_for": "Multi-agent tasks",
-        "pro_con": "Pro: flexible \u2022 Con: glue code"
-      }
-    ]
+    "Image/Vision": [],
+    "Video/Motion": [],
+    "Audio/Music": [],
+    "Multi-Modal/Agentic": []
   }
 }
