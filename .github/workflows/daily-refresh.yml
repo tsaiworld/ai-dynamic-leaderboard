@@ -48,9 +48,15 @@ jobs:
           commit_message: "chore: 8am CT dashboard refresh (news + leaderboard)"
           file_pattern: data/ai_dashboard.json
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+          # 👇 This guarantees your JSON ships with the site
+      - name: Include dashboard data
+        run: |
+          mkdir -p dist/data
+          cp -R data/* dist/data/ || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          path: ./dist   # or "." if you don't have a dist step
+
 
