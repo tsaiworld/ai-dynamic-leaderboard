@@ -8,21 +8,37 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install deps
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install feedparser python-dateutil
-      - name: Update news
+
+      - name: Update AI news
         run: python scripts/get_ai_news.py
-      - name: Recompute leaderboard
+
+      - name: Recompute leaderboard scores
         run: python scripts/update_leaderboard.py
-      - name: Commit changes
+
+      - name: Commit updated data
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: 8am CT dashboard refresh (news + leaderboard)"
           add: "data/ai_dashboard.json"
+
+      - name: Trigger GitHub Pages rebuild
+        run: |
+          echo "Triggering GitHub Pages rebuild..."
+          curl -X POST -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/pages/builds
