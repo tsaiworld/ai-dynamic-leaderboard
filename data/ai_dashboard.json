@@ -1,104 +1,94 @@
 {
-  "news": [
+  "generated_at": "2025-10-17T21:46:49Z",
+  "top_news": [
     {
-      "title": "OpenAI partners with Broadcom to build custom AI chips",
-      "url": "https://www.theverge.com/2025/10/13/openai-broadcom-custom-ai-chips",
-      "published_at": "2025-10-13",
-      "source": "The Verge"
+      "id": "d2270b3ac6cba142",
+      "title": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.businessinsider.com%2fcore-scientific-shareholder-oppose-coreweave-takeover-bid-2025-10&c=13146886341141653439&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T14:45:00Z",
+      "summary": "",
+      "score": 0.7461
     },
     {
-      "title": "Anthropic launches Claude Haiku 4.5, faster than Sonnet",
-      "url": "https://www.tomsguide.com/ai/claude-haiku-4-5-just-launched",
-      "published_at": "2025-10-15",
-      "source": "Tom’s Guide"
+      "id": "ff88278115f1ea69",
+      "title": "AI in Accounting: Automate More, Worry Less",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.techrepublic.com%2farticle%2faccounting-ai-playbook-2025%2f&c=3845440817925386984&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T14:45:00Z",
+      "summary": "",
+      "score": 0.7461
     },
     {
-      "title": "Microsoft debuts MAI-Image-1, its own AI image model",
-      "url": "https://www.techradar.com/ai-platforms-assistants/mai-image-1-puts-microsoft-in-the-ai-art-game",
-      "published_at": "2025-10-21",
-      "source": "TechRadar"
+      "id": "90fa6fd832659664",
+      "title": "Is Nebius Group a Millionaire-Maker Stock?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2fis-nebius-group-a-millionaire-maker-stock%2f&c=7073805752471140030&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T14:43:00Z",
+      "summary": "",
+      "score": 0.745
+    },
+    {
+      "id": "766602b8912e9e85",
+      "title": "How nervous are investors about the stock market?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.bbc.co.uk%2fnews%2farticles%2fcq502xl53xqo&c=14164852029819909725&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T14:40:00Z",
+      "summary": "",
+      "score": 0.7435
+    },
+    {
+      "id": "f28efb212838c1c2",
+      "title": "Roundtable discussion reveals exhaustion, fear, and anxiety among Latino workforce due to immigration policies",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.whec.com%2ftop-news%2froundtable-discussion-reveals-exhaustion-fear-and-anxiety-among-latino-workforce-due-to-immigration-policies%2f&c=13186303437922240157&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T14:40:00Z",
+      "summary": "",
+      "score": 0.7435
     }
   ],
   "leaderboard": {
-    "llm": [
+    "LLM/Text": [
       {
-        "name": "GPT-5 Thinking",
-        "whats_new": { "text": "Reasoning + tool improvements", "date": "2025-10-16" },
-        "best_for": "Complex reasoning & planning",
-        "pro_con": "Pro: versatile tool-use • Con: cost"
-      },
-      {
-        "name": "Claude Haiku 4.5",
-        "whats_new": { "text": "Launched free tier version", "date": "2025-10-15" },
-        "best_for": "Fast general queries & chat",
-        "pro_con": "Pro: speed • Con: less context capacity"
-      },
-      {
-        "name": "Gemini 2.5 Pro",
-        "whats_new": { "text": "New Canvas & image handling", "date": "2025-10-10" },
-        "best_for": "Integrated Google workflows",
-        "pro_con": "Pro: ecosystem synergy • Con: API limits"
+        "label": "Other",
+        "score_total": 0.3492,
+        "scores": {
+          "popularity": 0.873,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
+        },
+        "examples": [
+          {
+            "title": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.businessinsider.com%2fcore-scientific-shareholder-oppose-coreweave-takeover-bid-2025-10&c=13146886341141653439&mkt=en-us",
+            "signal": 0.75,
+            "date": "2025-10-17T14:45:00Z"
+          },
+          {
+            "title": "AI in Accounting: Automate More, Worry Less",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.techrepublic.com%2farticle%2faccounting-ai-playbook-2025%2f&c=3845440817925386984&mkt=en-us",
+            "signal": 0.75,
+            "date": "2025-10-17T14:45:00Z"
+          },
+          {
+            "title": "Is Nebius Group a Millionaire-Maker Stock?",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2fis-nebius-group-a-millionaire-maker-stock%2f&c=7073805752471140030&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T14:43:00Z"
+          }
+        ],
+        "whats_new": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
+        "whats_new_date": "2025-10-17T14:45:00Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": null,
+        "main_con": null
       }
     ],
-    "multimodal": [
-      {
-        "name": "Sora 2",
-        "whats_new": { "text": "Video fidelity upgrade", "date": "2025-10-17" },
-        "best_for": "High-quality video generation",
-        "pro_con": "Pro: realism • Con: high compute"
-      },
-      {
-        "name": "Gemini Vision",
-        "whats_new": { "text": "Cross-device image context", "date": "2025-10-12" },
-        "best_for": "Image + text combo tasks",
-        "pro_con": "Pro: integration • Con: latency"
-      },
-      {
-        "name": "OpenAI Vision Model",
-        "whats_new": { "text": "Vision updates in GPT-5", "date": "2025-10-13" },
-        "best_for": "Multimodal applications",
-        "pro_con": "Pro: cross-modality • Con: early access only"
-      }
-    ],
-    "code": [
-      {
-        "name": "Copilot Enterprise",
-        "whats_new": { "text": "Repo-aware chat enhancements", "date": "2025-10-12" },
-        "best_for": "PRs, code review, assistance",
-        "pro_con": "Pro: GitHub-native • Con: org setup needed"
-      },
-      {
-        "name": "GPT-5 Codex",
-        "whats_new": { "text": "Coding-specialized model", "date": "2025-09-20" },
-        "best_for": "Code generation & automation",
-        "pro_con": "Pro: high accuracy • Con: niche specialization"
-      },
-      {
-        "name": "Claude Code",
-        "whats_new": { "text": "Inline tool support", "date": "2025-10-14" },
-        "best_for": "Mixed code & natural language tasks",
-        "pro_con": "Pro: safety features • Con: slower on large repos"
-      }
-    ],
-    "agents": [
-      {
-        "name": "OpenAI Automations",
-        "whats_new": { "text": "Multi-step orchestration launched", "date": "2025-10-13" },
-        "best_for": "Workflow & task automation",
-        "pro_con": "Pro: ease of use • Con: platform lock-in"
-      },
-      {
-        "name": "LangGraph Cloud",
-        "whats_new": { "text": "Tracing & observability features", "date": "2025-10-12" },
-        "best_for": "Agent backend & monitoring",
-        "pro_con": "Pro: graph insights • Con: cost"
-      },
-      {
-        "name": "CrewAI",
-        "whats_new": { "text": "New role templates", "date": "2025-10-06" },
-        "best_for": "Multi-agent orchestration",
-        "pro_con": "Pro: flexible • Con: glue code needed"
-      }
-    ]
+    "Image/Vision": [],
+    "Video/Motion": [],
+    "Audio/Music": [],
+    "Multi-Modal/Agentic": []
   }
 }
