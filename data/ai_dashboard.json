@@ -1,59 +1,59 @@
 {
-  "generated_at": "2025-10-17T21:08:44Z",
+  "generated_at": "2025-10-17T21:18:34Z",
   "top_news": [
     {
-      "id": "e576d0603770cfbd",
+      "id": "c72ffbd2de5bc802",
       "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
       "source": "Bing RSS",
       "published_at": "2025-10-17T14:08:00Z",
       "summary": "",
-      "score": 0.7466
+      "score": 0.7416
     },
     {
-      "id": "936cb5e48ad5e390",
+      "id": "6271c525f234d697",
       "title": "How to watch WWE Friday Night SmackDown! today: Free live stream",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
       "source": "Bing RSS",
       "published_at": "2025-10-17T14:05:00Z",
       "summary": "",
-      "score": 0.7451
+      "score": 0.74
     },
     {
-      "id": "7f830708402ff3ec",
+      "id": "b920a56c09cddd2a",
       "title": "Bog Walk Gorge impassable",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
       "source": "Bing RSS",
       "published_at": "2025-10-17T14:03:00Z",
       "summary": "",
-      "score": 0.744
+      "score": 0.739
     },
     {
-      "id": "4dd461b131d85398",
+      "id": "446fa8c9e97663a6",
       "title": "How GLP-1 Medications Are Changing Consumer Behavior",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fhbr.org%2f%3fterm%3dHow%2bmouch%253F&c=16871189864638699076&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fhbr.org%2f%3fterm%3dHow%2bmouch%253F&c=16871189864638699076&mkt=en-us",
       "source": "Bing RSS",
       "published_at": "2025-10-17T13:58:00Z",
       "summary": "",
-      "score": 0.7415
+      "score": 0.7364
     },
     {
-      "id": "637787e96117622e",
+      "id": "ee49e461eb594442",
       "title": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
       "source": "Bing RSS",
       "published_at": "2025-10-17T13:57:00Z",
       "summary": "",
-      "score": 0.7409
+      "score": 0.7359
     }
   ],
   "leaderboard": {
     "LLM/Text": [
       {
         "label": "Other",
-        "score_total": 0.3493,
+        "score_total": 0.3483,
         "scores": {
-          "popularity": 0.873,
+          "popularity": 0.871,
           "performance": 0,
           "cost": 0,
           "privacy": 0,
@@ -62,19 +62,19 @@
         "examples": [
           {
             "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
-            "signal": 0.75,
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
+            "signal": 0.74,
             "date": "2025-10-17T14:08:00Z"
           },
           {
             "title": "How to watch WWE Friday Night SmackDown! today: Free live stream",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
-            "signal": 0.75,
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
+            "signal": 0.74,
             "date": "2025-10-17T14:05:00Z"
           },
           {
             "title": "Bog Walk Gorge impassable",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b05c51e240fc8040c73c27ad5272&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
             "signal": 0.74,
             "date": "2025-10-17T14:03:00Z"
           }
