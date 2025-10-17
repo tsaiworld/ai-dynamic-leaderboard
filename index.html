@@ -3,140 +3,245 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Daily Report — Live</title>
+  <title>AI Daily Report</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0b0d10; --panel:#12161c; --panel2:#0f1318; --text:#e9eef6;
-      --muted:#9fb0c3; --border:#1f2a37;
+      --bg: #0b0d10;
+      --panel: #12161c;
+      --panel-2: #0f1318;
+      --text: #e9eef6;
+      --muted: #9fb0c3;
+      --accent: #5cc8ff;
+      --ok: #7dd3fc;
+      --warn: #fbbf24;
+      --bad: #f87171;
+      --border: #1f2a37;
     }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#0b0d10;color:#e9eef6}
-    .container{max-width:1100px;margin:24px auto 80px;padding:0 16px}
-    header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px;border:1px solid var(--border);border-radius:16px;background:linear-gradient(180deg,var(--panel),var(--panel2))}
-    h1{margin:0;font-size:clamp(22px,2.6vw,32px)}
-    .sub{color:var(--muted);font-size:14px}
-    .badge{display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border-radius:999px;background:#0b2736;color:#bfe9ff;border:1px solid #12364d;font-weight:600}
-    .stack{display:grid;grid-template-columns:1fr;gap:16px;margin-top:16px}
-    .news,.card{border:1px solid var(--border);border-radius:16px;padding:16px;background:#0e141b}
-    .news h2{margin:4px 0 12px;font-size:18px}
-    .news-list{display:grid;gap:10px}
-    .news-item{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;padding:12px;border:1px solid var(--border);border-radius:12px;background:#0c1218}
-    .news-date{font-size:12px;color:#9dd5ff;padding:4px 8px;border:1px solid #1b3d55;background:#0a2333;border-radius:8px;white-space:nowrap}
-    .news-title{margin:0;font-weight:600}
-    .news-src{color:var(--muted);font-size:12px;margin-top:4px}
-    .card h3{margin:0 0 8px;font-size:16px;display:flex;align-items:center;gap:10px}
-    table{width:100%;border-collapse:separate;border-spacing:0 8px}
-    thead th{color:var(--muted);text-align:left;font-size:12px;padding:0 10px}
-    tr{background:#0b131a}
-    td,th{padding:10px;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
-    td:first-child{border-left:1px solid var(--border);border-top-left-radius:10px;border-bottom-left-radius:10px}
-    td:last-child{border-right:1px solid var(--border);border-top-right-radius:10px;border-bottom-right-radius:10px}
-    .rank{font-weight:700;width:56px;text-align:center}
-    .rank.gold{color:#ffe38e}.rank.silver{color:#cbd5e1}.rank.bronze{color:#f7ad6b}
-    .model{font-weight:600}
-    .pill{font-size:12px;color:#a8b5c2;padding:4px 8px;border:1px solid var(--border);background:#0b1218;border-radius:999px}
-    footer{margin-top:20px;text-align:center;color:var(--muted);font-size:12px}
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: radial-gradient(1200px 800px at 80% -10%, #11223355, transparent) var(--bg); color: var(--text); }
+    .container { max-width: 1100px; margin: 24px auto 80px; padding: 0 16px; }
+    header { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:20px; border:1px solid var(--border); border-radius:16px; background:linear-gradient(180deg,var(--panel),var(--panel-2)); box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+    h1 { font-size: clamp(22px, 2.6vw, 32px); margin: 0; letter-spacing: -0.01em; }
+    .sub { color: var(--muted); font-size: 14px; }
+    .badge { display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:999px; background:#0b2736; color:#bfe9ff; border:1px solid #12364d; font-weight:600; }
+    .grid { display:grid; grid-template-columns: 1fr; gap: 16px; }
+    @media (min-width: 900px) { .grid { grid-template-columns: 1.1fr .9fr; } }
+
+    /* News */
+    .news { border:1px solid var(--border); border-radius:16px; padding:16px; background:linear-gradient(180deg,#0e141b,#0b1016); }
+    .news h2 { margin: 6px 0 12px; font-size: 18px; letter-spacing:.2px; }
+    .news-list { display:grid; gap:10px; }
+    .news-item { display:grid; grid-template-columns: auto 1fr; gap:12px; align-items:start; padding:12px; border:1px solid var(--border); border-radius:12px; background: #0c1218; }
+    .news-date { font-size:12px; color:#9dd5ff; padding:4px 8px; border:1px solid #1b3d55; background:#0a2333; border-radius:8px; white-space:nowrap; }
+    .news-title { margin:0; font-weight:600; }
+    .news-src { color: var(--muted); font-size: 12px; margin-top:4px; }
+
+    /* Leaderboard */
+    .card { border:1px solid var(--border); border-radius:16px; padding:16px; background: linear-gradient(180deg, #0f141a, #0b0f14); }
+    .card h3 { margin: 0 0 8px; font-size: 16px; display:flex; align-items:center; gap:10px; }
+    .lb { width:100%; border-collapse:separate; border-spacing:0 8px; }
+    .lb thead th { color: var(--muted); text-align:left; font-size:12px; padding:0 10px; }
+    .lb tr { background:#0b131a; }
+    .lb tr td, .lb tr th { padding:10px; border-top:1px solid var(--border); border-bottom:1px solid var(--border); }
+    .lb tr td:first-child { border-left:1px solid var(--border); border-top-left-radius:10px; border-bottom-left-radius:10px; }
+    .lb tr td:last-child { border-right:1px solid var(--border); border-top-right-radius:10px; border-bottom-right-radius:10px; }
+    .rank { font-weight:700; width:56px; text-align:center; }
+    .rank.gold { color:#ffe38e; }
+    .rank.silver { color:#cbd5e1; }
+    .rank.bronze { color:#f7ad6b; }
+    .model { font-weight:600; }
+    .pill { font-size:12px; color:#a8b5c2; padding:4px 8px; border:1px solid var(--border); background:#0b1218; border-radius:999px; }
+
+    footer { margin-top:20px; text-align:center; color:var(--muted); font-size:12px; }
+    .hint { color: var(--muted); font-size: 12px; margin-top:4px; }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
       <div>
-        <h1>AI Daily Report — Live</h1>
-        <div class="sub">Top news (publish dates) and full-width leaderboards (Top 3 each)</div>
+        <h1>AI Daily Report</h1>
+        <div class="sub">Top news (with publish dates) and 3‑place leaderboards by category</div>
       </div>
       <div class="badge" id="reportDate">📅 <span></span></div>
     </header>
 
-    <div class="stack">
-      <section class="news">
+    <div class="grid" style="margin-top:16px;">
+      <!-- News at the very top -->
+      <section class="news" style="grid-column:1 / -1;">
         <h2>Top News</h2>
         <div class="news-list" id="newsList"></div>
-        <div class="news-src" style="margin-top:8px">Sources: OpenAI, Anthropic, Google, Meta, major tech outlets.</div>
+        <div class="hint">Showing the freshest items first. Dates are the articles' <strong>publish dates</strong>.</div>
       </section>
 
       <section class="card">
         <h3>LLM / Text <span class="pill">Top 3</span></h3>
-        <table id="lb-llm"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+        <table class="lb" id="lb-llm">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Model</th>
+              <th>What's new</th>
+              <th>Best used for</th>
+              <th>Main pro / con</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
       </section>
 
       <section class="card">
         <h3>Multimodal <span class="pill">Top 3</span></h3>
-        <table id="lb-multi"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+        <table class="lb" id="lb-multi">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Model</th>
+              <th>What's new</th>
+              <th>Best used for</th>
+              <th>Main pro / con</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
       </section>
 
       <section class="card">
         <h3>Code / Dev <span class="pill">Top 3</span></h3>
-        <table id="lb-code"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+        <table class="lb" id="lb-code">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Model</th>
+              <th>What's new</th>
+              <th>Best used for</th>
+              <th>Main pro / con</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
       </section>
 
       <section class="card">
         <h3>Agents / Tools <span class="pill">Top 3</span></h3>
-        <table id="lb-agents"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+        <table class="lb" id="lb-agents">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Model</th>
+              <th>What's new</th>
+              <th>Best used for</th>
+              <th>Main pro / con</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
       </section>
     </div>
 
-    <footer>If <code>data/ai_dashboard.json</code> exists, this page will load it; otherwise it shows a built-in sample.</footer>
+    <footer>Updated when new data is committed. If <code>data/ai_dashboard.json</code> is present, this page will auto‑load it; otherwise sample data is shown.</footer>
   </div>
 
   <script>
-    const el = (s, r=document)=>r.querySelector(s);
-    const fmt = (d)=> new Date(d).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'2-digit'});
+    const el = (sel, root=document) => root.querySelector(sel);
+    const fmt = (d) => new Date(d).toLocaleDateString(undefined,{ year:'numeric', month:'short', day:'2-digit' });
 
-    async function loadData(){
-      try{
-        const res = await fetch('data/ai_dashboard.json',{cache:'no-store'});
-        if(!res.ok) throw new Error('no json');
-        return await res.json();
-      }catch(e){ return SAMPLE; }
+    // Attempt to load real dashboard data; if unavailable, use sample
+    async function loadData() {
+      try {
+        const res = await fetch('data/ai_dashboard.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('no json');
+        const json = await res.json();
+        return json;
+      } catch (e) {
+        return SAMPLE_DATA; // fallback
+      }
     }
 
-    function renderNews(list){
-      const wrap = el('#newsList'); wrap.innerHTML='';
-      const sorted=[...list].sort((a,b)=> new Date(b.published_at||b.date)-new Date(a.published_at||a.date));
-      sorted.forEach(n=>{
-        const date=n.published_at||n.date||new Date().toISOString();
-        const src=n.source||n.domain||'';
-        const item=document.createElement('div'); item.className='news-item';
+    function renderNews(list) {
+      const wrap = el('#newsList');
+      wrap.innerHTML = '';
+      const sorted = [...list].sort((a,b)=> new Date(b.published_at||b.date) - new Date(a.published_at||a.date));
+      sorted.forEach(n => {
+        const date = n.published_at || n.date || new Date().toISOString();
+        const src = n.source || n.domain || '';
+        const item = document.createElement('div');
+        item.className = 'news-item';
         item.innerHTML = `
           <div class="news-date">\${fmt(date)}</div>
           <div>
             <p class="news-title"><a href="\${n.url||'#'}" target="_blank" rel="noopener noreferrer">\${n.title||'Untitled'}</a></p>
             <div class="news-src">\${src}</div>
-          </div>`;
+          </div>
+        `;
         wrap.appendChild(item);
-      })
+      });
     }
 
-    function renderLB(tbody, entries){
-      tbody.innerHTML='';
-      entries.slice(0,3).forEach((row,i)=>{
-        const tr=document.createElement('tr');
-        const rankCls=i===0?'gold':i===1?'silver':'bronze';
-        tr.innerHTML=`
-          <td class="rank \${rankCls}">\${i===0?'🥇 1st':i===1?'🥈 2nd':'🥉 3rd'}</td>
+    function renderLB(tbody, entries) {
+      tbody.innerHTML = '';
+      const top3 = entries.slice(0,3); // enforce exactly 3 shown
+      top3.forEach((row, i) => {
+        const tr = document.createElement('tr');
+        const rankCls = i===0? 'gold' : i===1? 'silver' : 'bronze';
+        tr.innerHTML = `
+          <td class="rank \${rankCls}">\${i===0?'🥇 1st': i===1?'🥈 2nd':'🥉 3rd'}</td>
           <td class="model">\${row.name}</td>
-          <td>\${row.whats_new?.text||''} <span class="pill" style="margin-left:6px;">\${row.whats_new?.date?fmt(row.whats_new.date):''}</span></td>
+          <td>\${row.whats_new?.text||''} <span class="pill" style="margin-left:6px;">\${row.whats_new?.date ? fmt(row.whats_new.date) : ''}</span></td>
           <td>\${row.best_for||''}</td>
-          <td>\${row.pro_con||''}</td>`;
+          <td>\${row.pro_con||''}</td>
+        `;
         tbody.appendChild(tr);
       });
     }
 
     function hydrate(data){
-      el('#reportDate span').textContent=new Date().toLocaleString();
+      // Header date
+      el('#reportDate span').textContent = new Date().toLocaleString();
+
+      // News at top
       renderNews(data.news||[]);
+
+      // Leaderboards (3 places each)
       renderLB(el('#lb-llm tbody'), data.leaderboard?.llm||[]);
       renderLB(el('#lb-multi tbody'), data.leaderboard?.multimodal||[]);
       renderLB(el('#lb-code tbody'), data.leaderboard?.code||[]);
       renderLB(el('#lb-agents tbody'), data.leaderboard?.agents||[]);
     }
 
-    const SAMPLE = {"news":[],"leaderboard":{"llm":[],"multimodal":[],"code":[],"agents":[]}};
-    loadData().then(hydrate);
+    const SAMPLE_DATA = {
+      news: [
+        { title: 'OpenAI ships new context window for flagship model', url: '#', published_at: '2025-10-16', source: 'OpenAI Blog' },
+        { title: 'Anthropic updates Claude with tool-use boosts', url: '#', published_at: '2025-10-15', source: 'Anthropic' },
+        { title: 'Google announces Gemini upgrades for code', url: '#', published_at: '2025-10-14', source: 'Google AI' }
+      ],
+      leaderboard: {
+        llm: [
+          { name:'GPT‑5 Thinking', whats_new:{ text:'Expanded reasoning + lower latency', date:'2025-10-16' }, best_for:'Complex reasoning, planning', pro_con:'Pro: strong tool-use • Con: cost' },
+          { name:'Claude 3.7 Opus', whats_new:{ text:'Longer context + agents', date:'2025-10-15' }, best_for:'Summarization, safety‑critical', pro_con:'Pro: steerability • Con: rate limits' },
+          { name:'Gemini 2.0 Flash', whats_new:{ text:'Cheaper tier refresh', date:'2025-10-14' }, best_for:'High‑volume Q&A', pro_con:'Pro: price • Con: edge cases' }
+        ],
+        multimodal: [
+          { name:'Sora 2', whats_new:{ text:'Higher fidelity video', date:'2025-10-10' }, best_for:'Video generation', pro_con:'Pro: realism • Con: compute' },
+          { name:'Gemini VEO 2', whats_new:{ text:'Storyboard -> video', date:'2025-10-09' }, best_for:'Storyboards to clips', pro_con:'Pro: workflows • Con: artifacts' },
+          { name:'Pika Ultra', whats_new:{ text:'New motion controls', date:'2025-10-05' }, best_for:'Fast social clips', pro_con:'Pro: speed • Con: detail' }
+        ],
+        code: [
+          { name:'Copilot Enterprise', whats_new:{ text:'Repo-aware chat', date:'2025-10-12' }, best_for:'PRs, code review', pro_con:'Pro: GitHub native • Con: org setup' },
+          { name:'Cursor + Claude', whats_new:{ text:'Inline tool use', date:'2025-10-11' }, best_for:'Greenfield coding', pro_con:'Pro: edits • Con: vendor limits' },
+          { name:'Code Llama 2', whats_new:{ text:'Better finetunes', date:'2025-10-08' }, best_for:'On‑prem coding', pro_con:'Pro: open • Con: quality spread' }
+        ],
+        agents: [
+          { name:'OpenAI Automations', whats_new:{ text:'Multi‑event orchestration', date:'2025-10-13' }, best_for:'Workflows & reminders', pro_con:'Pro: easy • Con: platform bound' },
+          { name:'LangGraph Cloud', whats_new:{ text:'Tracing & evals', date:'2025-10-12' }, best_for:'Agent backends', pro_con:'Pro: observability • Con: cost' },
+          { name:'CrewAI', whats_new:{ text:'New role templates', date:'2025-10-06' }, best_for:'Multi‑agent tasks', pro_con:'Pro: flexible • Con: glue code' }
+        ]
+      }
+    };
+
   </script>
 </body>
 </html>
