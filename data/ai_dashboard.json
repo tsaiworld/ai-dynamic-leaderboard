@@ -1,118 +1,158 @@
 {
-  "generated_at": "2025-10-17T19:26:28Z",
-  "top_news": [
+  "news": [
     {
-      "id": "ccf24ff3a0828d60",
-      "title": "College Football DFS Picks and Prop Bets For Week 8",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.thebiglead.com%2fcollege-football-dfs-picks-and-prop-bets-for-week-8%2f&c=13295422379469001572&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T12:24:00Z",
-      "summary": "",
-      "score": 0.7457
+      "title": "OpenAI pauses Sora generations of Martin Luther King Jr.",
+      "url": "https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/",
+      "published_at": "2025-10-16",
+      "source": "TechCrunch"
     },
     {
-      "id": "ab697c419f5eeb97",
-      "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T12:19:00Z",
-      "summary": "",
-      "score": 0.7432
+      "title": "OpenAI and Broadcom partner on 10GW custom AI accelerators",
+      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/",
+      "published_at": "2025-10-13",
+      "source": "OpenAI"
     },
     {
-      "id": "d2afa1788f476b88",
-      "title": "Father's disappearance exposes shocking affair and murder plot",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T12:18:00Z",
-      "summary": "",
-      "score": 0.7426
+      "title": "Anthropic launches Claude Haiku 4.5 (free tier push)",
+      "url": "https://venturebeat.com/ai/anthropic-is-giving-away-its-powerful-claude-haiku-4-5-ai-for-free-to-take",
+      "published_at": "2025-10-15",
+      "source": "VentureBeat"
     },
     {
-      "id": "c3bc3a040e3e43fb",
-      "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T12:10:00Z",
-      "summary": "",
-      "score": 0.7385
+      "title": "Claude integrates with Microsoft 365 and enterprise search",
+      "url": "https://www.anthropic.com/news/productivity-platforms",
+      "published_at": "2025-10-16",
+      "source": "Anthropic"
     },
     {
-      "id": "93ae04677f65c327",
-      "title": "Edison High School students’ faces to be featured on RTS buses for making positive choices",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.whec.com%2ftop-news%2fedison-high-school-students-faces-to-be-featured-on-rts-buses-for-making-positive-choices%2f&c=5739243222539602768&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T12:08:00Z",
-      "summary": "",
-      "score": 0.7375
+      "title": "Google details September AI upgrades (Gemini across products)",
+      "url": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+      "published_at": "2025-10-08",
+      "source": "Google"
+    },
+    {
+      "title": "Walmart partners with OpenAI on AI-first shopping experiences",
+      "url": "https://corporate.walmart.com/news/2025/10/14/walmart-partners-with-openai-to-create-ai-first-shopping-experiences",
+      "published_at": "2025-10-14",
+      "source": "Walmart"
     }
   ],
   "leaderboard": {
-    "LLM/Text": [
+    "llm": [
       {
-        "label": "Other",
-        "score_total": 0.3491,
-        "scores": {
-          "popularity": 0.873,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
+        "name": "GPT\u20115 Thinking",
+        "whats_new": {
+          "text": "Expanded reasoning, lower latency",
+          "date": "2025-10-16"
         },
-        "examples": [
-          {
-            "title": "College Football DFS Picks and Prop Bets For Week 8",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.thebiglead.com%2fcollege-football-dfs-picks-and-prop-bets-for-week-8%2f&c=13295422379469001572&mkt=en-us",
-            "signal": 0.75,
-            "date": "2025-10-17T12:24:00Z"
-          },
-          {
-            "title": "Father's disappearance exposes shocking affair and murder plot",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T12:18:00Z"
-          },
-          {
-            "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T12:10:00Z"
-          }
-        ],
-        "whats_new": "College Football DFS Picks and Prop Bets For Week 8",
-        "whats_new_date": "2025-10-17T12:24:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "best_for": "Complex reasoning & planning",
+        "pro_con": "Pro: tool-use \u2022 Con: cost"
       },
       {
-        "label": "Meta",
-        "score_total": 0.3486,
-        "scores": {
-          "popularity": 0.872,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
+        "name": "Claude 3.7 Opus",
+        "whats_new": {
+          "text": "M365 + enterprise search integrations",
+          "date": "2025-10-16"
         },
-        "examples": [
-          {
-            "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T12:19:00Z"
-          }
-        ],
-        "whats_new": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
-        "whats_new_date": "2025-10-17T12:19:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "best_for": "Summarization & retrieval",
+        "pro_con": "Pro: steerability \u2022 Con: limits"
+      },
+      {
+        "name": "Gemini 2.5 Pro",
+        "whats_new": {
+          "text": "Canvas & coding boosts",
+          "date": "2025-10-10"
+        },
+        "best_for": "Docs + coding",
+        "pro_con": "Pro: G\u2011suite native \u2022 Con: rate limits"
       }
     ],
-    "Image/Vision": [],
-    "Video/Motion": [],
-    "Audio/Music": [],
-    "Multi-Modal/Agentic": []
+    "multimodal": [
+      {
+        "name": "Sora 2",
+        "whats_new": {
+          "text": "Policy changes & fidelity improvements",
+          "date": "2025-10-16"
+        },
+        "best_for": "Video generation",
+        "pro_con": "Pro: realism \u2022 Con: policy flux"
+      },
+      {
+        "name": "Claude Vision",
+        "whats_new": {
+          "text": "Productivity integrations",
+          "date": "2025-10-16"
+        },
+        "best_for": "Image + doc understanding",
+        "pro_con": "Pro: safety \u2022 Con: tool limits"
+      },
+      {
+        "name": "Gemini 2.5 Pro (vision)",
+        "whats_new": {
+          "text": "Gemini across products",
+          "date": "2025-10-08"
+        },
+        "best_for": "Multimodal Q&A",
+        "pro_con": "Pro: ecosystem \u2022 Con: throttling"
+      }
+    ],
+    "code": [
+      {
+        "name": "Copilot Enterprise",
+        "whats_new": {
+          "text": "Repo-aware chat",
+          "date": "2025-10-12"
+        },
+        "best_for": "PRs & reviews",
+        "pro_con": "Pro: GitHub native \u2022 Con: org setup"
+      },
+      {
+        "name": "Claude Haiku 4.5",
+        "whats_new": {
+          "text": "Fast, near-frontier coding",
+          "date": "2025-10-15"
+        },
+        "best_for": "Speedy coding",
+        "pro_con": "Pro: speed \u2022 Con: model size"
+      },
+      {
+        "name": "Cursor + Claude",
+        "whats_new": {
+          "text": "Inline tool-use",
+          "date": "2025-10-11"
+        },
+        "best_for": "Greenfield coding",
+        "pro_con": "Pro: edits \u2022 Con: vendor limits"
+      }
+    ],
+    "agents": [
+      {
+        "name": "OpenAI Automations",
+        "whats_new": {
+          "text": "Multi-event orchestration",
+          "date": "2025-10-13"
+        },
+        "best_for": "Workflows & reminders",
+        "pro_con": "Pro: easy \u2022 Con: platform bound"
+      },
+      {
+        "name": "LangGraph Cloud",
+        "whats_new": {
+          "text": "Tracing & evals",
+          "date": "2025-10-12"
+        },
+        "best_for": "Agent backends",
+        "pro_con": "Pro: observability \u2022 Con: cost"
+      },
+      {
+        "name": "CrewAI",
+        "whats_new": {
+          "text": "New role templates",
+          "date": "2025-10-06"
+        },
+        "best_for": "Multi-agent tasks",
+        "pro_con": "Pro: flexible \u2022 Con: glue code"
+      }
+    ]
   }
 }
