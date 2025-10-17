@@ -1,119 +1,125 @@
 {
-  "generated_at": "2025-10-17T18:56:06Z",
-  "top_news": [
+  "news": [
     {
-      "id": "6fe088c6bca0fa03",
-      "title": "OpenAI blocks MLK Jr. videos on Sora after 'disrespectful depictions'",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.npr.org%2f2025%2f10%2f17%2fnx-s1-5577869%2fsora-block-videos-mlk&c=6913007542917817115&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T11:43:00Z",
-      "summary": "",
-      "score": 0.7403
+      "title": "OpenAI ships new context window for flagship model",
+      "url": "#",
+      "source": "OpenAI Blog"
     },
     {
-      "id": "9a8675d2803afb6a",
-      "title": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T11:42:00Z",
-      "summary": "",
-      "score": 0.7397
+      "title": "Anthropic updates Claude with tool-use boosts",
+      "url": "#",
+      "source": "Anthropic"
     },
     {
-      "id": "3199aee81a4503fb",
-      "title": "Colorado robocalls surge as some carriers skip required fraud protection, report finds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.koaa.com%2fnews%2flocal-news%2fcolorado-robocalls-surge-as-some-carriers-skip-required-fraud-protection-report-finds&c=6246118974830380042&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T11:34:00Z",
-      "summary": "",
-      "score": 0.7356
-    },
-    {
-      "id": "3ec276100e653eab",
-      "title": "Kelly Ripa Jokes About Doing the ‘Most Grotesque Thing’ While Seeing Richard Gere on Vacation",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fkelly-ripa-jokes-doing-most-181023989.html&c=12286289976265917443&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T11:30:00Z",
-      "summary": "",
-      "score": 0.7336
-    },
-    {
-      "id": "c9a1139ddb2c8975",
-      "title": "Takeaways From the Discussion on Composers’ Contracts at the World Soundtrack Awards",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fvariety.com%2f2025%2ffilm%2fnews%2ffive-takeaways-world-soundtrack-awards-composers-contracts-1236555322%2f&c=14690054776803274894&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T11:23:00Z",
-      "summary": "",
-      "score": 0.73
+      "title": "Google announces Gemini upgrades for code",
+      "url": "#",
+      "source": "Google AI"
     }
   ],
   "leaderboard": {
-    "LLM/Text": [
+    "llm": [
       {
-        "label": "Other",
-        "score_total": 0.3479,
-        "scores": {
-          "popularity": 0.87,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
+        "name": "GPT-5 Thinking",
+        "whats_new": {
+          "text": "Expanded reasoning + lower latency"
         },
-        "examples": [
-          {
-            "title": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T11:42:00Z"
-          },
-          {
-            "title": "Colorado robocalls surge as some carriers skip required fraud protection, report finds",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.koaa.com%2fnews%2flocal-news%2fcolorado-robocalls-surge-as-some-carriers-skip-required-fraud-protection-report-finds&c=6246118974830380042&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T11:34:00Z"
-          },
-          {
-            "title": "Kelly Ripa Jokes About Doing the ‘Most Grotesque Thing’ While Seeing Richard Gere on Vacation",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fkelly-ripa-jokes-doing-most-181023989.html&c=12286289976265917443&mkt=en-us",
-            "signal": 0.73,
-            "date": "2025-10-17T11:30:00Z"
-          }
-        ],
-        "whats_new": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
-        "whats_new_date": "2025-10-17T11:42:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "best_for": "Complex reasoning, planning",
+        "pro_con": "Pro: strong tool-use \u2022 Con: cost"
+      },
+      {
+        "name": "Claude 3.7 Opus",
+        "whats_new": {
+          "text": "Longer context + agents"
+        },
+        "best_for": "Summarization, safety-critical",
+        "pro_con": "Pro: steerability \u2022 Con: rate limits"
+      },
+      {
+        "name": "Gemini 2.0 Flash",
+        "whats_new": {
+          "text": "Cheaper tier refresh"
+        },
+        "best_for": "High-volume Q&A",
+        "pro_con": "Pro: price \u2022 Con: edge cases"
       }
     ],
-    "Image/Vision": [],
-    "Video/Motion": [
+    "multimodal": [
       {
-        "label": "Openai",
-        "score_total": 0.3481,
-        "scores": {
-          "popularity": 0.87,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
+        "name": "Sora 2",
+        "whats_new": {
+          "text": "Higher fidelity video"
         },
-        "examples": [
-          {
-            "title": "OpenAI blocks MLK Jr. videos on Sora after 'disrespectful depictions'",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29145f38a47e3b2031405907e0c27&url=https%3a%2f%2fwww.npr.org%2f2025%2f10%2f17%2fnx-s1-5577869%2fsora-block-videos-mlk&c=6913007542917817115&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T11:43:00Z"
-          }
-        ],
-        "whats_new": "OpenAI blocks MLK Jr. videos on Sora after 'disrespectful depictions'",
-        "whats_new_date": "2025-10-17T11:43:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "best_for": "Video generation",
+        "pro_con": "Pro: realism \u2022 Con: compute"
+      },
+      {
+        "name": "Gemini VEO 2",
+        "whats_new": {
+          "text": "Storyboard -> video"
+        },
+        "best_for": "Storyboards to clips",
+        "pro_con": "Pro: workflows \u2022 Con: artifacts"
+      },
+      {
+        "name": "Pika Ultra",
+        "whats_new": {
+          "text": "New motion controls"
+        },
+        "best_for": "Fast social clips",
+        "pro_con": "Pro: speed \u2022 Con: detail"
       }
     ],
-    "Audio/Music": [],
-    "Multi-Modal/Agentic": []
+    "code": [
+      {
+        "name": "Copilot Enterprise",
+        "whats_new": {
+          "text": "Repo-aware chat"
+        },
+        "best_for": "PRs, code review",
+        "pro_con": "Pro: GitHub native \u2022 Con: org setup"
+      },
+      {
+        "name": "Cursor + Claude",
+        "whats_new": {
+          "text": "Inline tool use"
+        },
+        "best_for": "Greenfield coding",
+        "pro_con": "Pro: edits \u2022 Con: vendor limits"
+      },
+      {
+        "name": "Code Llama 2",
+        "whats_new": {
+          "text": "Better finetunes"
+        },
+        "best_for": "On-prem coding",
+        "pro_con": "Pro: open \u2022 Con: quality spread"
+      }
+    ],
+    "agents": [
+      {
+        "name": "OpenAI Automations",
+        "whats_new": {
+          "text": "Multi-event orchestration"
+        },
+        "best_for": "Workflows & reminders",
+        "pro_con": "Pro: easy \u2022 Con: platform bound"
+      },
+      {
+        "name": "LangGraph Cloud",
+        "whats_new": {
+          "text": "Tracing & evals"
+        },
+        "best_for": "Agent backends",
+        "pro_con": "Pro: observability \u2022 Con: cost"
+      },
+      {
+        "name": "CrewAI",
+        "whats_new": {
+          "text": "New role templates"
+        },
+        "best_for": "Multi-agent tasks",
+        "pro_con": "Pro: flexible \u2022 Con: glue code"
+      }
+    ]
   }
 }
