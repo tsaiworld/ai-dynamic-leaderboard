@@ -1,50 +1,140 @@
 {
   "news": [
     {
-      "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
-      "published_at": "2025-10-17T14:08:00Z",
-      "source": "Bing RSS"
+      "title": "OpenAI and Broadcom announce 10GW custom AI accelerator collaboration",
+      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/",
+      "published_at": "2025-10-13",
+      "source": "OpenAI"
     },
     {
-      "title": "How to watch WWE Friday Night SmackDown! today: Free live stream",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
-      "published_at": "2025-10-17T14:05:00Z",
-      "source": "Bing RSS"
+      "title": "Anthropic integrates Claude with Microsoft 365 and enterprise search",
+      "url": "https://www.anthropic.com/news/productivity-platforms",
+      "published_at": "2025-10-16",
+      "source": "Anthropic"
     },
     {
-      "title": "Bog Walk Gorge impassable",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
-      "published_at": "2025-10-17T14:03:00Z",
-      "source": "Bing RSS"
-    },
-    {
-      "title": "How GLP-1 Medications Are Changing Consumer Behavior",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fhbr.org%2f%3fterm%3dHow%2bmouch%253F&c=16871189864638699076&mkt=en-us",
-      "published_at": "2025-10-17T13:58:00Z",
-      "source": "Bing RSS"
-    },
-    {
-      "title": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
-      "published_at": "2025-10-17T13:57:00Z",
-      "source": "Bing RSS"
+      "title": "Google details September AI upgrades across Gemini products",
+      "url": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+      "published_at": "2025-10-08",
+      "source": "Google"
     }
   ],
   "leaderboard": {
     "llm": [
       {
-        "name": "Other",
+        "name": "GPT\u20115 Thinking",
         "whats_new": {
-          "text": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-          "date": "2025-10-17T14:08:00Z"
+          "text": "Expanded reasoning depth; lower latency",
+          "date": "2025-10-16"
         },
-        "best_for": "Orchestration & tool-use",
-        "pro_con": "Pro: \u2014 \u2022 Con: \u2014"
+        "best_for": "Complex reasoning, planning, tool-use",
+        "pro_con": "Pro: strong tool-use \u2022 Con: cost at scale"
+      },
+      {
+        "name": "Claude 3.7 Opus",
+        "whats_new": {
+          "text": "M365 + enterprise search integrations",
+          "date": "2025-10-16"
+        },
+        "best_for": "Summarization, retrieval-augmented tasks",
+        "pro_con": "Pro: steerability \u2022 Con: rate limits"
+      },
+      {
+        "name": "Gemini 2.5 Pro",
+        "whats_new": {
+          "text": "Canvas & coding boosts across Workspace",
+          "date": "2025-10-10"
+        },
+        "best_for": "Docs workflows, coding assistance",
+        "pro_con": "Pro: Google ecosystem \u2022 Con: throttling"
       }
     ],
-    "multimodal": [],
-    "code": [],
-    "agents": []
+    "multimodal": [
+      {
+        "name": "Sora 2",
+        "whats_new": {
+          "text": "Fidelity & policy updates for video",
+          "date": "2025-10-16"
+        },
+        "best_for": "High-fidelity video generation",
+        "pro_con": "Pro: realism \u2022 Con: compute heavy"
+      },
+      {
+        "name": "Claude Vision",
+        "whats_new": {
+          "text": "Productivity integrations for doc/image QA",
+          "date": "2025-10-16"
+        },
+        "best_for": "Image + document understanding",
+        "pro_con": "Pro: safety \u2022 Con: tool constraints"
+      },
+      {
+        "name": "Gemini 2.5 Pro (Vision)",
+        "whats_new": {
+          "text": "Gemini features across products",
+          "date": "2025-10-08"
+        },
+        "best_for": "Multimodal Q&A and analysis",
+        "pro_con": "Pro: ecosystem \u2022 Con: occasional throttling"
+      }
+    ],
+    "code": [
+      {
+        "name": "Copilot Enterprise",
+        "whats_new": {
+          "text": "Repo-aware chat improvements",
+          "date": "2025-10-12"
+        },
+        "best_for": "PR reviews, code navigation",
+        "pro_con": "Pro: GitHub-native \u2022 Con: org setup required"
+      },
+      {
+        "name": "Claude Haiku 4.5",
+        "whats_new": {
+          "text": "Fast, near-frontier coding assistance",
+          "date": "2025-10-15"
+        },
+        "best_for": "Rapid iterations and coding drafts",
+        "pro_con": "Pro: speed \u2022 Con: smaller context"
+      },
+      {
+        "name": "Cursor + Claude",
+        "whats_new": {
+          "text": "Inline tool-use and project edits",
+          "date": "2025-10-11"
+        },
+        "best_for": "Greenfield coding with inline edits",
+        "pro_con": "Pro: edit workflow \u2022 Con: vendor coupling"
+      }
+    ],
+    "agents": [
+      {
+        "name": "OpenAI Automations",
+        "whats_new": {
+          "text": "Multi-event orchestration launched",
+          "date": "2025-10-13"
+        },
+        "best_for": "Workflows and reminders",
+        "pro_con": "Pro: easy orchestration \u2022 Con: platform lock-in"
+      },
+      {
+        "name": "LangGraph Cloud",
+        "whats_new": {
+          "text": "Tracing and eval enhancements",
+          "date": "2025-10-12"
+        },
+        "best_for": "Agent backends and observability",
+        "pro_con": "Pro: great tracing \u2022 Con: cost"
+      },
+      {
+        "name": "CrewAI",
+        "whats_new": {
+          "text": "New role templates for multi-agent setups",
+          "date": "2025-10-06"
+        },
+        "best_for": "Multi-agent task coordination",
+        "pro_con": "Pro: flexible roles \u2022 Con: glue code needed"
+      }
+    ]
   }
 }
