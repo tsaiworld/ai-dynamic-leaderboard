@@ -27,8 +27,8 @@
     h1 { font-size: clamp(22px, 2.6vw, 32px); margin: 0; letter-spacing: -0.01em; }
     .sub { color: var(--muted); font-size: 14px; }
     .badge { display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:999px; background:#0b2736; color:#bfe9ff; border:1px solid #12364d; font-weight:600; }
-    .grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
-    
+    .grid { display:grid; grid-template-columns: 1fr; gap: 16px; }
+    @media (min-width: 900px) { .grid { grid-template-columns: 1.1fr .9fr; } }
 
     /* News */
     .news { border:1px solid var(--border); border-radius:16px; padding:16px; background:linear-gradient(180deg,#0e141b,#0b1016); }
