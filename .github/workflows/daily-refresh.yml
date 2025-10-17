@@ -43,7 +43,7 @@ jobs:
         run: python scripts/update_leaderboard.py
 
       - name: Commit dashboard JSON
-        uses: tsaiworld/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: 8am CT dashboard refresh (news + leaderboard)"
           file_pattern: data/ai_dashboard.json
