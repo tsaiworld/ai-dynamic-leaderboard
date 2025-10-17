@@ -1,0 +1,307 @@
+{
+  "generated_at": "2025-10-17T17:38:44Z",
+  "top_news": [
+    {
+      "title": "OpenAI unveils new multimodal update",
+      "url": "https://example.com/a",
+      "source": "OpenAI",
+      "published_at": "2025-10-17T17:38:44Z",
+      "score": 0.92
+    },
+    {
+      "title": "Google ships faster inference for Gemini",
+      "url": "https://example.com/b",
+      "source": "Google",
+      "published_at": "2025-10-17T17:38:44Z",
+      "score": 0.88
+    },
+    {
+      "title": "Anthropic expands context window",
+      "url": "https://example.com/c",
+      "source": "Anthropic",
+      "published_at": "2025-10-17T17:38:44Z",
+      "score": 0.85
+    },
+    {
+      "title": "Meta open-sources vision encoder",
+      "url": "https://example.com/d",
+      "source": "Meta",
+      "published_at": "2025-10-17T17:38:44Z",
+      "score": 0.81
+    },
+    {
+      "title": "Runway adds UHD video generation",
+      "url": "https://example.com/e",
+      "source": "Runway",
+      "published_at": "2025-10-17T17:38:44Z",
+      "score": 0.8
+    }
+  ],
+  "leaderboard": {
+    "LLM/Text": [
+      {
+        "label": "OpenAI",
+        "score_total": 0.84,
+        "whats_new": "GPT platform multimodal update",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Reasoning, chat, knowledge tasks",
+        "main_pro": "Strong benchmarks",
+        "main_con": "Higher cost",
+        "examples": [
+          {
+            "title": "OpenAI unveils new multimodal update",
+            "url": "https://example.com/a",
+            "signal": 0.92,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Anthropic",
+        "score_total": 0.78,
+        "whats_new": "Expanded context + tool-use",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Enterprise-scale reasoning",
+        "main_pro": "Long context window",
+        "main_con": "Premium pricing",
+        "examples": [
+          {
+            "title": "Anthropic expands context window",
+            "url": "https://example.com/c",
+            "signal": 0.85,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Mistral",
+        "score_total": 0.74,
+        "whats_new": "Mixtral updates",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Cost-efficient text models",
+        "main_pro": "Good perf/$",
+        "main_con": "Smaller ecosystem",
+        "examples": [
+          {
+            "title": "Mixtral v2 release",
+            "url": "https://example.com/x",
+            "signal": 0.72,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      }
+    ],
+    "Image/Vision": [
+      {
+        "label": "Meta",
+        "score_total": 0.73,
+        "whats_new": "Vision encoder open-sourced",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Image generation & perception",
+        "main_pro": "Open ecosystem",
+        "main_con": "Limited creative control",
+        "examples": [
+          {
+            "title": "Meta open-sources vision encoder",
+            "url": "https://example.com/d",
+            "signal": 0.81,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Stability AI",
+        "score_total": 0.7,
+        "whats_new": "SDXL ecosystem plugins",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Creative design, visual art",
+        "main_pro": "High-quality diffusion",
+        "main_con": "GPU heavy",
+        "examples": [
+          {
+            "title": "SDXL plug-in pack",
+            "url": "https://example.com/sdxl",
+            "signal": 0.7,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Midjourney",
+        "score_total": 0.68,
+        "whats_new": "V6 updates",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Artistic visuals",
+        "main_pro": "Strong community",
+        "main_con": "Closed ecosystem",
+        "examples": [
+          {
+            "title": "Midjourney v6 teaser",
+            "url": "https://example.com/mj",
+            "signal": 0.68,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      }
+    ],
+    "Video/Motion": [
+      {
+        "label": "Runway",
+        "score_total": 0.71,
+        "whats_new": "UHD video generation",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Video synthesis & motion effects",
+        "main_pro": "Great realism",
+        "main_con": "Subscription cost",
+        "examples": [
+          {
+            "title": "Runway adds UHD video",
+            "url": "https://example.com/e",
+            "signal": 0.8,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Pika Labs",
+        "score_total": 0.68,
+        "whats_new": "AI camera features",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Quick video prototyping",
+        "main_pro": "Fast UX",
+        "main_con": "Short clips",
+        "examples": [
+          {
+            "title": "Pika introduces AI camera",
+            "url": "https://example.com/pika",
+            "signal": 0.66,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "OpenAI (Sora)",
+        "score_total": 0.66,
+        "whats_new": "New motion capabilities",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Cinematic realism",
+        "main_pro": "High fidelity",
+        "main_con": "Closed beta",
+        "examples": [
+          {
+            "title": "Sora showcases motion",
+            "url": "https://example.com/sora",
+            "signal": 0.66,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      }
+    ],
+    "Audio/Music": [
+      {
+        "label": "ElevenLabs",
+        "score_total": 0.62,
+        "whats_new": "Emotion synthesis",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Voice, TTS, narration",
+        "main_pro": "Natural voices",
+        "main_con": "Premium pricing",
+        "examples": [
+          {
+            "title": "Emotion TTS",
+            "url": "https://example.com/11l",
+            "signal": 0.62,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Suno AI",
+        "score_total": 0.59,
+        "whats_new": "Multi-instrument support",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Music generation",
+        "main_pro": "Fun & creative",
+        "main_con": "Tuning required",
+        "examples": [
+          {
+            "title": "Suno adds instruments",
+            "url": "https://example.com/suno",
+            "signal": 0.59,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Coqui",
+        "score_total": 0.54,
+        "whats_new": "Zero-shot TTS updates",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Open-source voice",
+        "main_pro": "Open & free",
+        "main_con": "Less polished",
+        "examples": [
+          {
+            "title": "Coqui zero-shot",
+            "url": "https://example.com/coqui",
+            "signal": 0.54,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      }
+    ],
+    "Multi-Modal/Agentic": [
+      {
+        "label": "Google Gemini",
+        "score_total": 0.77,
+        "whats_new": "Faster inference",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": "Strong agent tools",
+        "main_con": "Privacy concerns",
+        "examples": [
+          {
+            "title": "Gemini speed boost",
+            "url": "https://example.com/gem",
+            "signal": 0.77,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "OpenAI GPT-4o",
+        "score_total": 0.75,
+        "whats_new": "Realtime voice + vision",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Integrated multimodal reasoning",
+        "main_pro": "Realtime UX",
+        "main_con": "Latency at scale",
+        "examples": [
+          {
+            "title": "GPT-4o demo",
+            "url": "https://example.com/4o",
+            "signal": 0.75,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      },
+      {
+        "label": "Claude 3.5 Sonnet",
+        "score_total": 0.72,
+        "whats_new": "Tool-use & context gains",
+        "whats_new_date": "2025-10-17T17:38:44Z",
+        "best_used_for": "Research workflows",
+        "main_pro": "Long context",
+        "main_con": "Tool limits",
+        "examples": [
+          {
+            "title": "Claude tool-use",
+            "url": "https://example.com/claude",
+            "signal": 0.72,
+            "date": "2025-10-17T17:38:44Z"
+          }
+        ]
+      }
+    ]
+  }
+}
