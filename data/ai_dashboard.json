@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Real-time voice + vision (2025-10-17)",
+          "whats_new": "OpenAI suspends MLK deepfakes on Sora after \u2018disrespectful\u2019 videos (2025-10-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -29,11 +29,15 @@
             "cost": 65,
             "privacy": 78,
             "innovation": 92
-          }
+          },
+          "links": {
+            "news": "https://www.theverge.com/news/801539/open-ai-sora-mlk"
+          },
+          "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Extended context & doc insight (2025-10-17)",
+          "whats_new": "Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive (2025-10-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -43,11 +47,15 @@
             "cost": 70,
             "privacy": 88,
             "innovation": 85
-          }
+          },
+          "links": {
+            "news": "https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai"
+          },
+          "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Multimodal with Drive/Sheets integration (2025-10-17)",
+          "whats_new": "Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation (Alex Heath/Sources) (2025-10-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -57,7 +65,11 @@
             "cost": 68,
             "privacy": 76,
             "innovation": 83
-          }
+          },
+          "links": {
+            "news": "http://www.techmeme.com/251017/p29#a251017p29"
+          },
+          "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
@@ -71,7 +83,8 @@
             "cost": 85,
             "privacy": 82,
             "innovation": 78
-          }
+          },
+          "total": 80.9
         }
       ]
     },
@@ -81,7 +94,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "Cinematic realism & motion continuity (2025-10-17)",
+          "whats_new": "The Sora feed philosophy (2025-09-30)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -91,21 +104,11 @@
             "cost": 60,
             "privacy": 75,
             "innovation": 95
-          }
-        },
-        {
-          "tool": "Pika 1.5",
-          "whats_new": "Camera motion and style control (2025-10-17)",
-          "best_used_for": "Marketing, storytelling",
-          "pro": "Fast iteration and creative control",
-          "con": "Limited duration/resolution",
-          "scores": {
-            "popularity": 78,
-            "performance": 80,
-            "cost": 72,
-            "privacy": 74,
-            "innovation": 82
-          }
+          },
+          "links": {
+            "news": "https://openai.com/index/sora-feed-philosophy"
+          },
+          "total": 87.0
         },
         {
           "tool": "Runway Gen-2",
@@ -119,7 +122,23 @@
             "cost": 62,
             "privacy": 74,
             "innovation": 80
-          }
+          },
+          "total": 78.65
+        },
+        {
+          "tool": "Pika 1.5",
+          "whats_new": "Camera motion and style control (2025-10-17)",
+          "best_used_for": "Marketing, storytelling",
+          "pro": "Fast iteration and creative control",
+          "con": "Limited duration/resolution",
+          "scores": {
+            "popularity": 78,
+            "performance": 80,
+            "cost": 72,
+            "privacy": 74,
+            "innovation": 82
+          },
+          "total": 78.1
         }
       ]
     },
@@ -139,11 +158,12 @@
             "cost": 68,
             "privacy": 76,
             "innovation": 83
-          }
+          },
+          "total": 83.1
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Full-song text-to-music (2025-10-17)",
+          "whats_new": "Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR (Bloomberg) (2025-10-17)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -153,7 +173,11 @@
             "cost": 70,
             "privacy": 72,
             "innovation": 86
-          }
+          },
+          "links": {
+            "news": "http://www.techmeme.com/251017/p33#a251017p33"
+          },
+          "total": 79.6
         },
         {
           "tool": "Play.ht v2",
@@ -167,7 +191,8 @@
             "cost": 72,
             "privacy": 74,
             "innovation": 78
-          }
+          },
+          "total": 75.8
         }
       ]
     },
@@ -177,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Improved tools & actions (2025-10-17)",
+          "whats_new": "Plex Coffee delivers fast service and personal connections with ChatGPT Business (2025-10-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -187,7 +212,11 @@
             "cost": 70,
             "privacy": 78,
             "innovation": 84
-          }
+          },
+          "links": {
+            "news": "https://openai.com/index/plex-coffee"
+          },
+          "total": 84.1
         },
         {
           "tool": "Anthropic Computer Use",
@@ -201,7 +230,8 @@
             "cost": 72,
             "privacy": 86,
             "innovation": 86
-          }
+          },
+          "total": 77.7
         },
         {
           "tool": "CrewAI / AutoGen",
@@ -215,7 +245,8 @@
             "cost": 80,
             "privacy": 82,
             "innovation": 82
-          }
+          },
+          "total": 75.2
         }
       ]
     },
@@ -235,7 +266,8 @@
             "cost": 72,
             "privacy": 78,
             "innovation": 82
-          }
+          },
+          "total": 84.0
         },
         {
           "tool": "Cursor IDE",
@@ -249,7 +281,8 @@
             "cost": 74,
             "privacy": 76,
             "innovation": 82
-          }
+          },
+          "total": 78.2
         },
         {
           "tool": "Replit Agent",
@@ -263,7 +296,8 @@
             "cost": 78,
             "privacy": 74,
             "innovation": 78
-          }
+          },
+          "total": 74.7
         }
       ]
     }
