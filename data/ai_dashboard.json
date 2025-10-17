@@ -1,140 +1,118 @@
 {
-  "news": [
+  "generated_at": "2025-10-17T19:23:14Z",
+  "top_news": [
     {
-      "title": "OpenAI ships new context window for flagship model",
-      "url": "#",
-      "published_at": "2025-10-16",
-      "source": "OpenAI Blog"
+      "id": "cb97aa36568dc799",
+      "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:19:00Z",
+      "summary": "",
+      "score": 0.7448
     },
     {
-      "title": "Anthropic updates Claude with tool-use boosts",
-      "url": "#",
-      "published_at": "2025-10-15",
-      "source": "Anthropic"
+      "id": "a615e35ab3464108",
+      "title": "Father's disappearance exposes shocking affair and murder plot",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:18:00Z",
+      "summary": "",
+      "score": 0.7443
     },
     {
-      "title": "Google announces Gemini upgrades for code",
-      "url": "#",
-      "published_at": "2025-10-14",
-      "source": "Google AI"
+      "id": "d718fefc2d20220c",
+      "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:10:00Z",
+      "summary": "",
+      "score": 0.7402
+    },
+    {
+      "id": "bbb18e0c9f0baa73",
+      "title": "Edison High School students’ faces to be featured on RTS buses for making positive choices",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.whec.com%2ftop-news%2fedison-high-school-students-faces-to-be-featured-on-rts-buses-for-making-positive-choices%2f&c=5739243222539602768&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:08:00Z",
+      "summary": "",
+      "score": 0.7391
+    },
+    {
+      "id": "6a1408bf306f580c",
+      "title": "The Stock Market Survives a Bank Scare. There’s Too Much Riding on This Bull.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.barrons.com%2farticles%2fstock-market-survives-bank-scare-73eb4419&c=5083485850401163302&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:05:00Z",
+      "summary": "",
+      "score": 0.7376
     }
   ],
   "leaderboard": {
-    "llm": [
+    "LLM/Text": [
       {
-        "name": "GPT\u20115 Thinking",
-        "whats_new": {
-          "text": "Expanded reasoning + lower latency",
-          "date": "2025-10-16"
+        "label": "Meta",
+        "score_total": 0.349,
+        "scores": {
+          "popularity": 0.872,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
         },
-        "best_for": "Complex reasoning, planning",
-        "pro_con": "Pro: strong tool-use \u2022 Con: cost"
+        "examples": [
+          {
+            "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:19:00Z"
+          }
+        ],
+        "whats_new": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+        "whats_new_date": "2025-10-17T12:19:00Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": null,
+        "main_con": null
       },
       {
-        "name": "Claude 3.7 Opus",
-        "whats_new": {
-          "text": "Longer context + agents",
-          "date": "2025-10-15"
+        "label": "Other",
+        "score_total": 0.3489,
+        "scores": {
+          "popularity": 0.872,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
         },
-        "best_for": "Summarization, safety\u2011critical",
-        "pro_con": "Pro: steerability \u2022 Con: rate limits"
-      },
-      {
-        "name": "Gemini 2.0 Flash",
-        "whats_new": {
-          "text": "Cheaper tier refresh",
-          "date": "2025-10-14"
-        },
-        "best_for": "High\u2011volume Q&A",
-        "pro_con": "Pro: price \u2022 Con: edge cases"
+        "examples": [
+          {
+            "title": "Father's disappearance exposes shocking affair and murder plot",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:18:00Z"
+          },
+          {
+            "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:10:00Z"
+          },
+          {
+            "title": "Edison High School students’ faces to be featured on RTS buses for making positive choices",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f297a28e0249028e4cfbe3c6c0d464&url=https%3a%2f%2fwww.whec.com%2ftop-news%2fedison-high-school-students-faces-to-be-featured-on-rts-buses-for-making-positive-choices%2f&c=5739243222539602768&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:08:00Z"
+          }
+        ],
+        "whats_new": "Father's disappearance exposes shocking affair and murder plot",
+        "whats_new_date": "2025-10-17T12:18:00Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": null,
+        "main_con": null
       }
     ],
-    "multimodal": [
-      {
-        "name": "Sora 2",
-        "whats_new": {
-          "text": "Higher fidelity video",
-          "date": "2025-10-10"
-        },
-        "best_for": "Video generation",
-        "pro_con": "Pro: realism \u2022 Con: compute"
-      },
-      {
-        "name": "Gemini VEO 2",
-        "whats_new": {
-          "text": "Storyboard -> video",
-          "date": "2025-10-09"
-        },
-        "best_for": "Storyboards to clips",
-        "pro_con": "Pro: workflows \u2022 Con: artifacts"
-      },
-      {
-        "name": "Pika Ultra",
-        "whats_new": {
-          "text": "New motion controls",
-          "date": "2025-10-05"
-        },
-        "best_for": "Fast social clips",
-        "pro_con": "Pro: speed \u2022 Con: detail"
-      }
-    ],
-    "code": [
-      {
-        "name": "Copilot Enterprise",
-        "whats_new": {
-          "text": "Repo-aware chat",
-          "date": "2025-10-12"
-        },
-        "best_for": "PRs, code review",
-        "pro_con": "Pro: GitHub native \u2022 Con: org setup"
-      },
-      {
-        "name": "Cursor + Claude",
-        "whats_new": {
-          "text": "Inline tool use",
-          "date": "2025-10-11"
-        },
-        "best_for": "Greenfield coding",
-        "pro_con": "Pro: edits \u2022 Con: vendor limits"
-      },
-      {
-        "name": "Code Llama 2",
-        "whats_new": {
-          "text": "Better finetunes",
-          "date": "2025-10-08"
-        },
-        "best_for": "On\u2011prem coding",
-        "pro_con": "Pro: open \u2022 Con: quality spread"
-      }
-    ],
-    "agents": [
-      {
-        "name": "OpenAI Automations",
-        "whats_new": {
-          "text": "Multi\u2011event orchestration",
-          "date": "2025-10-13"
-        },
-        "best_for": "Workflows & reminders",
-        "pro_con": "Pro: easy \u2022 Con: platform bound"
-      },
-      {
-        "name": "LangGraph Cloud",
-        "whats_new": {
-          "text": "Tracing & evals",
-          "date": "2025-10-12"
-        },
-        "best_for": "Agent backends",
-        "pro_con": "Pro: observability \u2022 Con: cost"
-      },
-      {
-        "name": "CrewAI",
-        "whats_new": {
-          "text": "New role templates",
-          "date": "2025-10-06"
-        },
-        "best_for": "Multi\u2011agent tasks",
-        "pro_con": "Pro: flexible \u2022 Con: glue code"
-      }
-    ]
+    "Image/Vision": [],
+    "Video/Motion": [],
+    "Audio/Music": [],
+    "Multi-Modal/Agentic": []
   }
 }
