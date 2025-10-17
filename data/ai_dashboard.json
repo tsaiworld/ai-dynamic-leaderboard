@@ -1,94 +1,50 @@
 {
-  "generated_at": "2025-10-17T21:18:34Z",
-  "top_news": [
+  "news": [
     {
-      "id": "c72ffbd2de5bc802",
       "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
-      "source": "Bing RSS",
       "published_at": "2025-10-17T14:08:00Z",
-      "summary": "",
-      "score": 0.7416
+      "source": "Bing RSS"
     },
     {
-      "id": "6271c525f234d697",
       "title": "How to watch WWE Friday Night SmackDown! today: Free live stream",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
-      "source": "Bing RSS",
       "published_at": "2025-10-17T14:05:00Z",
-      "summary": "",
-      "score": 0.74
+      "source": "Bing RSS"
     },
     {
-      "id": "b920a56c09cddd2a",
       "title": "Bog Walk Gorge impassable",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
-      "source": "Bing RSS",
       "published_at": "2025-10-17T14:03:00Z",
-      "summary": "",
-      "score": 0.739
+      "source": "Bing RSS"
     },
     {
-      "id": "446fa8c9e97663a6",
       "title": "How GLP-1 Medications Are Changing Consumer Behavior",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fhbr.org%2f%3fterm%3dHow%2bmouch%253F&c=16871189864638699076&mkt=en-us",
-      "source": "Bing RSS",
       "published_at": "2025-10-17T13:58:00Z",
-      "summary": "",
-      "score": 0.7364
+      "source": "Bing RSS"
     },
     {
-      "id": "ee49e461eb594442",
       "title": "TSMC accelerates Arizona expansion, eyes second land purchase for AI chip production",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.abc15.com%2fnews%2fbusiness%2ftsmc-accelerates-arizona-expansion-eyes-second-land-purchase-for-ai-chip-production&c=17724186240530745091&mkt=en-us",
-      "source": "Bing RSS",
       "published_at": "2025-10-17T13:57:00Z",
-      "summary": "",
-      "score": 0.7359
+      "source": "Bing RSS"
     }
   ],
   "leaderboard": {
-    "LLM/Text": [
+    "llm": [
       {
-        "label": "Other",
-        "score_total": 0.3483,
-        "scores": {
-          "popularity": 0.871,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
+        "name": "Other",
+        "whats_new": {
+          "text": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
+          "date": "2025-10-17T14:08:00Z"
         },
-        "examples": [
-          {
-            "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:08:00Z"
-          },
-          {
-            "title": "How to watch WWE Friday Night SmackDown! today: Free live stream",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.syracuse.com%2ftv%2f2025%2f10%2fhow-to-watch-wwe-friday-night-smackdown-today-free-live-stream.html&c=6544000913400012094&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:05:00Z"
-          },
-          {
-            "title": "Bog Walk Gorge impassable",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b2aacb9a481d84a1ce612fc3499e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2025%2f10%2f17%2fbog-walk-gorge-impassable-20251017-2059-531162%2f&c=5788216205388199945&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:03:00Z"
-          }
-        ],
-        "whats_new": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-        "whats_new_date": "2025-10-17T14:08:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "best_for": "Orchestration & tool-use",
+        "pro_con": "Pro: \u2014 \u2022 Con: \u2014"
       }
     ],
-    "Image/Vision": [],
-    "Video/Motion": [],
-    "Audio/Music": [],
-    "Multi-Modal/Agentic": []
+    "multimodal": [],
+    "code": [],
+    "agents": []
   }
 }
