@@ -1,94 +1,271 @@
 {
-  "generated_at": "2025-10-17T21:46:49Z",
-  "top_news": [
-    {
-      "id": "d2270b3ac6cba142",
-      "title": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.businessinsider.com%2fcore-scientific-shareholder-oppose-coreweave-takeover-bid-2025-10&c=13146886341141653439&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:45:00Z",
-      "summary": "",
-      "score": 0.7461
+  "meta": {
+    "title": "AI Dynamic Leaderboard",
+    "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
+    "last_updated": "2025-10-17",
+    "weights": {
+      "popularity": 0.4,
+      "performance": 0.25,
+      "cost": 0.1,
+      "privacy": 0.1,
+      "innovation": 0.15
     },
+    "notes": "Scores are 0-100 per dimension. Total score = weighted sum. Ranks auto-generated per category."
+  },
+  "categories": [
     {
-      "id": "ff88278115f1ea69",
-      "title": "AI in Accounting: Automate More, Worry Less",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.techrepublic.com%2farticle%2faccounting-ai-playbook-2025%2f&c=3845440817925386984&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:45:00Z",
-      "summary": "",
-      "score": 0.7461
-    },
-    {
-      "id": "90fa6fd832659664",
-      "title": "Is Nebius Group a Millionaire-Maker Stock?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2fis-nebius-group-a-millionaire-maker-stock%2f&c=7073805752471140030&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:43:00Z",
-      "summary": "",
-      "score": 0.745
-    },
-    {
-      "id": "766602b8912e9e85",
-      "title": "How nervous are investors about the stock market?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.bbc.co.uk%2fnews%2farticles%2fcq502xl53xqo&c=14164852029819909725&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:40:00Z",
-      "summary": "",
-      "score": 0.7435
-    },
-    {
-      "id": "f28efb212838c1c2",
-      "title": "Roundtable discussion reveals exhaustion, fear, and anxiety among Latino workforce due to immigration policies",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.whec.com%2ftop-news%2froundtable-discussion-reveals-exhaustion-fear-and-anxiety-among-latino-workforce-due-to-immigration-policies%2f&c=13186303437922240157&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:40:00Z",
-      "summary": "",
-      "score": 0.7435
-    }
-  ],
-  "leaderboard": {
-    "LLM/Text": [
-      {
-        "label": "Other",
-        "score_total": 0.3492,
-        "scores": {
-          "popularity": 0.873,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
-        },
-        "examples": [
-          {
-            "title": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.businessinsider.com%2fcore-scientific-shareholder-oppose-coreweave-takeover-bid-2025-10&c=13146886341141653439&mkt=en-us",
-            "signal": 0.75,
-            "date": "2025-10-17T14:45:00Z"
-          },
-          {
-            "title": "AI in Accounting: Automate More, Worry Less",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.techrepublic.com%2farticle%2faccounting-ai-playbook-2025%2f&c=3845440817925386984&mkt=en-us",
-            "signal": 0.75,
-            "date": "2025-10-17T14:45:00Z"
-          },
-          {
-            "title": "Is Nebius Group a Millionaire-Maker Stock?",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b9494cfe4cfe8faa54a2644ea8c0&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2fis-nebius-group-a-millionaire-maker-stock%2f&c=7073805752471140030&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:43:00Z"
+      "id": "llm",
+      "name": "LLM / Text",
+      "entries": [
+        {
+          "tool": "GPT-4o (OpenAI)",
+          "whats_new": "Real-time voice + vision (2025-10-17)",
+          "best_used_for": "Enterprise chat, agents, reasoning",
+          "pro": "Best-in-class reasoning and ecosystem integrations",
+          "con": "Closed ecosystem & variable pricing",
+          "scores": {
+            "popularity": 92,
+            "performance": 95,
+            "cost": 65,
+            "privacy": 78,
+            "innovation": 92
           }
-        ],
-        "whats_new": "A $5 billion deal key to CoreWeave's AI empire just lost another investor's support",
-        "whats_new_date": "2025-10-17T14:45:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
-      }
-    ],
-    "Image/Vision": [],
-    "Video/Motion": [],
-    "Audio/Music": [],
-    "Multi-Modal/Agentic": []
-  }
+        },
+        {
+          "tool": "Claude 3.5 (Anthropic)",
+          "whats_new": "Extended context & doc insight (2025-10-17)",
+          "best_used_for": "Research, doc analysis, coding help",
+          "pro": "Very long context & high safety",
+          "con": "Limited integration surface vs competitors",
+          "scores": {
+            "popularity": 84,
+            "performance": 92,
+            "cost": 70,
+            "privacy": 88,
+            "innovation": 85
+          }
+        },
+        {
+          "tool": "Gemini 1.5 Pro (Google)",
+          "whats_new": "Multimodal with Drive/Sheets integration (2025-10-17)",
+          "best_used_for": "Business workflows & search-integrated tasks",
+          "pro": "Tight Google Workspace integration",
+          "con": "API pricing complexity",
+          "scores": {
+            "popularity": 86,
+            "performance": 88,
+            "cost": 68,
+            "privacy": 76,
+            "innovation": 83
+          }
+        },
+        {
+          "tool": "Llama 3.1 (Meta)",
+          "whats_new": "Open weights refresh (2025-10-17)",
+          "best_used_for": "Custom/private deployments",
+          "pro": "Open-source, flexible hosting",
+          "con": "Tuning/inference ops burden",
+          "scores": {
+            "popularity": 80,
+            "performance": 82,
+            "cost": 85,
+            "privacy": 82,
+            "innovation": 78
+          }
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "name": "Video",
+      "entries": [
+        {
+          "tool": "Sora (OpenAI)",
+          "whats_new": "Cinematic realism & motion continuity (2025-10-17)",
+          "best_used_for": "Ad creatives, concept films",
+          "pro": "Unmatched realism (demo)",
+          "con": "Limited public availability",
+          "scores": {
+            "popularity": 90,
+            "performance": 93,
+            "cost": 60,
+            "privacy": 75,
+            "innovation": 95
+          }
+        },
+        {
+          "tool": "Pika 1.5",
+          "whats_new": "Camera motion and style control (2025-10-17)",
+          "best_used_for": "Marketing, storytelling",
+          "pro": "Fast iteration and creative control",
+          "con": "Limited duration/resolution",
+          "scores": {
+            "popularity": 78,
+            "performance": 80,
+            "cost": 72,
+            "privacy": 74,
+            "innovation": 82
+          }
+        },
+        {
+          "tool": "Runway Gen-2",
+          "whats_new": "Motion brush & text-to-video (2025-10-17)",
+          "best_used_for": "Creator workflows",
+          "pro": "Strong video editing suite",
+          "con": "Expensive at scale",
+          "scores": {
+            "popularity": 82,
+            "performance": 81,
+            "cost": 62,
+            "privacy": 74,
+            "innovation": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "name": "Audio / Voice",
+      "entries": [
+        {
+          "tool": "ElevenLabs v3",
+          "whats_new": "Multilingual cloning updates (2025-10-17)",
+          "best_used_for": "Dubbing, audiobooks, podcasts",
+          "pro": "Natural prosody and voice variety",
+          "con": "Costs rise for long content",
+          "scores": {
+            "popularity": 85,
+            "performance": 89,
+            "cost": 68,
+            "privacy": 76,
+            "innovation": 83
+          }
+        },
+        {
+          "tool": "Sun\u014d v3",
+          "whats_new": "Full-song text-to-music (2025-10-17)",
+          "best_used_for": "Music generation, jingles",
+          "pro": "Incredible creativity & speed",
+          "con": "Editing granularity limited",
+          "scores": {
+            "popularity": 80,
+            "performance": 82,
+            "cost": 70,
+            "privacy": 72,
+            "innovation": 86
+          }
+        },
+        {
+          "tool": "Play.ht v2",
+          "whats_new": "Real-time TTS API (2025-10-17)",
+          "best_used_for": "Developer TTS, narrations",
+          "pro": "Developer-first platform",
+          "con": "Occasional robotic timbre",
+          "scores": {
+            "popularity": 75,
+            "performance": 78,
+            "cost": 72,
+            "privacy": 74,
+            "innovation": 78
+          }
+        }
+      ]
+    },
+    {
+      "id": "agentic",
+      "name": "Agentic AI",
+      "entries": [
+        {
+          "tool": "OpenAI GPTs / Assistants",
+          "whats_new": "Improved tools & actions (2025-10-17)",
+          "best_used_for": "No-code assistants, automation",
+          "pro": "Simple to stand up",
+          "con": "Limited autonomy & connectors",
+          "scores": {
+            "popularity": 88,
+            "performance": 86,
+            "cost": 70,
+            "privacy": 78,
+            "innovation": 84
+          }
+        },
+        {
+          "tool": "Anthropic Computer Use",
+          "whats_new": "Autonomous computer actions (2025-10-17)",
+          "best_used_for": "Task execution & RPA-like flows",
+          "pro": "Safety-first design",
+          "con": "Preview/limited availability",
+          "scores": {
+            "popularity": 70,
+            "performance": 84,
+            "cost": 72,
+            "privacy": 86,
+            "innovation": 86
+          }
+        },
+        {
+          "tool": "CrewAI / AutoGen",
+          "whats_new": "Multi-agent orchestration improvements (2025-10-17)",
+          "best_used_for": "AI team coordination",
+          "pro": "High flexibility for devs",
+          "con": "Setup/ops complexity",
+          "scores": {
+            "popularity": 68,
+            "performance": 78,
+            "cost": 80,
+            "privacy": 82,
+            "innovation": 82
+          }
+        }
+      ]
+    },
+    {
+      "id": "devprod",
+      "name": "Development / Productivity",
+      "entries": [
+        {
+          "tool": "GitHub Copilot Workspace",
+          "whats_new": "Context-aware code reasoning (2025-10-17)",
+          "best_used_for": "Daily coding in IDE",
+          "pro": "Deep IDE integration",
+          "con": "Team licensing costs",
+          "scores": {
+            "popularity": 88,
+            "performance": 86,
+            "cost": 72,
+            "privacy": 78,
+            "innovation": 82
+          }
+        },
+        {
+          "tool": "Cursor IDE",
+          "whats_new": "Pair-programming improvements (2025-10-17)",
+          "best_used_for": "Full-stack prototyping",
+          "pro": "Fast iteration & UX",
+          "con": "Smaller plugin ecosystem",
+          "scores": {
+            "popularity": 76,
+            "performance": 82,
+            "cost": 74,
+            "privacy": 76,
+            "innovation": 82
+          }
+        },
+        {
+          "tool": "Replit Agent",
+          "whats_new": "Build & deploy assistants (2025-10-17)",
+          "best_used_for": "Small apps & PoCs",
+          "pro": "All-in-one environment",
+          "con": "Limited enterprise controls",
+          "scores": {
+            "popularity": 72,
+            "performance": 76,
+            "cost": 78,
+            "privacy": 74,
+            "innovation": 78
+          }
+        }
+      ]
+    }
+  ]
 }
