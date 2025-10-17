@@ -1,51 +1,60 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AI Leaderboard & Top News</title>
-  <meta name="description" content="Live AI leaderboard and Top-5 AI news, refreshed daily." />
-  <link rel="stylesheet" href="assets/styles.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Daily Report</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: Inter, sans-serif; background:#0b0d10; color:#e9eef6; margin:0; padding:20px; }
+    table { border-collapse:collapse; width:100%; margin-bottom:20px; }
+    th, td { border:1px solid #1f2a37; padding:8px 10px; text-align:left; }
+    th { background:#12161c; color:#9fb0c3; }
+    tr:nth-child(even) { background:#0f141a; }
+    .rank { width:50px; font-weight:bold; text-align:center; }
+  </style>
 </head>
 <body>
-  <header class="container header">
-    <h1>AI Leaderboard <span class="badge">Live</span></h1>
-    <p class="subtitle">Updated daily at 8:00 AM America/Chicago</p>
-    <div class="meta">
-      <button id="refreshBtn" class="btn">Refresh</button>
-      <span id="lastUpdated" class="muted">Loading…</span>
-    </div>
-  </header>
-
-  <main class="container grid">
-    <section class="card">
-      <h2>Top 5 AI News</h2>
-      <ol id="newsList" class="list"></ol>
-    </section>
-
-    <section class="card">
-      <h2>Leaderboard</h2>
-      <div class="legend" id="legend"></div>
-
-      <!-- column headers -->
-      <div class="lb-head row row-grid">
-        <div class="col rank">#</div>
-        <div class="col label">Company</div>
-        <div class="col score">Score</div>
-        <div class="col whatsnew">What’s new (date)</div>
-        <div class="col bestfor">Best used for</div>
-        <div class="col procon">Main pro / con</div>
-      </div>
-
-      <div id="leaderboard"></div>
-    </section>
-  </main>
-
-  <footer class="container footer">
-    <p>Data source: <code>/data/ai_dashboard.json</code></p>
-    <p><small>&copy; <span id="year"></span> Project Opportunity — AI Consulting</small></p>
-  </footer>
-
-  <script src="assets/app.js"></script>
+  <h1>AI Daily Report</h1>
+  <h2>Top News</h2>
+  <ul id="newsList"></ul>
+  <h2>Leaderboards (Top 3 per Category)</h2>
+  <div id="boards"></div>
+  <script>
+    async function loadData() {
+      const res = await fetch('data/ai_dashboard.json', { cache: 'no-store' });
+      const data = await res.json();
+      render(data);
+    }
+    function render(data) {
+      const newsList = document.getElementById('newsList');
+      data.news.forEach(n => {
+        const li = document.createElement('li');
+        li.textContent = n.title + ' — ' + n.source;
+        newsList.appendChild(li);
+      });
+      const boards = document.getElementById('boards');
+      for (const [cat, items] of Object.entries(data.leaderboard)) {
+        const table = document.createElement('table');
+        const thead = document.createElement('thead');
+        thead.innerHTML = '<tr><th>Rank</th><th>Model</th><th>What\'s new</th><th>Best used for</th><th>Main pro/con</th></tr>';
+        table.appendChild(thead);
+        const tbody = document.createElement('tbody');
+        items.slice(0,3).forEach((r,i) => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `<td class='rank'>${i+1}</td><td>${r.name}</td><td>${r.whats_new.text}</td><td>${r.best_for}</td><td>${r.pro_con}</td>`;
+          tbody.appendChild(tr);
+        });
+        table.appendChild(tbody);
+        const h3 = document.createElement('h3');
+        h3.textContent = cat.toUpperCase();
+        boards.appendChild(h3);
+        boards.appendChild(table);
+      }
+    }
+    loadData();
+  </script>
 </body>
 </html>
