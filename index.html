@@ -1,51 +1,142 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AI Leaderboard & Top News</title>
-  <meta name="description" content="Live AI leaderboard and Top-5 AI news, refreshed daily." />
-  <link rel="stylesheet" href="assets/styles.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Daily Report — Live</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b0d10; --panel:#12161c; --panel2:#0f1318; --text:#e9eef6;
+      --muted:#9fb0c3; --border:#1f2a37;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:#0b0d10;color:#e9eef6}
+    .container{max-width:1100px;margin:24px auto 80px;padding:0 16px}
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px;border:1px solid var(--border);border-radius:16px;background:linear-gradient(180deg,var(--panel),var(--panel2))}
+    h1{margin:0;font-size:clamp(22px,2.6vw,32px)}
+    .sub{color:var(--muted);font-size:14px}
+    .badge{display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border-radius:999px;background:#0b2736;color:#bfe9ff;border:1px solid #12364d;font-weight:600}
+    .stack{display:grid;grid-template-columns:1fr;gap:16px;margin-top:16px}
+    .news,.card{border:1px solid var(--border);border-radius:16px;padding:16px;background:#0e141b}
+    .news h2{margin:4px 0 12px;font-size:18px}
+    .news-list{display:grid;gap:10px}
+    .news-item{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;padding:12px;border:1px solid var(--border);border-radius:12px;background:#0c1218}
+    .news-date{font-size:12px;color:#9dd5ff;padding:4px 8px;border:1px solid #1b3d55;background:#0a2333;border-radius:8px;white-space:nowrap}
+    .news-title{margin:0;font-weight:600}
+    .news-src{color:var(--muted);font-size:12px;margin-top:4px}
+    .card h3{margin:0 0 8px;font-size:16px;display:flex;align-items:center;gap:10px}
+    table{width:100%;border-collapse:separate;border-spacing:0 8px}
+    thead th{color:var(--muted);text-align:left;font-size:12px;padding:0 10px}
+    tr{background:#0b131a}
+    td,th{padding:10px;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+    td:first-child{border-left:1px solid var(--border);border-top-left-radius:10px;border-bottom-left-radius:10px}
+    td:last-child{border-right:1px solid var(--border);border-top-right-radius:10px;border-bottom-right-radius:10px}
+    .rank{font-weight:700;width:56px;text-align:center}
+    .rank.gold{color:#ffe38e}.rank.silver{color:#cbd5e1}.rank.bronze{color:#f7ad6b}
+    .model{font-weight:600}
+    .pill{font-size:12px;color:#a8b5c2;padding:4px 8px;border:1px solid var(--border);background:#0b1218;border-radius:999px}
+    footer{margin-top:20px;text-align:center;color:var(--muted);font-size:12px}
+  </style>
 </head>
 <body>
-  <header class="container header">
-    <h1>AI Leaderboard <span class="badge">Live</span></h1>
-    <p class="subtitle">Updated daily at 8:00 AM America/Chicago</p>
-    <div class="meta">
-      <button id="refreshBtn" class="btn">Refresh</button>
-      <span id="lastUpdated" class="muted">Loading…</span>
-    </div>
-  </header>
-
-  <main class="container grid">
-    <section class="card">
-      <h2>Top 5 AI News</h2>
-      <ol id="newsList" class="list"></ol>
-    </section>
-
-    <section class="card">
-      <h2>Leaderboard</h2>
-      <div class="legend" id="legend"></div>
-
-      <!-- column headers -->
-      <div class="lb-head row row-grid">
-        <div class="col rank">#</div>
-        <div class="col label">Company</div>
-        <div class="col score">Score</div>
-        <div class="col whatsnew">What’s new (date)</div>
-        <div class="col bestfor">Best used for</div>
-        <div class="col procon">Main pro / con</div>
+  <div class="container">
+    <header>
+      <div>
+        <h1>AI Daily Report — Live</h1>
+        <div class="sub">Top news (publish dates) and full-width leaderboards (Top 3 each)</div>
       </div>
+      <div class="badge" id="reportDate">📅 <span></span></div>
+    </header>
 
-      <div id="leaderboard"></div>
-    </section>
-  </main>
+    <div class="stack">
+      <section class="news">
+        <h2>Top News</h2>
+        <div class="news-list" id="newsList"></div>
+        <div class="news-src" style="margin-top:8px">Sources: OpenAI, Anthropic, Google, Meta, major tech outlets.</div>
+      </section>
 
-  <footer class="container footer">
-    <p>Data source: <code>/data/ai_dashboard.json</code></p>
-    <p><small>&copy; <span id="year"></span> Project Opportunity — AI Consulting</small></p>
-  </footer>
+      <section class="card">
+        <h3>LLM / Text <span class="pill">Top 3</span></h3>
+        <table id="lb-llm"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+      </section>
 
-  <script src="assets/app.js"></script>
+      <section class="card">
+        <h3>Multimodal <span class="pill">Top 3</span></h3>
+        <table id="lb-multi"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+      </section>
+
+      <section class="card">
+        <h3>Code / Dev <span class="pill">Top 3</span></h3>
+        <table id="lb-code"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+      </section>
+
+      <section class="card">
+        <h3>Agents / Tools <span class="pill">Top 3</span></h3>
+        <table id="lb-agents"><thead><tr><th>Rank</th><th>Model</th><th>What's new</th><th>Best used for</th><th>Main pro / con</th></tr></thead><tbody></tbody></table>
+      </section>
+    </div>
+
+    <footer>If <code>data/ai_dashboard.json</code> exists, this page will load it; otherwise it shows a built-in sample.</footer>
+  </div>
+
+  <script>
+    const el = (s, r=document)=>r.querySelector(s);
+    const fmt = (d)=> new Date(d).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'2-digit'});
+
+    async function loadData(){
+      try{
+        const res = await fetch('data/ai_dashboard.json',{cache:'no-store'});
+        if(!res.ok) throw new Error('no json');
+        return await res.json();
+      }catch(e){ return SAMPLE; }
+    }
+
+    function renderNews(list){
+      const wrap = el('#newsList'); wrap.innerHTML='';
+      const sorted=[...list].sort((a,b)=> new Date(b.published_at||b.date)-new Date(a.published_at||a.date));
+      sorted.forEach(n=>{
+        const date=n.published_at||n.date||new Date().toISOString();
+        const src=n.source||n.domain||'';
+        const item=document.createElement('div'); item.className='news-item';
+        item.innerHTML = `
+          <div class="news-date">\${fmt(date)}</div>
+          <div>
+            <p class="news-title"><a href="\${n.url||'#'}" target="_blank" rel="noopener noreferrer">\${n.title||'Untitled'}</a></p>
+            <div class="news-src">\${src}</div>
+          </div>`;
+        wrap.appendChild(item);
+      })
+    }
+
+    function renderLB(tbody, entries){
+      tbody.innerHTML='';
+      entries.slice(0,3).forEach((row,i)=>{
+        const tr=document.createElement('tr');
+        const rankCls=i===0?'gold':i===1?'silver':'bronze';
+        tr.innerHTML=`
+          <td class="rank \${rankCls}">\${i===0?'🥇 1st':i===1?'🥈 2nd':'🥉 3rd'}</td>
+          <td class="model">\${row.name}</td>
+          <td>\${row.whats_new?.text||''} <span class="pill" style="margin-left:6px;">\${row.whats_new?.date?fmt(row.whats_new.date):''}</span></td>
+          <td>\${row.best_for||''}</td>
+          <td>\${row.pro_con||''}</td>`;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function hydrate(data){
+      el('#reportDate span').textContent=new Date().toLocaleString();
+      renderNews(data.news||[]);
+      renderLB(el('#lb-llm tbody'), data.leaderboard?.llm||[]);
+      renderLB(el('#lb-multi tbody'), data.leaderboard?.multimodal||[]);
+      renderLB(el('#lb-code tbody'), data.leaderboard?.code||[]);
+      renderLB(el('#lb-agents tbody'), data.leaderboard?.agents||[]);
+    }
+
+    const SAMPLE = {"news":[],"leaderboard":{"llm":[],"multimodal":[],"code":[],"agents":[]}};
+    loadData().then(hydrate);
+  </script>
 </body>
 </html>
