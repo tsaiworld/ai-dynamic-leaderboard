@@ -48,9 +48,9 @@ jobs:
           commit_message: "chore: 8am CT dashboard refresh (news + leaderboard)"
           file_pattern: data/ai_dashboard.json
 
-          - name: Deploy to GitHub Pages
-  uses: peaceiris/actions-gh-pages@v3
-  with:
-    github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./dist
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
 
