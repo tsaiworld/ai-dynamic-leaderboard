@@ -1,307 +1,118 @@
 {
-  "generated_at": "2025-10-17T17:38:44Z",
+  "generated_at": "2025-10-17T19:26:28Z",
   "top_news": [
     {
-      "title": "OpenAI unveils new multimodal update",
-      "url": "https://example.com/a",
-      "source": "OpenAI",
-      "published_at": "2025-10-17T17:38:44Z",
-      "score": 0.92
+      "id": "ccf24ff3a0828d60",
+      "title": "College Football DFS Picks and Prop Bets For Week 8",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.thebiglead.com%2fcollege-football-dfs-picks-and-prop-bets-for-week-8%2f&c=13295422379469001572&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:24:00Z",
+      "summary": "",
+      "score": 0.7457
     },
     {
-      "title": "Google ships faster inference for Gemini",
-      "url": "https://example.com/b",
-      "source": "Google",
-      "published_at": "2025-10-17T17:38:44Z",
-      "score": 0.88
+      "id": "ab697c419f5eeb97",
+      "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:19:00Z",
+      "summary": "",
+      "score": 0.7432
     },
     {
-      "title": "Anthropic expands context window",
-      "url": "https://example.com/c",
-      "source": "Anthropic",
-      "published_at": "2025-10-17T17:38:44Z",
-      "score": 0.85
+      "id": "d2afa1788f476b88",
+      "title": "Father's disappearance exposes shocking affair and murder plot",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:18:00Z",
+      "summary": "",
+      "score": 0.7426
     },
     {
-      "title": "Meta open-sources vision encoder",
-      "url": "https://example.com/d",
-      "source": "Meta",
-      "published_at": "2025-10-17T17:38:44Z",
-      "score": 0.81
+      "id": "c3bc3a040e3e43fb",
+      "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:10:00Z",
+      "summary": "",
+      "score": 0.7385
     },
     {
-      "title": "Runway adds UHD video generation",
-      "url": "https://example.com/e",
-      "source": "Runway",
-      "published_at": "2025-10-17T17:38:44Z",
-      "score": 0.8
+      "id": "93ae04677f65c327",
+      "title": "Edison High School students’ faces to be featured on RTS buses for making positive choices",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.whec.com%2ftop-news%2fedison-high-school-students-faces-to-be-featured-on-rts-buses-for-making-positive-choices%2f&c=5739243222539602768&mkt=en-us",
+      "source": "Bing RSS",
+      "published_at": "2025-10-17T12:08:00Z",
+      "summary": "",
+      "score": 0.7375
     }
   ],
   "leaderboard": {
     "LLM/Text": [
       {
-        "label": "OpenAI",
-        "score_total": 0.84,
-        "whats_new": "GPT platform multimodal update",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Reasoning, chat, knowledge tasks",
-        "main_pro": "Strong benchmarks",
-        "main_con": "Higher cost",
+        "label": "Other",
+        "score_total": 0.3491,
+        "scores": {
+          "popularity": 0.873,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
+        },
         "examples": [
           {
-            "title": "OpenAI unveils new multimodal update",
-            "url": "https://example.com/a",
-            "signal": 0.92,
-            "date": "2025-10-17T17:38:44Z"
+            "title": "College Football DFS Picks and Prop Bets For Week 8",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.thebiglead.com%2fcollege-football-dfs-picks-and-prop-bets-for-week-8%2f&c=13295422379469001572&mkt=en-us",
+            "signal": 0.75,
+            "date": "2025-10-17T12:24:00Z"
+          },
+          {
+            "title": "Father's disappearance exposes shocking affair and murder plot",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fabc7chicago.com%2fpost%2ffathers-disappearance-exposes-shocking-affair-murder-plot%2f18025281%2f&c=9532172654061315203&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:18:00Z"
+          },
+          {
+            "title": "IShowSpeed Reveals Whether He Uses AI for Streaming",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fcelebrity%2farticles%2fishowspeed-reveals-whether-uses-ai-183028499.html&c=14503196407774500271&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:10:00Z"
           }
-        ]
+        ],
+        "whats_new": "College Football DFS Picks and Prop Bets For Week 8",
+        "whats_new_date": "2025-10-17T12:24:00Z",
+        "best_used_for": "Orchestration & tool-use",
+        "main_pro": null,
+        "main_con": null
       },
-      {
-        "label": "Anthropic",
-        "score_total": 0.78,
-        "whats_new": "Expanded context + tool-use",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Enterprise-scale reasoning",
-        "main_pro": "Long context window",
-        "main_con": "Premium pricing",
-        "examples": [
-          {
-            "title": "Anthropic expands context window",
-            "url": "https://example.com/c",
-            "signal": 0.85,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Mistral",
-        "score_total": 0.74,
-        "whats_new": "Mixtral updates",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Cost-efficient text models",
-        "main_pro": "Good perf/$",
-        "main_con": "Smaller ecosystem",
-        "examples": [
-          {
-            "title": "Mixtral v2 release",
-            "url": "https://example.com/x",
-            "signal": 0.72,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      }
-    ],
-    "Image/Vision": [
       {
         "label": "Meta",
-        "score_total": 0.73,
-        "whats_new": "Vision encoder open-sourced",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Image generation & perception",
-        "main_pro": "Open ecosystem",
-        "main_con": "Limited creative control",
+        "score_total": 0.3486,
+        "scores": {
+          "popularity": 0.872,
+          "performance": 0,
+          "cost": 0,
+          "privacy": 0,
+          "innovation": 0
+        },
         "examples": [
           {
-            "title": "Meta open-sources vision encoder",
-            "url": "https://example.com/d",
-            "signal": 0.81,
-            "date": "2025-10-17T17:38:44Z"
+            "title": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f29864f5f146e4a5f0a96ccf522beb&url=https%3a%2f%2fwww.barrons.com%2farticles%2fmeta-platforms-stock-ai-parental-controls-06a6cae2&c=12208662011969861891&mkt=en-us",
+            "signal": 0.74,
+            "date": "2025-10-17T12:19:00Z"
           }
-        ]
-      },
-      {
-        "label": "Stability AI",
-        "score_total": 0.7,
-        "whats_new": "SDXL ecosystem plugins",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Creative design, visual art",
-        "main_pro": "High-quality diffusion",
-        "main_con": "GPU heavy",
-        "examples": [
-          {
-            "title": "SDXL plug-in pack",
-            "url": "https://example.com/sdxl",
-            "signal": 0.7,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Midjourney",
-        "score_total": 0.68,
-        "whats_new": "V6 updates",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Artistic visuals",
-        "main_pro": "Strong community",
-        "main_con": "Closed ecosystem",
-        "examples": [
-          {
-            "title": "Midjourney v6 teaser",
-            "url": "https://example.com/mj",
-            "signal": 0.68,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      }
-    ],
-    "Video/Motion": [
-      {
-        "label": "Runway",
-        "score_total": 0.71,
-        "whats_new": "UHD video generation",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Video synthesis & motion effects",
-        "main_pro": "Great realism",
-        "main_con": "Subscription cost",
-        "examples": [
-          {
-            "title": "Runway adds UHD video",
-            "url": "https://example.com/e",
-            "signal": 0.8,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Pika Labs",
-        "score_total": 0.68,
-        "whats_new": "AI camera features",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Quick video prototyping",
-        "main_pro": "Fast UX",
-        "main_con": "Short clips",
-        "examples": [
-          {
-            "title": "Pika introduces AI camera",
-            "url": "https://example.com/pika",
-            "signal": 0.66,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "OpenAI (Sora)",
-        "score_total": 0.66,
-        "whats_new": "New motion capabilities",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Cinematic realism",
-        "main_pro": "High fidelity",
-        "main_con": "Closed beta",
-        "examples": [
-          {
-            "title": "Sora showcases motion",
-            "url": "https://example.com/sora",
-            "signal": 0.66,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      }
-    ],
-    "Audio/Music": [
-      {
-        "label": "ElevenLabs",
-        "score_total": 0.62,
-        "whats_new": "Emotion synthesis",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Voice, TTS, narration",
-        "main_pro": "Natural voices",
-        "main_con": "Premium pricing",
-        "examples": [
-          {
-            "title": "Emotion TTS",
-            "url": "https://example.com/11l",
-            "signal": 0.62,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Suno AI",
-        "score_total": 0.59,
-        "whats_new": "Multi-instrument support",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Music generation",
-        "main_pro": "Fun & creative",
-        "main_con": "Tuning required",
-        "examples": [
-          {
-            "title": "Suno adds instruments",
-            "url": "https://example.com/suno",
-            "signal": 0.59,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Coqui",
-        "score_total": 0.54,
-        "whats_new": "Zero-shot TTS updates",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Open-source voice",
-        "main_pro": "Open & free",
-        "main_con": "Less polished",
-        "examples": [
-          {
-            "title": "Coqui zero-shot",
-            "url": "https://example.com/coqui",
-            "signal": 0.54,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      }
-    ],
-    "Multi-Modal/Agentic": [
-      {
-        "label": "Google Gemini",
-        "score_total": 0.77,
-        "whats_new": "Faster inference",
-        "whats_new_date": "2025-10-17T17:38:44Z",
+        ],
+        "whats_new": "Meta Platforms Introduces New Parental Controls for Teen AI Use",
+        "whats_new_date": "2025-10-17T12:19:00Z",
         "best_used_for": "Orchestration & tool-use",
-        "main_pro": "Strong agent tools",
-        "main_con": "Privacy concerns",
-        "examples": [
-          {
-            "title": "Gemini speed boost",
-            "url": "https://example.com/gem",
-            "signal": 0.77,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "OpenAI GPT-4o",
-        "score_total": 0.75,
-        "whats_new": "Realtime voice + vision",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Integrated multimodal reasoning",
-        "main_pro": "Realtime UX",
-        "main_con": "Latency at scale",
-        "examples": [
-          {
-            "title": "GPT-4o demo",
-            "url": "https://example.com/4o",
-            "signal": 0.75,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
-      },
-      {
-        "label": "Claude 3.5 Sonnet",
-        "score_total": 0.72,
-        "whats_new": "Tool-use & context gains",
-        "whats_new_date": "2025-10-17T17:38:44Z",
-        "best_used_for": "Research workflows",
-        "main_pro": "Long context",
-        "main_con": "Tool limits",
-        "examples": [
-          {
-            "title": "Claude tool-use",
-            "url": "https://example.com/claude",
-            "signal": 0.72,
-            "date": "2025-10-17T17:38:44Z"
-          }
-        ]
+        "main_pro": null,
+        "main_con": null
       }
-    ]
+    ],
+    "Image/Vision": [],
+    "Video/Motion": [],
+    "Audio/Music": [],
+    "Multi-Modal/Agentic": []
   }
 }
