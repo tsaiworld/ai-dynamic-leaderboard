@@ -1,94 +1,104 @@
 {
-  "generated_at": "2025-10-17T21:39:12Z",
-  "top_news": [
+  "news": [
     {
-      "id": "a881af306b737956",
-      "title": "Oklo Stock Is Up Over 650% This Year, and the Nuclear Powerhouse Just Announced a New $2 Billion Partnership. Time to Buy?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2foklo-stock-up-650-this-year-nuclear-2-billion%2f&c=16971004918816496901&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:32:00Z",
-      "summary": "",
-      "score": 0.7433
+      "title": "OpenAI partners with Broadcom to build custom AI chips",
+      "url": "https://www.theverge.com/2025/10/13/openai-broadcom-custom-ai-chips",
+      "published_at": "2025-10-13",
+      "source": "The Verge"
     },
     {
-      "id": "65fa3562c3df66e4",
-      "title": "AI skeleton brings Halloween décor to life",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.fox5atlanta.com%2fvideo%2f1726101&c=3160398133815497010&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:20:00Z",
-      "summary": "",
-      "score": 0.7371
+      "title": "Anthropic launches Claude Haiku 4.5, faster than Sonnet",
+      "url": "https://www.tomsguide.com/ai/claude-haiku-4-5-just-launched",
+      "published_at": "2025-10-15",
+      "source": "Tom’s Guide"
     },
     {
-      "id": "5680d626c9442185",
-      "title": "The Universe Is Bending the Laws of Physics All By Itself. Could It Become Unrecognizable Someday?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.popularmechanics.com%2fscience%2fa69076047%2funiverse-bends-laws-of-physics%2f&c=12637647497062792049&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:10:00Z",
-      "summary": "",
-      "score": 0.732
-    },
-    {
-      "id": "f807bd6e6b7fb70f",
-      "title": "‘Matlock’ Fans ‘Unsettled’ by Season 2 Plot",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.aol.com%2farticles%2fmatlock-fans-unsettled-season-2-202626778.html&c=6444965024161460781&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:10:00Z",
-      "summary": "",
-      "score": 0.732
-    },
-    {
-      "id": "ee80b68e0c81fd4f",
-      "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.wsls.com%2fnews%2fnational%2f2025%2f10%2f17%2ffather-pleads-guilty-to-murder-of-missing-7-month-old-son-in-southern-california%2f&c=2596291242187170854&mkt=en-us",
-      "source": "Bing RSS",
-      "published_at": "2025-10-17T14:08:00Z",
-      "summary": "",
-      "score": 0.731
+      "title": "Microsoft debuts MAI-Image-1, its own AI image model",
+      "url": "https://www.techradar.com/ai-platforms-assistants/mai-image-1-puts-microsoft-in-the-ai-art-game",
+      "published_at": "2025-10-21",
+      "source": "TechRadar"
     }
   ],
   "leaderboard": {
-    "LLM/Text": [
+    "llm": [
       {
-        "label": "Other",
-        "score_total": 0.4,
-        "scores": {
-          "popularity": 1.0,
-          "performance": 0,
-          "cost": 0,
-          "privacy": 0,
-          "innovation": 0
-        },
-        "examples": [
-          {
-            "title": "Oklo Stock Is Up Over 650% This Year, and the Nuclear Powerhouse Just Announced a New $2 Billion Partnership. Time to Buy?",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2025%2f10%2f17%2foklo-stock-up-650-this-year-nuclear-2-billion%2f&c=16971004918816496901&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:32:00Z"
-          },
-          {
-            "title": "AI skeleton brings Halloween décor to life",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.fox5atlanta.com%2fvideo%2f1726101&c=3160398133815497010&mkt=en-us",
-            "signal": 0.74,
-            "date": "2025-10-17T14:20:00Z"
-          },
-          {
-            "title": "The Universe Is Bending the Laws of Physics All By Itself. Could It Become Unrecognizable Someday?",
-            "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=68f2b77fc34d4d98b0560e052daab603&url=https%3a%2f%2fwww.popularmechanics.com%2fscience%2fa69076047%2funiverse-bends-laws-of-physics%2f&c=12637647497062792049&mkt=en-us",
-            "signal": 0.73,
-            "date": "2025-10-17T14:10:00Z"
-          }
-        ],
-        "whats_new": "Oklo Stock Is Up Over 650% This Year, and the Nuclear Powerhouse Just Announced a New $2 Billion Partnership. Time to Buy?",
-        "whats_new_date": "2025-10-17T14:32:00Z",
-        "best_used_for": "Orchestration & tool-use",
-        "main_pro": null,
-        "main_con": null
+        "name": "GPT-5 Thinking",
+        "whats_new": { "text": "Reasoning + tool improvements", "date": "2025-10-16" },
+        "best_for": "Complex reasoning & planning",
+        "pro_con": "Pro: versatile tool-use • Con: cost"
+      },
+      {
+        "name": "Claude Haiku 4.5",
+        "whats_new": { "text": "Launched free tier version", "date": "2025-10-15" },
+        "best_for": "Fast general queries & chat",
+        "pro_con": "Pro: speed • Con: less context capacity"
+      },
+      {
+        "name": "Gemini 2.5 Pro",
+        "whats_new": { "text": "New Canvas & image handling", "date": "2025-10-10" },
+        "best_for": "Integrated Google workflows",
+        "pro_con": "Pro: ecosystem synergy • Con: API limits"
       }
     ],
-    "Image/Vision": [],
-    "Video/Motion": [],
-    "Audio/Music": [],
-    "Multi-Modal/Agentic": []
+    "multimodal": [
+      {
+        "name": "Sora 2",
+        "whats_new": { "text": "Video fidelity upgrade", "date": "2025-10-17" },
+        "best_for": "High-quality video generation",
+        "pro_con": "Pro: realism • Con: high compute"
+      },
+      {
+        "name": "Gemini Vision",
+        "whats_new": { "text": "Cross-device image context", "date": "2025-10-12" },
+        "best_for": "Image + text combo tasks",
+        "pro_con": "Pro: integration • Con: latency"
+      },
+      {
+        "name": "OpenAI Vision Model",
+        "whats_new": { "text": "Vision updates in GPT-5", "date": "2025-10-13" },
+        "best_for": "Multimodal applications",
+        "pro_con": "Pro: cross-modality • Con: early access only"
+      }
+    ],
+    "code": [
+      {
+        "name": "Copilot Enterprise",
+        "whats_new": { "text": "Repo-aware chat enhancements", "date": "2025-10-12" },
+        "best_for": "PRs, code review, assistance",
+        "pro_con": "Pro: GitHub-native • Con: org setup needed"
+      },
+      {
+        "name": "GPT-5 Codex",
+        "whats_new": { "text": "Coding-specialized model", "date": "2025-09-20" },
+        "best_for": "Code generation & automation",
+        "pro_con": "Pro: high accuracy • Con: niche specialization"
+      },
+      {
+        "name": "Claude Code",
+        "whats_new": { "text": "Inline tool support", "date": "2025-10-14" },
+        "best_for": "Mixed code & natural language tasks",
+        "pro_con": "Pro: safety features • Con: slower on large repos"
+      }
+    ],
+    "agents": [
+      {
+        "name": "OpenAI Automations",
+        "whats_new": { "text": "Multi-step orchestration launched", "date": "2025-10-13" },
+        "best_for": "Workflow & task automation",
+        "pro_con": "Pro: ease of use • Con: platform lock-in"
+      },
+      {
+        "name": "LangGraph Cloud",
+        "whats_new": { "text": "Tracing & observability features", "date": "2025-10-12" },
+        "best_for": "Agent backend & monitoring",
+        "pro_con": "Pro: graph insights • Con: cost"
+      },
+      {
+        "name": "CrewAI",
+        "whats_new": { "text": "New role templates", "date": "2025-10-06" },
+        "best_for": "Multi-agent orchestration",
+        "pro_con": "Pro: flexible • Con: glue code needed"
+      }
+    ]
   }
 }
