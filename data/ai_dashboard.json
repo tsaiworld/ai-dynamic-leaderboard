@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-17",
+    "last_updated": "2025-10-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI suspends MLK deepfakes on Sora after \u2018disrespectful\u2019 videos (2025-10-17)",
+          "whats_new": "Inside the discussions between OpenAI and talent agencies about the video app Sora; some agents say studios have been too reluctant to challenge tech giants (Winston Cho/The Hollywood Reporter) (2025-10-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/801539/open-ai-sora-mlk"
+            "news": "http://www.techmeme.com/251018/p6#a251018p6"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation (Alex Heath/Sources) (2025-10-17)",
+          "whats_new": "Google says North Korea hackers are using \"EtherHiding\" to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method (Bill Toulas/BleepingComputer) (2025-10-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251017/p29#a251017p29"
+            "news": "http://www.techmeme.com/251017/p38#a251017p38"
           },
           "total": 83.25
         },
