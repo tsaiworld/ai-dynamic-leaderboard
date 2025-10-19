@@ -27,18 +27,17 @@ jobs:
       - name: Update AI news
         run: python scripts/get_ai_news.py
 
-      - name: Recompute leaderboard scores
+      - name: Recompute leaderboard
         run: python scripts/update_leaderboard.py
 
-      - name: Commit updated data
+      - name: Commit JSON update
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: 8am CT dashboard refresh (news + leaderboard)"
           add: "data/ai_dashboard.json"
 
-      - name: Trigger GitHub Pages rebuild
+      - name: Trigger GitHub Pages rebuild (explicit)
         run: |
-          echo "Triggering GitHub Pages rebuild..."
           curl -X POST -H "Accept: application/vnd.github+json" \
-          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-          https://api.github.com/repos/${{ github.repository }}/pages/builds
+               -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+               https://api.github.com/repos/${{ github.repository }}/pages/builds
