@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-18",
+    "last_updated": "2025-10-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Inside the discussions between OpenAI and talent agencies about the video app Sora; some agents say studios have been too reluctant to challenge tech giants (Winston Cho/The Hollywood Reporter) (2025-10-18)",
+          "whats_new": "WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others (Ivan Mehta/TechCrunch) (2025-10-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251018/p6#a251018p6"
+            "news": "http://www.techmeme.com/251018/p11#a251018p11"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive (2025-10-17)",
+          "whats_new": "Are MLE roles being commoditized and squeezed? Are the jobs moving to AI engineering? [D] (2025-10-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oajofr/are_mle_roles_being_commoditized_and_squeezed_are/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google says North Korea hackers are using \"EtherHiding\" to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method (Bill Toulas/BleepingComputer) (2025-10-17)",
+          "whats_new": "Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV (Emma Beavins/Fierce Healthcare) (2025-10-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251017/p38#a251017p38"
+            "news": "http://www.techmeme.com/251019/p4#a251019p4"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Plex Coffee delivers fast service and personal connections with ChatGPT Business (2025-10-15)",
+          "whats_new": "The AI sexting era has arrived (2025-10-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/plex-coffee"
+            "news": "https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt"
           },
           "total": 84.1
         },
