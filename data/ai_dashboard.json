@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others (Ivan Mehta/TechCrunch) (2025-10-18)",
+          "whats_new": "OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference (Christopher Mims/Wall Street Journal) (2025-10-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251018/p11#a251018p11"
+            "news": "http://www.techmeme.com/251019/p11#a251019p11"
           },
           "total": 88.65
         },
