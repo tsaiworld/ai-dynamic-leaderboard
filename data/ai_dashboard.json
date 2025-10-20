@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-19",
+    "last_updated": "2025-10-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference (Christopher Mims/Wall Street Journal) (2025-10-19)",
+          "whats_new": "[D] What is the best easy-to-use, open-source framework for creating Agents that can browse the web to retrieve basic statistics on political issues? (2025-10-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251019/p11#a251019p11"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1obi9th/d_what_is_the_best_easytouse_opensource_framework/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Are MLE roles being commoditized and squeezed? Are the jobs moving to AI engineering? [D] (2025-10-19)",
+          "whats_new": "Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency (Ashley Capoot/CNBC) (2025-10-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1oajofr/are_mle_roles_being_commoditized_and_squeezed_are/"
+            "news": "http://www.techmeme.com/251020/p22#a251020p22"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV (Emma Beavins/Fierce Healthcare) (2025-10-19)",
+          "whats_new": "Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple's and Google's \"wrong decision\" to remove ICEBlock, and more (Katie Drummond/Wired) (2025-10-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251019/p4#a251019p4"
+            "news": "http://www.techmeme.com/251020/p20#a251020p20"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The AI sexting era has arrived (2025-10-19)",
+          "whats_new": "OpenEvidence, which makes an ad-supported AI chatbot for medical professionals, raised $200M at a $6B valuation, up from $3.5B after a $210M Series B in July (Michael J. de la Merced/New York Times) (2025-10-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt"
+            "news": "http://www.techmeme.com/251020/p15#a251020p15"
           },
           "total": 84.1
         },
