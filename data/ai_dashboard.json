@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[D] What is the best easy-to-use, open-source framework for creating Agents that can browse the web to retrieve basic statistics on political issues? (2025-10-20)",
+          "whats_new": "These nonprofits lobbied to regulate OpenAI \u2014 then the subpoenas came (2025-10-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1obi9th/d_what_is_the_best_easytouse_opensource_framework/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency (Ashley Capoot/CNBC) (2025-10-20)",
+          "whats_new": "Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users (Frederic Lardinois/The New Stack) (2025-10-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251020/p22#a251020p22"
+            "news": "http://www.techmeme.com/251020/p27#a251020p27"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple's and Google's \"wrong decision\" to remove ICEBlock, and more (Katie Drummond/Wired) (2025-10-20)",
+          "whats_new": "Zocdoc CEO: \u2018Dr. Google is going to be replaced by Dr. AI\u2019 (2025-10-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251020/p20#a251020p20"
+            "news": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors"
           },
           "total": 83.25
         },
