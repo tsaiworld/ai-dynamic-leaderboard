@@ -2,7 +2,7 @@ name: Refresh AI Dashboard
 
 on:
   schedule:
-    - cron: '0 13 * * *'  # 08:00 America/Chicago
+    - cron: '0 18 * * *'  # 08:00 America/Chicago
   workflow_dispatch:
 
 # Ensure GITHUB_TOKEN has the scopes we need
