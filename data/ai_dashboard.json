@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-20",
+    "last_updated": "2025-10-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "These nonprofits lobbied to regulate OpenAI \u2014 then the subpoenas came (2025-10-20)",
+          "whats_new": "Documents: OpenAI has more than 100 ex-investment bankers paid $150 per hour to train its AI to build financial models as part of its secretive Project Mercury (Omar El Chmouri/Bloomberg) (2025-10-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring"
+            "news": "http://www.techmeme.com/251021/p17#a251021p17"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users (Frederic Lardinois/The New Stack) (2025-10-20)",
+          "whats_new": "Are MLE roles being commoditized and squeezed? Are the jobs moving to AI engineering? [D] (2025-10-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251020/p27#a251020p27"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oajofr/are_mle_roles_being_commoditized_and_squeezed_are/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Zocdoc CEO: \u2018Dr. Google is going to be replaced by Dr. AI\u2019 (2025-10-20)",
+          "whats_new": "[D] ICLR 2026 Question (2025-10-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1occpmf/d_iclr_2026_question/"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "OpenEvidence, which makes an ad-supported AI chatbot for medical professionals, raised $200M at a $6B valuation, up from $3.5B after a $210M Series B in July (Michael J. de la Merced/New York Times) (2025-10-20)",
+          "whats_new": "Brian Chesky says Airbnb didn't integrate its app with ChatGPT because ChatGPT integrations aren't \"quite ready\" yet, and he advised Sam Altman on ChatGPT apps (Natalie Lung/Bloomberg) (2025-10-21)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251020/p15#a251020p15"
+            "news": "http://www.techmeme.com/251021/p15#a251021p15"
           },
           "total": 84.1
         },
