@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-21",
+    "last_updated": "2025-10-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Documents: OpenAI has more than 100 ex-investment bankers paid $150 per hour to train its AI to build financial models as part of its secretive Project Mercury (Omar El Chmouri/Bloomberg) (2025-10-21)",
+          "whats_new": "AI in Japan\u2014OpenAI\u2019s Japan Economic Blueprint (2025-10-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251021/p17#a251021p17"
+            "news": "https://openai.com/index/japan-economic-blueprint"
           },
           "total": 88.65
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Brian Chesky says Airbnb didn't integrate its app with ChatGPT because ChatGPT integrations aren't \"quite ready\" yet, and he advised Sam Altman on ChatGPT apps (Natalie Lung/Bloomberg) (2025-10-21)",
+          "whats_new": "EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems (Olivia Le Poidevin/Reuters) (2025-10-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251021/p15#a251021p15"
+            "news": "http://www.techmeme.com/251022/p11#a251022p11"
           },
           "total": 84.1
         },
