@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-23",
+    "last_updated": "2025-10-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "AI in South Korea\u2014OpenAI\u2019s Economic Blueprint (2025-10-23)",
+          "whats_new": "OpenAI made ChatGPT better at sifting through your work or school information (2025-10-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/south-korea-economic-blueprint"
+            "news": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Are MLE roles being commoditized and squeezed? Are the jobs moving to AI engineering? [D] (2025-10-19)",
+          "whats_new": "Anthropic\u2019s Claude chatbot is getting a \u2018memory\u2019 upgrade (2025-10-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1oajofr/are_mle_roles_being_commoditized_and_squeezed_are/"
+            "news": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] Un-LOCC (Universal Lossy Optical Context Compression), Achieve Up To 3\u00d7 context compression with 93.65% Accuracy. (2025-10-23)",
+          "whats_new": "Google Earth&#8217;s expanded AI features make it easier to ask it questions (2025-10-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1odzd16/r_unlocc_universal_lossy_optical_context/"
+            "news": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028 (2025-10-22)",
+          "whats_new": "Work smarter with your company knowledge in ChatGPT (2025-10-23)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous"
+            "news": "https://openai.com/index/introducing-company-knowledge"
           },
           "total": 84.1
         },
@@ -256,7 +256,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Context-aware code reasoning (2025-10-17)",
+          "whats_new": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features (2025-10-23)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -267,7 +267,10 @@
             "privacy": 78,
             "innovation": 82
           },
-          "total": 84.0
+          "total": 84.0,
+          "links": {
+            "news": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
+          }
         },
         {
           "tool": "Cursor IDE",
