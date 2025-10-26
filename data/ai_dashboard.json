@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-25",
+    "last_updated": "2025-10-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI made ChatGPT better at sifting through your work or school information (2025-10-24)",
+          "whats_new": "Cal State Invited Tech Companies to Remake Learning With A.I. (2025-10-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update"
+            "news": "https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Earth&#8217;s expanded AI features make it easier to ask it questions (2025-10-23)",
+          "whats_new": "[R] Un-LOCC (Universal Lossy Optical Context Compression), Achieve Up To 3\u00d7 context compression with 93.65% Accuracy. (2025-10-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1odzd16/r_unlocc_universal_lossy_optical_context/"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Work smarter with your company knowledge in ChatGPT (2025-10-23)",
+          "whats_new": "[R] A geometric interpretation of the weight update in GPTQ quantization algorithm and a novel solution (2025-10-26)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-company-knowledge"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ogk2mr/r_a_geometric_interpretation_of_the_weight_update/"
           },
           "total": 84.1
         },
@@ -256,7 +256,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features (2025-10-23)",
+          "whats_new": "Microsoft says its Gaming Copilot feature, which recently hit Windows 11 as a public beta, uses screenshots to understand in-game events, not to train AI models (Jowi Morales/Tom's Hardware) (2025-10-26)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -269,7 +269,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
+            "news": "http://www.techmeme.com/251026/p3#a251026p3"
           }
         },
         {
