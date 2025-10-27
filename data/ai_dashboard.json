@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-26",
+    "last_updated": "2025-10-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Cal State Invited Tech Companies to Remake Learning With A.I. (2025-10-26)",
+          "whats_new": "Microsoft's disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B \"other, net\" expense line in the FY ended June 30 (Jonathan Weil/Wall Street Journal) (2025-10-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html"
+            "news": "http://www.techmeme.com/251027/p11#a251027p11"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] Un-LOCC (Universal Lossy Optical Context Compression), Achieve Up To 3\u00d7 context compression with 93.65% Accuracy. (2025-10-23)",
+          "whats_new": "Google\u2019s Quantum Computer Makes a Big Technical Leap (2025-10-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1odzd16/r_unlocc_universal_lossy_optical_context/"
+            "news": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] A geometric interpretation of the weight update in GPTQ quantization algorithm and a novel solution (2025-10-26)",
+          "whats_new": "Sources: AI contractor marketplace Mercor is finalizing $350M in funding led by Felicis at a $10B valuation; founded in 2023, Mercor manages 30K contractors (Angel Au-Yeung/Wall Street Journal) (2025-10-27)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ogk2mr/r_a_geometric_interpretation_of_the_weight_update/"
+            "news": "http://www.techmeme.com/251027/p13#a251027p13"
           },
           "total": 84.1
         },
@@ -256,7 +256,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft says its Gaming Copilot feature, which recently hit Windows 11 as a public beta, uses screenshots to understand in-game events, not to train AI models (Jowi Morales/Tom's Hardware) (2025-10-26)",
+          "whats_new": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features (2025-10-23)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -269,7 +269,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/251026/p3#a251026p3"
+            "news": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
           }
         },
         {
