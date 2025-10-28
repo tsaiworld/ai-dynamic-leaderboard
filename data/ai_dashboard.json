@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-27",
+    "last_updated": "2025-10-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Microsoft's disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B \"other, net\" expense line in the FY ended June 30 (Jonathan Weil/Wall Street Journal) (2025-10-27)",
+          "whats_new": "The next chapter of the Microsoft\u2013OpenAI partnership (2025-10-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251027/p11#a251027p11"
+            "news": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic\u2019s Claude chatbot is getting a \u2018memory\u2019 upgrade (2025-10-23)",
+          "whats_new": "Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it (Anna Irrera/Bloomberg) (2025-10-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
+            "news": "http://www.techmeme.com/251028/p26#a251028p26"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Quantum Computer Makes a Big Technical Leap (2025-10-27)",
+          "whats_new": "An analysis of 30+ US data center proposals in 14 states: in most cases, local officials signed NDAs and worked with apparent shell companies to hide details (Natalie Kainz/NBC News) (2025-10-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html"
+            "news": "http://www.techmeme.com/251028/p20#a251028p20"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Sources: AI contractor marketplace Mercor is finalizing $350M in funding led by Felicis at a $10B valuation; founded in 2023, Mercor manages 30K contractors (Angel Au-Yeung/Wall Street Journal) (2025-10-27)",
+          "whats_new": "Adobe Max 2025: all the latest creative tools and AI announcements (2025-10-28)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251027/p13#a251027p13"
+            "news": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
           },
           "total": 84.1
         },
@@ -256,7 +256,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features (2025-10-23)",
+          "whats_new": "[D] Would you use an AI that builds or improves ML models through chat? (2025-10-28)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -269,7 +269,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oi7rtq/d_would_you_use_an_ai_that_builds_or_improves_ml/"
           }
         },
         {
