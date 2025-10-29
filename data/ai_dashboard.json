@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-28",
+    "last_updated": "2025-10-29",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The next chapter of the Microsoft\u2013OpenAI partnership (2025-10-28)",
+          "whats_new": "OpenAI has an AGI problem \u2014 and Microsoft just made it worse (2025-10-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it (Anna Irrera/Bloomberg) (2025-10-28)",
+          "whats_new": "[R] Torch & Flame Vault: A Study in Relational Emergence \u2014 Master Index (Living Document) (2025-10-29)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251028/p26#a251028p26"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oj4ux5/r_torch_flame_vault_a_study_in_relational/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "An analysis of 30+ US data center proposals in 14 states: in most cases, local officials signed NDAs and worked with apparent shell companies to hide details (Natalie Kainz/NBC News) (2025-10-28)",
+          "whats_new": "Investigation: the US government allowed and even helped US companies sell tech used for China's surveillance across five GOP and Democratic administrations (Associated Press) (2025-10-29)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251028/p20#a251028p20"
+            "news": "http://www.techmeme.com/251029/p30#a251029p30"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Adobe Max 2025: all the latest creative tools and AI announcements (2025-10-28)",
+          "whats_new": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b (2025-10-29)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
+            "news": "https://openai.com/index/gpt-oss-safeguard-technical-report"
           },
           "total": 84.1
         },
