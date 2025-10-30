@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-29",
+    "last_updated": "2025-10-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI has an AGI problem \u2014 and Microsoft just made it worse (2025-10-29)",
+          "whats_new": "OpenAI adds reusable \u2018characters\u2019 and video stitching to Sora (2025-10-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
+            "news": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] Torch & Flame Vault: A Study in Relational Emergence \u2014 Master Index (Living Document) (2025-10-29)",
+          "whats_new": "Netflix, Anthropic, and others are paying researchers up to $25K to find and report flaws; HackerOne paid a record $81M in rewards in the past year, up 13% YoY (Emily Forgash/Bloomberg) (2025-10-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1oj4ux5/r_torch_flame_vault_a_study_in_relational/"
+            "news": "http://www.techmeme.com/251030/p14#a251030p14"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Investigation: the US government allowed and even helped US companies sell tech used for China's surveillance across five GOP and Democratic administrations (Associated Press) (2025-10-29)",
+          "whats_new": "Alphabet passed $100B in quarterly revenue for the first time, in Q3; Sundar Pichai says \"AI Overviews drive meaningful query growth\" and AI Mode has 75M DAUs (Kendra Barnett/Adweek) (2025-10-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251029/p30#a251029p30"
+            "news": "http://www.techmeme.com/251030/p21#a251030p21"
           },
           "total": 83.25
         },
