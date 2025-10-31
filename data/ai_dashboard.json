@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-30",
+    "last_updated": "2025-10-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI adds reusable \u2018characters\u2019 and video stitching to Sora (2025-10-30)",
+          "whats_new": "God will be declared by a panel of experts (2025-10-31)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
+            "news": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Alphabet passed $100B in quarterly revenue for the first time, in Q3; Sundar Pichai says \"AI Overviews drive meaningful query growth\" and AI Mode has 75M DAUs (Kendra Barnett/Adweek) (2025-10-30)",
+          "whats_new": "Google releases its first AI-generated ad, promoting Search's AI mode, but chooses not to include a label disclosing it was made with Veo 3 and other tools (Patrick Coffee/Wall Street Journal) (2025-10-31)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251030/p21#a251030p21"
+            "news": "http://www.techmeme.com/251031/p8#a251031p8"
           },
           "total": 83.25
         },
@@ -202,7 +202,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b (2025-10-29)",
+          "whats_new": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas (2025-10-30)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -214,7 +214,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-oss-safeguard-technical-report"
+            "news": "https://openai.com/index/building-chatgpt-atlas"
           },
           "total": 84.1
         },
