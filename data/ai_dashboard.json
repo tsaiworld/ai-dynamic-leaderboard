@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-10-31",
+    "last_updated": "2025-11-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Netflix, Anthropic, and others are paying researchers up to $25K to find and report flaws; HackerOne paid a record $81M in rewards in the past year, up 13% YoY (Emily Forgash/Bloomberg) (2025-10-30)",
+          "whats_new": "In its Q3 earnings, Alphabet said the profit included \"net gains on equity securities of $10.7B,\" in part from a private company, which sources say is Anthropic (Bloomberg) (2025-10-31)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251030/p14#a251030p14"
+            "news": "http://www.techmeme.com/251031/p22#a251031p22"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google releases its first AI-generated ad, promoting Search's AI mode, but chooses not to include a label disclosing it was made with Veo 3 and other tools (Patrick Coffee/Wall Street Journal) (2025-10-31)",
+          "whats_new": "A.I. Spending Is Accelerating Among Tech\u2019s Biggest Companies (2025-10-31)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251031/p8#a251031p8"
+            "news": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html"
           },
           "total": 83.25
         },
