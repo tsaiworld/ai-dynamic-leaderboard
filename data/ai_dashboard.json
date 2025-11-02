@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-01",
+    "last_updated": "2025-11-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "God will be declared by a panel of experts (2025-10-31)",
+          "whats_new": "AI browsers can bypass some paywalls; OpenAI's Atlas seems to avoid content from companies suing OpenAI, providing summaries or alternate reporting instead (Columbia Journalism Review) (2025-11-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast"
+            "news": "http://www.techmeme.com/251102/p5#a251102p5"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A.I. Spending Is Accelerating Among Tech\u2019s Biggest Companies (2025-10-31)",
+          "whats_new": "How Google Cloud has become one of Alphabet's fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more (Kenrick Cai/Reuters) (2025-11-01)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html"
+            "news": "http://www.techmeme.com/251101/p20#a251101p20"
           },
           "total": 83.25
         },
