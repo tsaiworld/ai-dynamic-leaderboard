@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-04",
+    "last_updated": "2025-11-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Tech companies don\u2019t care that students use their AI agents to cheat (2025-11-04)",
+          "whats_new": "Brazil\u2019s AI moment is here (2025-11-04)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
+            "news": "https://openai.com/global-affairs/brazil-ai-moment-is-here"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The AI industry is running on FOMO (2025-11-03)",
+          "whats_new": "YouTube confirms it removed 700+ videos from three prominent Palestinian human rights groups in early October to comply with US State Department sanctions (The Intercept) (2025-11-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
+            "news": "http://www.techmeme.com/251105/p18#a251105p18"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Chainalysis CEO Jonathan Levin says DeFi platforms' rapid growth leaves their users' assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols (Nikou Asgari/Financial Times) (2025-11-04)",
+          "whats_new": "[P] Beyond Simple Retrieval \u2014 Smarter Context for Smarter LLMs (2025-11-01)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "http://www.techmeme.com/251104/p3#a251104p3"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1olyaoz/p_beyond_simple_retrieval_smarter_context_for/"
           }
         }
       ]
@@ -208,7 +208,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas (2025-10-30)",
+          "whats_new": "Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure (Dina Bass/Bloomberg) (2025-11-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -220,7 +220,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/building-chatgpt-atlas"
+            "news": "http://www.techmeme.com/251105/p25#a251105p25"
           },
           "total": 84.1
         },
@@ -262,7 +262,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "[D] Would you use an AI that builds or improves ML models through chat? (2025-10-28)",
+          "whats_new": "Microsoft AI&#8217;s first in-house image generator MAI-Image-1 is now available (2025-11-04)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -275,7 +275,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1oi7rtq/d_would_you_use_an_ai_that_builds_or_improves_ml/"
+            "news": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
           }
         },
         {
