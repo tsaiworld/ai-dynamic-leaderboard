@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-05",
+    "last_updated": "2025-11-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Brazil\u2019s AI moment is here (2025-11-04)",
+          "whats_new": "How CRED is tapping AI to deliver premium customer experiences (2025-11-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/global-affairs/brazil-ai-moment-is-here"
+            "news": "https://openai.com/index/cred-swamy-seetharaman"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "YouTube confirms it removed 700+ videos from three prominent Palestinian human rights groups in early October to comply with US State Department sanctions (The Intercept) (2025-11-05)",
+          "whats_new": "Google says Ironwood, its seventh-gen TPU, will launch in the coming weeks and is more than 4x faster than its sixth-gen TPU; it comes in a 9,216-chip config (CNBC) (2025-11-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251105/p18#a251105p18"
+            "news": "http://www.techmeme.com/251106/p21#a251106p21"
           },
           "total": 83.25
         },
@@ -208,7 +208,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure (Dina Bass/Bloomberg) (2025-11-05)",
+          "whats_new": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas (2025-10-30)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -220,7 +220,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251105/p25#a251105p25"
+            "news": "https://openai.com/index/building-chatgpt-atlas"
           },
           "total": 84.1
         },
