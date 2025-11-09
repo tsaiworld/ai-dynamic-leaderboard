@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-08",
+    "last_updated": "2025-11-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Understanding prompt injections: a frontier security challenge (2025-11-07)",
+          "whats_new": "OpenAI, Alphabet, and Perplexity offering free access to their paid tiers in India suggests the country may be the biggest and safest bet for broad AI adoption (Mihir Sharma/Bloomberg) (2025-11-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/prompt-injections"
+            "news": "http://www.techmeme.com/251108/p7#a251108p7"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "In its Q3 earnings, Alphabet said the profit included \"net gains on equity securities of $10.7B,\" in part from a private company, which sources say is Anthropic (Bloomberg) (2025-10-31)",
+          "whats_new": "[D] Best AI coding assistant (2025-11-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251031/p22#a251031p22"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1orttl3/d_best_ai_coding_assistant/"
           },
           "total": 85.15
         },
@@ -208,7 +208,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Notion\u2019s rebuild for agentic AI: How GPT\u20115 helped unlock autonomous workflows (2025-11-07)",
+          "whats_new": "The Alpha Arena experiment gave six frontier models $10K each to trade crypto derivatives over two weeks: losses ranged from Qwen3 Max's $652 to GPT-5's $5,679 (Sebastian Pellejero/Reuters) (2025-11-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -220,7 +220,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/notion"
+            "news": "http://www.techmeme.com/251109/p3#a251109p3"
           },
           "total": 84.1
         },
