@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-09",
+    "last_updated": "2025-11-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI, Alphabet, and Perplexity offering free access to their paid tiers in India suggests the country may be the biggest and safest bet for broad AI adoption (Mihir Sharma/Bloomberg) (2025-11-08)",
+          "whats_new": "Free ChatGPT for transitioning U.S. servicemembers and veterans (2025-11-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251108/p7#a251108p7"
+            "news": "https://openai.com/index/chatgpt-for-veterans"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Why TPUs are not as famous as GPUs (2025-11-08)",
+          "whats_new": "[R] AlphaEvolve: Breaking 56 Years of Mathematical Stagnation (2025-11-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ornns5/d_why_tpus_are_not_as_famous_as_gpus/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1otaqfo/r_alphaevolve_breaking_56_years_of_mathematical/"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Motion brush & text-to-video (2025-10-17)",
+          "whats_new": "Amazon's House of David season two included 350 to 400 AI-generated shots, up from 70+ in S1, using 10 to 15 tools from companies like Runway, drawing criticism (Kat Tenbarge/Wired) (2025-11-10)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -126,7 +126,10 @@
             "privacy": 74,
             "innovation": 80
           },
-          "total": 78.65
+          "total": 78.65,
+          "links": {
+            "news": "http://www.techmeme.com/251110/p11#a251110p11"
+          }
         },
         {
           "tool": "Pika 1.5",
@@ -208,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The Alpha Arena experiment gave six frontier models $10K each to trade crypto derivatives over two weeks: losses ranged from Qwen3 Max's $652 to GPT-5's $5,679 (Sebastian Pellejero/Reuters) (2025-11-09)",
+          "whats_new": "Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT's 1.4B (Emily Forgash/Bloomberg) (2025-11-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -220,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251109/p3#a251109p3"
+            "news": "http://www.techmeme.com/251110/p13#a251110p13"
           },
           "total": 84.1
         },
