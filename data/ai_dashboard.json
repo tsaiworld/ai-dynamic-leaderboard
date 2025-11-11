@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-10",
+    "last_updated": "2025-11-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Free ChatGPT for transitioning U.S. servicemembers and veterans (2025-11-10)",
+          "whats_new": "A Munich court sides with Germany's music rights society GEMA in a case against OpenAI, saying OpenAI can't use song lyrics without a license; OpenAI can appeal (Reuters) (2025-11-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/chatgpt-for-veterans"
+            "news": "http://www.techmeme.com/251111/p6#a251111p6"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] AlphaEvolve: Breaking 56 Years of Mathematical Stagnation (2025-11-10)",
+          "whats_new": "Google says its confusing Gemini Home rollout is going just great (2025-11-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1otaqfo/r_alphaevolve_breaking_56_years_of_mathematical/"
+            "news": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT's 1.4B (Emily Forgash/Bloomberg) (2025-11-10)",
+          "whats_new": "[P] RLHF (SFT, RM, PPO) with GPT-2 in Notebooks (2025-11-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251110/p13#a251110p13"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oskesn/p_rlhf_sft_rm_ppo_with_gpt2_in_notebooks/"
           },
           "total": 84.1
         },
