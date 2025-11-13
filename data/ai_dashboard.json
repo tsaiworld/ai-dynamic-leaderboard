@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-12",
+    "last_updated": "2025-11-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "AI chatbots are helping hide eating disorders and making deepfake \u2018thinspiration\u2019 (2025-11-11)",
+          "whats_new": "Fighting the New York Times\u2019 invasion of user privacy (2025-11-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
+            "news": "https://openai.com/index/fighting-nyt-user-privacy-invasion"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D] Best AI coding assistant (2025-11-08)",
+          "whats_new": "Anthropic will invest $50 billion in building AI data centers in the US (2025-11-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1orttl3/d_best_ai_coding_assistant/"
+            "news": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google files a lawsuit in the SDNY against China-based hackers who it says run the Lighthouse platform for \"phishing services\", ensnaring 1M and stealing $1B+ (Financial Times) (2025-11-12)",
+          "whats_new": "The EU opens a DMA investigation into Google over allegedly demoting news outlets with promotional content; Google says this is part of its anti-spam efforts (Samuel Stolton/Bloomberg) (2025-11-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251112/p7#a251112p7"
+            "news": "http://www.techmeme.com/251113/p10#a251113p10"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "An analysis of 47,000 publicly shared ChatGPT conversations: ~10% related to emotional or mental health, ChatGPT exhibits a \"default to yes\" behavior, and more (Washington Post) (2025-11-12)",
+          "whats_new": "Neuro drives national retail wins with ChatGPT Business (2025-11-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251112/p14#a251112p14"
+            "news": "https://openai.com/index/neurogum"
           },
           "total": 84.1
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more (Brie Wolfson/Colossus) (2025-11-08)",
+          "whats_new": "AI coding startup Cursor raised $2.3B co-led by Accel and Coatue at a $29.3B valuation, after raising a $900M Series C at a $9.9B valuation in June (Angel Au-Yeung/Wall Street Journal) (2025-11-13)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/251108/p5#a251108p5"
+            "news": "http://www.techmeme.com/251113/p17#a251113p17"
           }
         },
         {
