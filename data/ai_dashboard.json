@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-13",
+    "last_updated": "2025-11-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Fighting the New York Times\u2019 invasion of user privacy (2025-11-12)",
+          "whats_new": "Introducing OpenAI for Ireland (2025-11-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/fighting-nyt-user-privacy-invasion"
+            "news": "https://openai.com/index/openai-for-ireland"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic will invest $50 billion in building AI data centers in the US (2025-11-12)",
+          "whats_new": "Anthropic details how it measures Claude&#8217;s wokeness (2025-11-13)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
+            "news": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The EU opens a DMA investigation into Google over allegedly demoting news outlets with promotional content; Google says this is part of its anti-spam efforts (Samuel Stolton/Bloomberg) (2025-11-13)",
+          "whats_new": "A Berlin court rules that Google must pay \u20ac465M and \u20ac107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal (Reuters) (2025-11-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251113/p10#a251113p10"
+            "news": "http://www.techmeme.com/251114/p13#a251114p13"
           },
           "total": 83.25
         },
@@ -97,7 +97,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "The Sora feed philosophy (2025-09-30)",
+          "whats_new": "[D] Question about self-referential novelty gating (2025-11-13)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -109,7 +109,7 @@
             "innovation": 95
           },
           "links": {
-            "news": "https://openai.com/index/sora-feed-philosophy"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ow8587/d_question_about_selfreferential_novelty_gating/"
           },
           "total": 87.0
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Neuro drives national retail wins with ChatGPT Business (2025-11-12)",
+          "whats_new": "Introducing GPT-5.1 for developers (2025-11-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/neurogum"
+            "news": "https://openai.com/index/gpt-5-1-for-developers"
           },
           "total": 84.1
         },
