@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-14",
+    "last_updated": "2025-11-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A Berlin court rules that Google must pay \u20ac465M and \u20ac107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal (Reuters) (2025-11-14)",
+          "whats_new": "[D] Do Google Scholar or arXiv citations change if I revert my arXiv paper title? (2025-11-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251114/p13#a251114p13"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1oxno3l/d_do_google_scholar_or_arxiv_citations_change_if/"
           },
           "total": 83.25
         },
