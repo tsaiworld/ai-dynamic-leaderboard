@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-15",
+    "last_updated": "2025-11-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic details how it measures Claude&#8217;s wokeness (2025-11-13)",
+          "whats_new": "Some experts question Anthropic's claims of cyberattack breakthroughs using its tools, noting that white-hat hackers report modest gains from AI-aided hacking (Dan Goodin/Ars Technica) (2025-11-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
+            "news": "http://www.techmeme.com/251115/p7#a251115p7"
           },
           "total": 85.15
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing GPT-5.1 for developers (2025-11-13)",
+          "whats_new": "Piloting group chats in ChatGPT (2025-11-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-1-for-developers"
+            "news": "https://openai.com/index/group-chats-in-chatgpt"
           },
           "total": 84.1
         },
