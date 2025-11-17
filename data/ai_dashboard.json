@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-16",
+    "last_updated": "2025-11-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Introducing OpenAI for Ireland (2025-11-14)",
+          "whats_new": "Q&A with OpenAI CEO of Applications Fidji Simo on joining OpenAI, ChatGPT users' mental health, profitability, data center deals, her chronic illness, and more (Zo\u00eb Schiffer/Wired) (2025-11-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-for-ireland"
+            "news": "http://www.techmeme.com/251117/p11#a251117p11"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Some experts question Anthropic's claims of cyberattack breakthroughs using its tools, noting that white-hat hackers report modest gains from AI-aided hacking (Dan Goodin/Ars Technica) (2025-11-15)",
+          "whats_new": "Anthropic details how it measures Claude&#8217;s wokeness (2025-11-13)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251115/p7#a251115p7"
+            "news": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
           },
           "total": 85.15
         },
