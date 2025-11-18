@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-17",
+    "last_updated": "2025-11-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Q&A with OpenAI CEO of Applications Fidji Simo on joining OpenAI, ChatGPT users' mental health, profitability, data center deals, her chronic illness, and more (Zo\u00eb Schiffer/Wired) (2025-11-17)",
+          "whats_new": "Intuit and OpenAI join forces on new AI-powered experiences (2025-11-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251117/p11#a251117p11"
+            "news": "https://openai.com/index/intuit-partnership"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Do Google Scholar or arXiv citations change if I revert my arXiv paper title? (2025-11-15)",
+          "whats_new": "[D] Has anyone used ONNX Runtime (ORT) + CUDA for multilingual embedding models (e.g., LaBSE) on GPUs? (2025-11-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1oxno3l/d_do_google_scholar_or_arxiv_citations_change_if/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ozzu5z/d_has_anyone_used_onnx_runtime_ort_cuda_for/"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Piloting group chats in ChatGPT (2025-11-13)",
+          "whats_new": "A massive Cloudflare outage is affecting X, ChatGPT, and even Downdetector (2025-11-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/group-chats-in-chatgpt"
+            "news": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft AI&#8217;s first in-house image generator MAI-Image-1 is now available (2025-11-04)",
+          "whats_new": "Talking to Windows&#8217; Copilot AI makes a computer feel incompetent (2025-11-18)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,12 +278,12 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
+            "news": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
           }
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "AI coding startup Cursor raised $2.3B co-led by Accel and Coatue at a $29.3B valuation, after raising a $900M Series C at a $9.9B valuation in June (Angel Au-Yeung/Wall Street Journal) (2025-11-13)",
+          "whats_new": "[P] Using JetBrains Program Structure Interface for more accurate code search (2025-11-17)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/251113/p17#a251113p17"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ozsb67/p_using_jetbrains_program_structure_interface_for/"
           }
         },
         {
