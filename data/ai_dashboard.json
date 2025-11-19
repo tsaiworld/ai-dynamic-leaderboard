@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-18",
+    "last_updated": "2025-11-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Intuit and OpenAI join forces on new AI-powered experiences (2025-11-18)",
+          "whats_new": "OpenAI and Target team up on new AI-powered experiences (2025-11-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/intuit-partnership"
+            "news": "https://openai.com/index/target-partnership"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Has anyone used ONNX Runtime (ORT) + CUDA for multilingual embedding models (e.g., LaBSE) on GPUs? (2025-11-18)",
+          "whats_new": "Meta's win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan (New York Times) (2025-11-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ozzu5z/d_has_anyone_used_onnx_runtime_ort_cuda_for/"
+            "news": "http://www.techmeme.com/251119/p23#a251119p23"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A massive Cloudflare outage is affecting X, ChatGPT, and even Downdetector (2025-11-18)",
+          "whats_new": "Cloudflare explains Tuesday\u2019s outage that temporarily took down ChatGPT (2025-11-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
+            "news": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Talking to Windows&#8217; Copilot AI makes a computer feel incompetent (2025-11-18)",
+          "whats_new": "Microsoft\u2019s Office apps are getting even more free AI features (2025-11-18)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
+            "news": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
           }
         },
         {
