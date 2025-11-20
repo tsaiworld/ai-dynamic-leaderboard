@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-19",
+    "last_updated": "2025-11-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Target team up on new AI-powered experiences (2025-11-19)",
+          "whats_new": "As OpenAI commits to spending $1.4T, creating a mesh of complicated deals, the startup does not disclose its auditor, and there is little information online (Louis Ashworth/Financial Times) (2025-11-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/target-partnership"
+            "news": "http://www.techmeme.com/251120/p14#a251120p14"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic details how it measures Claude&#8217;s wokeness (2025-11-13)",
+          "whats_new": "A study of mental health conversations with ChatGPT, Claude, Gemini, and Meta AI: they often failed to recognize signs of conditions and offered general advice (Georgia Wells/Wall Street Journal) (2025-11-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
+            "news": "http://www.techmeme.com/251120/p19#a251120p19"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Meta's win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan (New York Times) (2025-11-19)",
+          "whats_new": "The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable (Chris Welch/Bloomberg) (2025-11-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251119/p23#a251119p23"
+            "news": "http://www.techmeme.com/251120/p26#a251120p26"
           },
           "total": 83.25
         },
@@ -97,7 +97,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "[D] Question about self-referential novelty gating (2025-11-13)",
+          "whats_new": "[D]After testing Veo vs Sora clips\u2026 I\u2019m not sure which one \u201cunderstands\u201d video better (2025-11-19)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -109,7 +109,7 @@
             "innovation": 95
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ow8587/d_question_about_selfreferential_novelty_gating/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1p18r6y/dafter_testing_veo_vs_sora_clips_im_not_sure/"
           },
           "total": 87.0
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Cloudflare explains Tuesday\u2019s outage that temporarily took down ChatGPT (2025-11-18)",
+          "whats_new": "Building more with GPT-5.1-Codex-Max (2025-11-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
+            "news": "https://openai.com/index/gpt-5-1-codex-max"
           },
           "total": 84.1
         },
