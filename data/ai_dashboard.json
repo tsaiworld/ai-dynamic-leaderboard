@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-20",
+    "last_updated": "2025-11-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "As OpenAI commits to spending $1.4T, creating a mesh of complicated deals, the startup does not disclose its auditor, and there is little information online (Louis Ashworth/Financial Times) (2025-11-20)",
+          "whats_new": "Internal memo: Sam Altman told OpenAI employees last month that Google's recent progress in AI could \"create some temporary economic headwinds for our company\" (The Information) (2025-11-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251120/p14#a251120p14"
+            "news": "http://www.techmeme.com/251121/p2#a251121p2"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable (Chris Welch/Bloomberg) (2025-11-20)",
+          "whats_new": "Google\u2019s Nano Banana Pro generates excellent conspiracy fuel (2025-11-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251120/p26#a251120p26"
+            "news": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Beyond Simple Retrieval \u2014 Smarter Context for Smarter LLMs (2025-11-01)",
+          "whats_new": "Microsoft&#8217;s AI-powered copy and paste can now use on-device AI (2025-11-20)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1olyaoz/p_beyond_simple_retrieval_smarter_context_for/"
+            "news": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Building more with GPT-5.1-Codex-Max (2025-11-19)",
+          "whats_new": "How Scania is accelerating work with AI across its global workforce (2025-11-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-1-codex-max"
+            "news": "https://openai.com/index/scania"
           },
           "total": 84.1
         },
