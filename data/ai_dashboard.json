@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-21",
+    "last_updated": "2025-11-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Internal memo: Sam Altman told OpenAI employees last month that Google's recent progress in AI could \"create some temporary economic headwinds for our company\" (The Information) (2025-11-21)",
+          "whats_new": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain (2025-11-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251121/p2#a251121p2"
+            "news": "https://openai.com/index/openai-and-foxconn-collaborate"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A study of mental health conversations with ChatGPT, Claude, Gemini, and Meta AI: they often failed to recognize signs of conditions and offered general advice (Georgia Wells/Wall Street Journal) (2025-11-20)",
+          "whats_new": "Anthropic finds that LLMs trained to \"reward hack\" by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research (Anthropic) (2025-11-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251120/p19#a251120p19"
+            "news": "http://www.techmeme.com/251121/p28#a251121p28"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Nano Banana Pro generates excellent conspiracy fuel (2025-11-21)",
+          "whats_new": "Alphabet's stock closed at a record high of $299.66 on November 21, continuing a strong recent run after Google's Gemini 3 impressed analysts and consumers (Rani Molla/Sherwood News) (2025-11-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
+            "news": "http://www.techmeme.com/251122/p1#a251122p1"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Scania is accelerating work with AI across its global workforce (2025-11-19)",
+          "whats_new": "A look at Indian startups like TuluAI, which are building LLMs for low-resource languages by creating data sets nearly from scratch with community involvement (Rest of World) (2025-11-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/scania"
+            "news": "http://www.techmeme.com/251122/p8#a251122p8"
           },
           "total": 84.1
         },
