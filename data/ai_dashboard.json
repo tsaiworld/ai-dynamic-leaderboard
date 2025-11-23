@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-22",
+    "last_updated": "2025-11-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain (2025-11-20)",
+          "whats_new": "How OpenAI\u2019s Changes Sent Some Users Spiraling (2025-11-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-and-foxconn-collaborate"
+            "news": "https://www.nytimes.com/video/technology/100000010535987/how-openais-changes-sent-some-users-spiraling.html"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Alphabet's stock closed at a record high of $299.66 on November 21, continuing a strong recent run after Google's Gemini 3 impressed analysts and consumers (Rani Molla/Sherwood News) (2025-11-22)",
+          "whats_new": "Google denies &#8216;misleading&#8217; reports of Gmail using your emails to train AI (2025-11-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251122/p1#a251122p1"
+            "news": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A look at Indian startups like TuluAI, which are building LLMs for low-resource languages by creating data sets nearly from scratch with community involvement (Rest of World) (2025-11-22)",
+          "whats_new": "Researchers say Russia-aligned Pravda network is engaging in \"LLM grooming\", flooding the internet with disinformation to influence chatbots like ChatGPT (Aisha Down/The Guardian) (2025-11-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251122/p8#a251122p8"
+            "news": "http://www.techmeme.com/251122/p10#a251122p10"
           },
           "total": 84.1
         },
