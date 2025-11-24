@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-23",
+    "last_updated": "2025-11-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How OpenAI\u2019s Changes Sent Some Users Spiraling (2025-11-23)",
+          "whats_new": "OpenAI confirms Andrea Vallone, the head of an OpenAI safety research team that works on ChatGPT's mental health responses, is set to leave at the end of 2025 (Maxwell Zeff/Wired) (2025-11-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/video/technology/100000010535987/how-openais-changes-sent-some-users-spiraling.html"
+            "news": "http://www.techmeme.com/251124/p9#a251124p9"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google denies &#8216;misleading&#8217; reports of Gmail using your emails to train AI (2025-11-21)",
+          "whats_new": "Researchers detail popEVE, an AI model to predict the disease-causing potential of unknown human genetic mutations, and says it beats Google's AlphaMissense (Michael Peel/Financial Times) (2025-11-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
+            "news": "http://www.techmeme.com/251124/p7#a251124p7"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Researchers say Russia-aligned Pravda network is engaging in \"LLM grooming\", flooding the internet with disinformation to influence chatbots like ChatGPT (Aisha Down/The Guardian) (2025-11-22)",
+          "whats_new": "Alibaba says its Qwen app drew 10M+ downloads in the week after its relaunch, one of the fastest app adoption rates behind ChatGPT, particularly in China (Bloomberg) (2025-11-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251122/p10#a251122p10"
+            "news": "http://www.techmeme.com/251124/p8#a251124p8"
           },
           "total": 84.1
         },
