@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-24",
+    "last_updated": "2025-11-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI confirms Andrea Vallone, the head of an OpenAI safety research team that works on ChatGPT's mental health responses, is set to leave at the end of 2025 (Maxwell Zeff/Wired) (2025-11-24)",
+          "whats_new": "Expanding data residency access to business customers worldwide (2025-11-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251124/p9#a251124p9"
+            "news": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Researchers detail popEVE, an AI model to predict the disease-causing potential of unknown human genetic mutations, and says it beats Google's AlphaMissense (Michael Peel/Financial Times) (2025-11-24)",
+          "whats_new": "A job listing shows Google is developing a new Android-based \"Aluminium OS\" that is \"built with AI at the core\", potentially as a ChromeOS replacement for PCs (Mishaal Rahman/Android Authority) (2025-11-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251124/p7#a251124p7"
+            "news": "http://www.techmeme.com/251125/p3#a251125p3"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Alibaba says its Qwen app drew 10M+ downloads in the week after its relaunch, one of the fastest app adoption rates behind ChatGPT, particularly in China (Bloomberg) (2025-11-24)",
+          "whats_new": "Inside JetBrains\u2014the company reshaping how the world writes code (2025-11-25)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251124/p8#a251124p8"
+            "news": "https://openai.com/index/jetbrains-2025"
           },
           "total": 84.1
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "[P] Using JetBrains Program Structure Interface for more accurate code search (2025-11-17)",
+          "whats_new": "Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement (Greg Bensinger/Reuters) (2025-11-25)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ozsb67/p_using_jetbrains_program_structure_interface_for/"
+            "news": "http://www.techmeme.com/251125/p1#a251125p1"
           }
         },
         {
