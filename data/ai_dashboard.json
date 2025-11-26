@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-25",
+    "last_updated": "2025-11-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Expanding data residency access to business customers worldwide (2025-11-25)",
+          "whats_new": "ChatGPT and Copilot are being booted out of WhatsApp (2025-11-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide"
+            "news": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic finds that LLMs trained to \"reward hack\" by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research (Anthropic) (2025-11-21)",
+          "whats_new": "[P] I made a free playground for comparing 10+ OCR models side-by-side (2025-11-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251121/p28#a251121p28"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1p6frc2/p_i_made_a_free_playground_for_comparing_10_ocr/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A job listing shows Google is developing a new Android-based \"Aluminium OS\" that is \"built with AI at the core\", potentially as a ChromeOS replacement for PCs (Mishaal Rahman/Android Authority) (2025-11-25)",
+          "whats_new": "Some food bloggers warn Google's AI Overviews and AI food pictures are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving (Bloomberg) (2025-11-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251125/p3#a251125p3"
+            "news": "http://www.techmeme.com/251126/p6#a251126p6"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Microsoft&#8217;s AI-powered copy and paste can now use on-device AI (2025-11-20)",
+          "whats_new": "[R] Using model KV cache for persistent memory instead of external retrieval, has anyone explored this (2025-11-25)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1p6gbc1/r_using_model_kv_cache_for_persistent_memory/"
           }
         }
       ]
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR (Bloomberg) (2025-10-17)",
+          "whats_new": "Warner Music Group partners with Suno to offer AI likenesses of its artists (2025-11-25)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "http://www.techmeme.com/251017/p33#a251017p33"
+            "news": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal"
           },
           "total": 79.6
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Inside JetBrains\u2014the company reshaping how the world writes code (2025-11-25)",
+          "whats_new": "PitchBook: US AI and robotics VC deals are up over 4x since 2023 to $160B+ so far in 2025, while comparable China deals are just $10B+, up from $9.24B in 2023 (CNBC) (2025-11-26)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/jetbrains-2025"
+            "news": "http://www.techmeme.com/251126/p14#a251126p14"
           },
           "total": 84.1
         },
