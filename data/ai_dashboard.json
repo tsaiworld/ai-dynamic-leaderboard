@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-26",
+    "last_updated": "2025-11-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "ChatGPT and Copilot are being booted out of WhatsApp (2025-11-26)",
+          "whats_new": "My AI shopping assistants are stuck in the past (2025-11-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Some food bloggers warn Google's AI Overviews and AI food pictures are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving (Bloomberg) (2025-11-26)",
+          "whats_new": "Take Command of Your Powerful New Smartphone Camera (2025-11-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251126/p6#a251126p6"
+            "news": "https://www.nytimes.com/2025/11/26/technology/personaltech/iphone-google-pixel-smartphone-camera-settings.html"
           },
           "total": 83.25
         },
@@ -97,7 +97,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "[D]After testing Veo vs Sora clips\u2026 I\u2019m not sure which one \u201cunderstands\u201d video better (2025-11-19)",
+          "whats_new": "[D] What does video generation suck at? (2025-11-27)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -109,7 +109,7 @@
             "innovation": 95
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1p18r6y/dafter_testing_veo_vs_sora_clips_im_not_sure/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1p7qfbf/d_what_does_video_generation_suck_at/"
           },
           "total": 87.0
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "PitchBook: US AI and robotics VC deals are up over 4x since 2023 to $160B+ so far in 2025, while comparable China deals are just $10B+, up from $9.24B in 2023 (CNBC) (2025-11-26)",
+          "whats_new": "Our approach to mental health-related litigation (2025-11-25)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251126/p14#a251126p14"
+            "news": "https://openai.com/index/mental-health-litigation-approach"
           },
           "total": 84.1
         },
