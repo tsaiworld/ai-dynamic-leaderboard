@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-27",
+    "last_updated": "2025-11-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "My AI shopping assistants are stuck in the past (2025-11-27)",
+          "whats_new": "Sora and Nano Banana Pro throttled amid soaring demand (2025-11-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
+            "news": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[P] I made a free playground for comparing 10+ OCR models side-by-side (2025-11-25)",
+          "whats_new": "[D] Question and Answer Position Detection (2025-11-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1p6frc2/p_i_made_a_free_playground_for_comparing_10_ocr/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1p8sqd2/d_question_and_answer_position_detection/"
           },
           "total": 85.15
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Our approach to mental health-related litigation (2025-11-25)",
+          "whats_new": "Why can\u2019t ChatGPT tell time? (2025-11-27)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/mental-health-litigation-approach"
+            "news": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
           },
           "total": 84.1
         },
