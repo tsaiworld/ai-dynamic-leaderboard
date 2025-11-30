@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-11-29",
+    "last_updated": "2025-11-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A look at ChatGPT's impact on US stocks three years after its release: AI mania revived Big Tech, making an already concentrated S&P 500 even more top heavy (Bloomberg) (2025-11-29)",
+          "whats_new": "OpenAI faces rising pressure from rivals three years after ChatGPT's debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users (Financial Times) (2025-11-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251129/p3#a251129p3"
+            "news": "http://www.techmeme.com/251130/p4#a251130p4"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "An analysis of Google TPU v6e vs AMD MI300X vs Nvidia H100/B200: Nvidia achieves a ~5x tokens-per-dollar advantage over TPU v6e and 2x advantage over MI300X (@artificialanlys) (2025-11-28)",
+          "whats_new": "Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on \"needle-in-a-haystack\" tests for 30-minute videos (Jonathan Kemper/The Decoder) (2025-11-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251128/p21#a251128p21"
+            "news": "http://www.techmeme.com/251130/p3#a251130p3"
           },
           "total": 83.25
         },
