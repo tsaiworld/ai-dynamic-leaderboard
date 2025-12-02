@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-01",
+    "last_updated": "2025-12-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Accenture and OpenAI accelerate enterprise AI success (2025-12-01)",
+          "whats_new": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race (2025-12-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/accenture-partnership"
+            "news": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[P] Outcome-based learning vs vector search: 100% vs 3.3% accuracy on adversarial queries (p=0.001) - looking for feedback on approach (2025-11-30)",
+          "whats_new": "Study: using the SCONE-bench benchmark of 405 smart contracts, Claude Opus 4.5, Sonnet 4.5, and GPT-5 found and developed exploits collectively worth $4.6M (Anthropic) (2025-12-02)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pamsiu/p_outcomebased_learning_vs_vector_search_100_vs/"
+            "news": "http://www.techmeme.com/251202/p12#a251202p12"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecasts, regardless of subscription tier (Adamya Sharma/Android Authority) (2025-12-01)",
+          "whats_new": "Apple AI chief steps down following Siri setbacks (2025-12-01)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251201/p10#a251201p10"
+            "news": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Amazon's House of David season two included 350 to 400 AI-generated shots, up from 70+ in S1, using 10 to 15 tools from companies like Runway, drawing criticism (Kat Tenbarge/Wired) (2025-11-10)",
+          "whats_new": "Runway says its new text-to-video AI generator has &#8216;unprecedented&#8217; accuracy (2025-12-01)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "http://www.techmeme.com/251110/p11#a251110p11"
+            "news": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "I just want AI to rename my photos (2025-11-30)",
+          "whats_new": "Inside Mirakl\u2019s Agent Commerce Vision (2025-12-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast"
+            "news": "https://openai.com/index/mirakl"
           },
           "total": 84.1
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement (Greg Bensinger/Reuters) (2025-11-25)",
+          "whats_new": "A profile of Cursor CEO Michael Truell, a 25-year-old who started building the AI coding tool in 2023, as some question Cursor's reliance on third-party models (Angel Au-Yeung/Wall Street Journal) (2025-12-02)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/251125/p1#a251125p1"
+            "news": "http://www.techmeme.com/251202/p11#a251202p11"
           }
         },
         {
