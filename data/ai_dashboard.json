@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-02",
+    "last_updated": "2025-12-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race (2025-12-02)",
+          "whats_new": "It&#8217;s their job to keep AI from destroying everything (2025-12-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Apple AI chief steps down following Siri setbacks (2025-12-01)",
+          "whats_new": "[D] How to make ML publications not show arxiv by default on Google scholar? (2025-12-03)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pcygva/d_how_to_make_ml_publications_not_show_arxiv_by/"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[R] Using model KV cache for persistent memory instead of external retrieval, has anyone explored this (2025-11-25)",
+          "whats_new": "[P] Open-Source NeurIPS 2025 Co-Pilot for Personalized Schedules and Paper Exploration (2025-12-03)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1p6gbc1/r_using_model_kv_cache_for_persistent_memory/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pcvr47/p_opensource_neurips_2025_copilot_for/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Inside Mirakl\u2019s Agent Commerce Vision (2025-12-01)",
+          "whats_new": "[R] Repositories & datasets for finetuning small-scale LLMs (pre-trained on OpenWebText) (2025-12-02)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/mirakl"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pcco1w/r_repositories_datasets_for_finetuning_smallscale/"
           },
           "total": 84.1
         },
