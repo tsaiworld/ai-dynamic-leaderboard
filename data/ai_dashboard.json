@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-04",
+    "last_updated": "2025-12-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are \"not to subsidize OpenAI costing us a ton of money\" (Reuters) (2025-12-04)",
+          "whats_new": "CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI (Lily Hay Newman/Wired) (2025-12-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251204/p13#a251204p13"
+            "news": "http://www.techmeme.com/251205/p2#a251205p2"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic&#8217;s AI bubble &#8216;YOLO&#8217; warning (2025-12-03)",
+          "whats_new": "[D] We stress-tested the idea of \u201cLLMs with thousands of tools.\u201d The results challenge some assumptions. (2025-12-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/column/837779/anthropic-ai-bubble-warning"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pei5vc/d_we_stresstested_the_idea_of_llms_with_thousands/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The EU says it is gathering information and feedback from ~200 stakeholders on Google's offer to fix alleged antitrust violations linked to its ad tech business (Bloomberg) (2025-12-04)",
+          "whats_new": "Sources and docs: India's government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed (Reuters) (2025-12-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251204/p22#a251204p22"
+            "news": "http://www.techmeme.com/251205/p14#a251205p14"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] Repositories & datasets for finetuning small-scale LLMs (pre-trained on OpenWebText) (2025-12-02)",
+          "whats_new": "Inside Mirakl's agentic commerce vision (2025-12-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pcco1w/r_repositories_datasets_for_finetuning_smallscale/"
+            "news": "https://openai.com/index/mirakl"
           },
           "total": 84.1
         },
