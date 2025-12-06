@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-05",
+    "last_updated": "2025-12-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI (Lily Hay Newman/Wired) (2025-12-05)",
+          "whats_new": "OpenAI\u2019s GPT-5.2 \u2018code red\u2019 response to Google is coming next week (2025-12-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251205/p2#a251205p2"
+            "news": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources and docs: India's government is considering forcing phone makers to enable always-on satellite location tracking; Apple, Google, and Samsung are opposed (Reuters) (2025-12-05)",
+          "whats_new": "[P] 96.1M Rows of iNaturalist Research-Grade plant images (with species names) (2025-12-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251205/p14#a251205p14"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pfgcnu/p_961m_rows_of_inaturalist_researchgrade_plant/"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Inside Mirakl's agentic commerce vision (2025-12-01)",
+          "whats_new": "[R] PaperDebugger: the Best Overleaf Companion (2025-12-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/mirakl"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1peyxib/r_paperdebugger_the_best_overleaf_companion/"
           },
           "total": 84.1
         },
