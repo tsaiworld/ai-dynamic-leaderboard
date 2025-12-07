@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-06",
+    "last_updated": "2025-12-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s GPT-5.2 \u2018code red\u2019 response to Google is coming next week (2025-12-05)",
+          "whats_new": "ChatGPT head says screenshots of ChatGPT ads are \"either not real or not ads\"; OpenAI's research chief says \"anything that feels like an ad\" is now turned off (Matthias Bastian/The Decoder) (2025-12-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
+            "news": "http://www.techmeme.com/251206/p9#a251206p9"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[P] 96.1M Rows of iNaturalist Research-Grade plant images (with species names) (2025-12-06)",
+          "whats_new": "[Research] ARC Prize 2025 Results and Analysis (2025-12-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pfgcnu/p_961m_rows_of_inaturalist_researchgrade_plant/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pfx1x2/research_arc_prize_2025_results_and_analysis/"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Warner Music Group partners with Suno to offer AI likenesses of its artists (2025-11-25)",
+          "whats_new": "PermitFlow, which develops AI-powered workflow software for construction permitting, raised a $54M Series B led by Accel, a source says at a ~$500M valuation (Rashi Shrivastava/Forbes) (2025-12-07)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal"
+            "news": "http://www.techmeme.com/251207/p2#a251207p2"
           },
           "total": 79.6
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] PaperDebugger: the Best Overleaf Companion (2025-12-05)",
+          "whats_new": "[D] Top ICLR 2026 Papers Found with fake Citations \u2014 Even Reviewers Missed Them (2025-12-06)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1peyxib/r_paperdebugger_the_best_overleaf_companion/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pg1og8/d_top_iclr_2026_papers_found_with_fake_citations/"
           },
           "total": 84.1
         },
