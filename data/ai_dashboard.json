@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-07",
+    "last_updated": "2025-12-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "ChatGPT head says screenshots of ChatGPT ads are \"either not real or not ads\"; OpenAI's research chief says \"anything that feels like an ad\" is now turned off (Matthias Bastian/The Decoder) (2025-12-06)",
+          "whats_new": "The state of enterprise AI (2025-12-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251206/p9#a251206p9"
+            "news": "https://openai.com/index/the-state-of-enterprise-ai-2025-report"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D] We stress-tested the idea of \u201cLLMs with thousands of tools.\u201d The results challenge some assumptions. (2025-12-05)",
+          "whats_new": "Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories (Rohan Doshi/The Keyword) (2025-12-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pei5vc/d_we_stresstested_the_idea_of_llms_with_thousands/"
+            "news": "http://www.techmeme.com/251208/p6#a251208p6"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[Research] ARC Prize 2025 Results and Analysis (2025-12-06)",
+          "whats_new": "[D] How did Gemini 3 Pro manage to get 38.3% on Humanity's Last Exam? (2025-12-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pfx1x2/research_arc_prize_2025_results_and_analysis/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pgqbjd/d_how_did_gemini_3_pro_manage_to_get_383_on/"
           },
           "total": 83.25
         },
