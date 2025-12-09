@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-08",
+    "last_updated": "2025-12-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The state of enterprise AI (2025-12-08)",
+          "whats_new": "Bringing powerful AI to millions across Europe with Deutsche Telekom (2025-12-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/the-state-of-enterprise-ai-2025-report"
+            "news": "https://openai.com/index/deutsche-telekom-collaboration"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories (Rohan Doshi/The Keyword) (2025-12-08)",
+          "whats_new": "Anthropic and Accenture sign a three-year deal to sell AI services to businesses; the deal makes Accenture one of Anthropic's top three enterprise clients (Belle Lin/Wall Street Journal) (2025-12-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251208/p6#a251208p6"
+            "news": "http://www.techmeme.com/251209/p14#a251209p14"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] How did Gemini 3 Pro manage to get 38.3% on Humanity's Last Exam? (2025-12-07)",
+          "whats_new": "The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in \"the use of online content for AI purposes\" (Barbara Moens/Financial Times) (2025-12-09)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pgqbjd/d_how_did_gemini_3_pro_manage_to_get_383_on/"
+            "news": "http://www.techmeme.com/251209/p7#a251209p7"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Open-Source NeurIPS 2025 Co-Pilot for Personalized Schedules and Paper Exploration (2025-12-03)",
+          "whats_new": "Sources: Meta is pursuing a new Llama successor and frontier AI model, codenamed Avocado, set for release in Q1 2026, and it could be a proprietary model (Jonathan Vanian/CNBC) (2025-12-09)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pcvr47/p_opensource_neurips_2025_copilot_for/"
+            "news": "http://www.techmeme.com/251209/p13#a251209p13"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Top ICLR 2026 Papers Found with fake Citations \u2014 Even Reviewers Missed Them (2025-12-06)",
+          "whats_new": "Inside Mirakl's agentic commerce vision (2025-12-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pg1og8/d_top_iclr_2026_papers_found_with_fake_citations/"
+            "news": "https://openai.com/index/mirakl"
           },
           "total": 84.1
         },
