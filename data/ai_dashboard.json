@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-10",
+    "last_updated": "2025-12-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October (Jess Weatherbed/The Verge) (2025-12-10)",
+          "whats_new": "OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son, who had engaged in delusion-filled conversations with ChatGPT (Julie Jargon/Wall Street Journal) (2025-12-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251210/p29#a251210p29"
+            "news": "http://www.techmeme.com/251211/p11#a251211p11"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[P] Self-learning loop achieves 14k line code translation with zero errors: no fine-tuning, just execution feedback (2025-12-08)",
+          "whats_new": "A look at the Model Context Protocol and how it went from a passion project made by Anthropic employees to an industry standard managed by the Linux Foundation (Hayden Field/The Verge) (2025-12-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1phn2b0/p_selflearning_loop_achieves_14k_line_code/"
+            "news": "http://www.techmeme.com/251211/p7#a251211p7"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "TTP: Apple's App Store and Google's Play Store host dozens of apps linked to US-sanctioned foreign companies; Google removed 17 apps and Apple removed 35 (Joseph Menn/Washington Post) (2025-12-10)",
+          "whats_new": "Google launches Gemini AI features in Chrome for iPhone and iPad, after debuting on desktop and Android earlier in 2025, starting in the US in English (Steve Dent/Engadget) (2025-12-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251210/p25#a251210p25"
+            "news": "http://www.techmeme.com/251211/p20#a251211p20"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT can now use Adobe apps to edit your photos and PDFs for free (2025-12-10)",
+          "whats_new": "How Scout24 is building the next generation of real-estate search with AI (2025-12-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
+            "news": "https://openai.com/index/scout24"
           },
           "total": 84.1
         },
