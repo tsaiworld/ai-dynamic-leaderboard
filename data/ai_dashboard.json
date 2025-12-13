@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-12",
+    "last_updated": "2025-12-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "BBVA and OpenAI collaborate to transform global banking (2025-12-12)",
+          "whats_new": "OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok (Financial Times) (2025-12-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/bbva-collaboration-expansion"
+            "news": "http://www.techmeme.com/251213/p6#a251213p6"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Broadcom CEO Hock Tan reveals that Anthropic placed a $10B order for Google's Ironwood TPU racks in Q3 and says it placed an additional $11B order in Q4 (CNBC) (2025-12-11)",
+          "whats_new": "[R] debugging-only LLM? chronos-1 paper claims 4\u20135x better results than GPT-4 ... thoughts? (2025-12-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251211/p50#a251211p50"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pjxs4c/r_debuggingonly_llm_chronos1_paper_claims_45x/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China's rising influence in the region (Kirsty Needham/Reuters) (2025-12-12)",
+          "whats_new": "[P] AI Voice Cloning with Coqui XTTS-v2 on Google Colab (Free) (2025-12-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251212/p5#a251212p5"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1plh4b3/p_ai_voice_cloning_with_coqui_xttsv2_on_google/"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "PermitFlow, which develops AI-powered workflow software for construction permitting, raised a $54M Series B led by Accel, a source says at a ~$500M valuation (Rashi Shrivastava/Forbes) (2025-12-07)",
+          "whats_new": "How to vibe-write a country hit (2025-12-12)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "http://www.techmeme.com/251207/p2#a251207p2"
+            "news": "https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast"
           },
           "total": 79.6
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GPT-5.2 models have a 400K context window and 128K max output tokens, like GPT-5 and 5.1, but have an August 31, 2025, knowledge cutoff, vs. September 30, 2024 (Simon Willison/Simon Willison's Newsletter) (2025-12-12)",
+          "whats_new": "[D] GPT confidently generated a fake NeurIPS architecture. Loss function, code, the works. How does this get fixed? (2025-12-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251212/p2#a251212p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pkrc6c/d_gpt_confidently_generated_a_fake_neurips/"
           },
           "total": 84.1
         },
