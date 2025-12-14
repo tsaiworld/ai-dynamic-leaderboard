@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-13",
+    "last_updated": "2025-12-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok (Financial Times) (2025-12-13)",
+          "whats_new": "Sources: OpenAI told staff it was ending the six-month \"vesting cliff\" that required new employees to work for at least six months before their equity vests (Wall Street Journal) (2025-12-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251213/p6#a251213p6"
+            "news": "http://www.techmeme.com/251214/p2#a251214p2"
           },
           "total": 88.65
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] GPT confidently generated a fake NeurIPS architecture. Loss function, code, the works. How does this get fixed? (2025-12-12)",
+          "whats_new": "A profile of ASML, Europe's most valuable company, as it prepares for a transition to High NA EUV, with high-volume manufacturing expected in 2027 and 2028 (Bloomberg) (2025-12-14)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pkrc6c/d_gpt_confidently_generated_a_fake_neurips/"
+            "news": "http://www.techmeme.com/251214/p10#a251214p10"
           },
           "total": 84.1
         },
