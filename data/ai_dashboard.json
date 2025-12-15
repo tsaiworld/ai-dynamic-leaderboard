@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-14",
+    "last_updated": "2025-12-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI told staff it was ending the six-month \"vesting cliff\" that required new employees to work for at least six months before their equity vests (Wall Street Journal) (2025-12-14)",
+          "whats_new": "AI drug discovery startup Chai Discovery raised a $130M Series B led by Oak HC/FT and General Catalyst at a $1.3B valuation, taking its total funding to $225M (Caroline Hyde/Bloomberg) (2025-12-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251214/p2#a251214p2"
+            "news": "http://www.techmeme.com/251215/p14#a251215p14"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[P] AI Voice Cloning with Coqui XTTS-v2 on Google Colab (Free) (2025-12-13)",
+          "whats_new": "Sources: the UK government wants Apple, Google, and others to block explicit images at the OS level by default to protect kids and have adults verify their ages (Financial Times) (2025-12-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1plh4b3/p_ai_voice_cloning_with_coqui_xttsv2_on_google/"
+            "news": "http://www.techmeme.com/251215/p11#a251215p11"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A profile of ASML, Europe's most valuable company, as it prepares for a transition to High NA EUV, with high-volume manufacturing expected in 2027 and 2028 (Bloomberg) (2025-12-14)",
+          "whats_new": "London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 (John Reynolds/Tech.eu) (2025-12-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251214/p10#a251214p10"
+            "news": "http://www.techmeme.com/251215/p8#a251215p8"
           },
           "total": 84.1
         },
