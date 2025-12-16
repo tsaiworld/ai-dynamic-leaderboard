@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-15",
+    "last_updated": "2025-12-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "AI drug discovery startup Chai Discovery raised a $130M Series B led by Oak HC/FT and General Catalyst at a $1.3B valuation, taking its total funding to $225M (Caroline Hyde/Bloomberg) (2025-12-15)",
+          "whats_new": "Can OpenAI Respond After Google Closes the A.I. Technology Gap? (2025-12-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251215/p14#a251215p14"
+            "news": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] debugging-only LLM? chronos-1 paper claims 4\u20135x better results than GPT-4 ... thoughts? (2025-12-11)",
+          "whats_new": "I'm a big fan of small models, Infra as Code 500MB model.. small enough for edge or browser [P] (2025-12-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pjxs4c/r_debuggingonly_llm_chronos1_paper_claims_45x/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1po11wv/im_a_big_fan_of_small_models_infra_as_code_500mb/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: the UK government wants Apple, Google, and others to block explicit images at the OS level by default to protect kids and have adults verify their ages (Financial Times) (2025-12-15)",
+          "whats_new": "Elizabeth Warren and two Democratic senators write to Google, Microsoft, Amazon, Meta, and more to investigate AI data centers' role in rising electricity costs (New York Times) (2025-12-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251215/p11#a251215p11"
+            "news": "http://www.techmeme.com/251216/p10#a251216p10"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 (John Reynolds/Tech.eu) (2025-12-15)",
+          "whats_new": "Stack Overflow users don\u2019t trust AI. They\u2019re using it anyway (2025-12-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/251215/p8#a251215p8"
+            "news": "https://www.theverge.com/podcast/844073/stack-overflow-ceo-ai-coding-chatgpt-code-red-interview"
           },
           "total": 84.1
         },
