@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-18",
+    "last_updated": "2025-12-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot (Bloomberg) (2025-12-18)",
+          "whats_new": "Evaluating chain-of-thought monitorability (2025-12-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251218/p24#a251218p24"
+            "news": "https://openai.com/index/evaluating-chain-of-thought-monitorability"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "TMTG agrees to merge with Google-backed fusion energy company TAE in a $6B deal and begin building the \"world's first utility-scale fusion power plant\" in 2026 (Financial Times) (2025-12-18)",
+          "whats_new": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI (2025-12-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251218/p22#a251218p22"
+            "news": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Developers can now submit apps to ChatGPT (2025-12-17)",
+          "whats_new": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex (2025-12-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt"
+            "news": "https://openai.com/index/gpt-5-2-codex-system-card"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "[D] Examining Author Counts and Citation Counts at ML Conferences (2025-12-11)",
+          "whats_new": "LG forced a Copilot web app onto its TVs but will let you delete it (2025-12-18)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pkbxmo/d_examining_author_counts_and_citation_counts_at/"
+            "news": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
           }
         },
         {
