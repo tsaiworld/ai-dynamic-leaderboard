@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-19",
+    "last_updated": "2025-12-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Evaluating chain-of-thought monitorability (2025-12-18)",
+          "whats_new": "OpenAI introduces a framework to evaluate chain-of-thought monitorability and a suite of 13 evaluations designed to measure the monitorability of an AI system (OpenAI) (2025-12-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/evaluating-chain-of-thought-monitorability"
+            "news": "http://www.techmeme.com/251220/p5#a251220p5"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI (2025-12-18)",
+          "whats_new": "Gemini isn\u2019t replacing Google Assistant on Android just yet (2025-12-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
+            "news": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
           },
           "total": 83.25
         },
