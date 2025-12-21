@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-20",
+    "last_updated": "2025-12-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI introduces a framework to evaluate chain-of-thought monitorability and a suite of 13 evaluations designed to measure the monitorability of an AI system (OpenAI) (2025-12-20)",
+          "whats_new": "Q&A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI's impact on jobs, and more (Shirin Ghaffary/Bloomberg) (2025-12-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251220/p5#a251220p5"
+            "news": "http://www.techmeme.com/251221/p5#a251221p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Hut 8 partners with Fluidstack to build an AI data center in Louisiana for Anthropic, backed by a 15-year, $7B lease, starting with 245MW of computing capacity (Akash Sriram/Reuters) (2025-12-17)",
+          "whats_new": "METR: Claude Opus 4.5 has a 50% task completion time horizon of about 4 hours and 49 minutes, more than double that of Claude Opus 4 released earlier this year (@metr_evals) (2025-12-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251217/p22#a251217p22"
+            "news": "http://www.techmeme.com/251221/p1#a251221p1"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini isn\u2019t replacing Google Assistant on Android just yet (2025-12-19)",
+          "whats_new": "A profile of Josh Woodward, the head of Google Labs who is credited with turning around the Gemini app, growing its MAUs from 350M in March to 650M by October (Jennifer Elias/CNBC) (2025-12-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
+            "news": "http://www.techmeme.com/251220/p15#a251220p15"
           },
           "total": 83.25
         },
