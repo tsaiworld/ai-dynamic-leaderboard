@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-21",
+    "last_updated": "2025-12-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Q&A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI's impact on jobs, and more (Shirin Ghaffary/Bloomberg) (2025-12-21)",
+          "whats_new": "Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks (Bloomberg) (2025-12-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251221/p5#a251221p5"
+            "news": "http://www.techmeme.com/251222/p7#a251222p7"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A profile of Josh Woodward, the head of Google Labs who is credited with turning around the Gemini app, growing its MAUs from 350M in March to 650M by October (Jennifer Elias/CNBC) (2025-12-20)",
+          "whats_new": "A look at Google's TPU evolution, its decision to sell chips to competitors after 12 years of internal use, the TPU vs. GPU architecture showdown, and more (The Chip Letter) (2025-12-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251220/p15#a251220p15"
+            "news": "http://www.techmeme.com/251222/p4#a251222p4"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex (2025-12-18)",
+          "whats_new": "She Fell in Love With ChatGPT. Then She Ghosted It. (2025-12-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-2-codex-system-card"
+            "news": "https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html"
           },
           "total": 84.1
         },
