@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-22",
+    "last_updated": "2025-12-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks (Bloomberg) (2025-12-22)",
+          "whats_new": "Google's Nano Banana Pro and OpenAI's ChatGPT Images can make nonconsensual bikini deepfakes from photos of fully clothed women; Reddit bans r/ChatGPTJailbreak (Reece Rogers/Wired) (2025-12-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251222/p7#a251222p7"
+            "news": "http://www.techmeme.com/251223/p11#a251223p11"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at Google's TPU evolution, its decision to sell chips to competitors after 12 years of internal use, the TPU vs. GPU architecture showdown, and more (The Chip Letter) (2025-12-22)",
+          "whats_new": "Google Buys Data Center Company for $4.75 Billion (2025-12-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251222/p4#a251222p4"
+            "news": "https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "She Fell in Love With ChatGPT. Then She Ghosted It. (2025-12-22)",
+          "whats_new": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot (2025-12-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html"
+            "news": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
           },
           "total": 84.1
         },
