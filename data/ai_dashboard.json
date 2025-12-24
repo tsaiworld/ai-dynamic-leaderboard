@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-23",
+    "last_updated": "2025-12-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Google's Nano Banana Pro and OpenAI's ChatGPT Images can make nonconsensual bikini deepfakes from photos of fully clothed women; Reddit bans r/ChatGPTJailbreak (Reece Rogers/Wired) (2025-12-23)",
+          "whats_new": "One in a million: celebrating the customers shaping AI\u2019s future (2025-12-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251223/p11#a251223p11"
+            "news": "https://openai.com/index/one-in-a-million-customers"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "METR: Claude Opus 4.5 has a 50% task completion time horizon of about 4 hours and 49 minutes, more than double that of Claude Opus 4 released earlier this year (@metr_evals) (2025-12-21)",
+          "whats_new": "[D]2025 Year in Review: The old methods quietly solving problems the new ones can't (2025-12-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/251221/p1#a251221p1"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pumssb/d2025_year_in_review_the_old_methods_quietly/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Buys Data Center Company for $4.75 Billion (2025-12-22)",
+          "whats_new": "Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google (2025-12-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html"
+            "news": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html"
           },
           "total": 83.25
         },
