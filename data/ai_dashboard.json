@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-24",
+    "last_updated": "2025-12-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "One in a million: celebrating the customers shaping AI\u2019s future (2025-12-22)",
+          "whats_new": "[D] The Intelligence-Energy Bound: Thermodynamic framework for AI scaling limits (feedback requested) (2025-12-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/one-in-a-million-customers"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pv8b3p/d_the_intelligenceenergy_bound_thermodynamic/"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google (2025-12-24)",
+          "whats_new": "Q&A with Google DeepMind VP of Research Pushmeet Kohli on launching AlphaFold 2 five years ago, hallucinations, building an \"AI co-scientist\", and more (Sandro Iannaccone/Wired) (2025-12-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html"
+            "news": "http://www.techmeme.com/251224/p19#a251224p19"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot (2025-12-22)",
+          "whats_new": "[P] The Story Of Topcat (So Far) (2025-12-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1purjmx/p_the_story_of_topcat_so_far/"
           },
           "total": 84.1
         },
