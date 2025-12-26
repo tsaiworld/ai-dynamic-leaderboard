@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-25",
+    "last_updated": "2025-12-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Q&A with Google DeepMind VP of Research Pushmeet Kohli on launching AlphaFold 2 five years ago, hallucinations, building an \"AI co-scientist\", and more (Sandro Iannaccone/Wired) (2025-12-24)",
+          "whats_new": "A Google support page in Hindi says the company plans to roll out an option to let users change their Gmail addresses while retaining all data and services (Ben Schoon/9to5Google) (2025-12-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251224/p19#a251224p19"
+            "news": "http://www.techmeme.com/251226/p4#a251226p4"
           },
           "total": 83.25
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "A profile of Cursor CEO Michael Truell, a 25-year-old who started building the AI coding tool in 2023, as some question Cursor's reliance on third-party models (Angel Au-Yeung/Wall Street Journal) (2025-12-02)",
+          "whats_new": "Cursor CEO Michael Truell warns that \"vibe coding\" advanced projects may create \"shaky foundations\" and eventually \"things start to kind of crumble\" (Marco Quiroz-Gutierrez/Fortune) (2025-12-26)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/251202/p11#a251202p11"
+            "news": "http://www.techmeme.com/251226/p1#a251226p1"
           }
         },
         {
