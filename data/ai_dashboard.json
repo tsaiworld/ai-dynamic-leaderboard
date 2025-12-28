@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-27",
+    "last_updated": "2025-12-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI (Jordan Novet/CNBC) (2025-12-26)",
+          "whats_new": "Sam Altman says OpenAI is seeking a new Head of Preparedness, noting \"the potential impact of models on mental health was something we saw a preview of in 2025\" (Cheyenne MacDonald/Engadget) (2025-12-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/251226/p8#a251226p8"
+            "news": "http://www.techmeme.com/251228/p3#a251228p3"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D]2025 Year in Review: The old methods quietly solving problems the new ones can't (2025-12-24)",
+          "whats_new": "[D] r/MachineLearning - a year in review (2025-12-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pumssb/d2025_year_in_review_the_old_methods_quietly/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1px1agd/d_rmachinelearning_a_year_in_review/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Amazon, Microsoft, and Google pledged a combined $67.5B in Indian investments since October, 80% of those in December, as part of an AI spending frenzy in India (Pranshu Verma/Washington Post) (2025-12-26)",
+          "whats_new": "[P] S2ID: Scale Invariant Image Diffuser - trained on standard MNIST, generates 1024x1024 digits and at arbitrary aspect ratios with almost no artifacts at 6.1M parameters (Drastic code change and architectural improvement) (2025-12-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251226/p7#a251226p7"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pwd8su/p_s2id_scale_invariant_image_diffuser_trained_on/"
           },
           "total": 83.25
         },
