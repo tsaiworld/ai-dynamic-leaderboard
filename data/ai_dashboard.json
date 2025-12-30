@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-29",
+    "last_updated": "2025-12-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D] r/MachineLearning - a year in review (2025-12-27)",
+          "whats_new": "[R] If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us) and we are working on some strange things (2025-12-29)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1px1agd/d_rmachinelearning_a_year_in_review/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1pyx65m/r_if_you_are_interested_in_studying_modelagent/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs (Lydia Wheeler/Wall Street Journal) (2025-12-29)",
+          "whats_new": "Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in \"founder mode\" (Rafe Rosner-Uddin/Financial Times) (2025-12-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251229/p1#a251229p1"
+            "news": "http://www.techmeme.com/251230/p4#a251230p4"
           },
           "total": 83.25
         },
