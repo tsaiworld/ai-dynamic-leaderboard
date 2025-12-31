@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2025-12-30",
+    "last_updated": "2025-12-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sam Altman is hiring someone to worry about the dangers of AI (2025-12-27)",
+          "whats_new": "OpenAI financial data: its stock-based pay averaged ~$1.5M per employee in 2025, ~7x Google pre-IPO and ~34x the average pay of other pre-IPO peers, per Equilar (Wall Street Journal) (2025-12-31)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness"
+            "news": "http://www.techmeme.com/251231/p7#a251231p7"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us) and we are working on some strange things (2025-12-29)",
+          "whats_new": "[D] AI coding agents for DS/ML (notebooks) - what's your workflow? (2025-12-31)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pyx65m/r_if_you_are_interested_in_studying_modelagent/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q08hdo/d_ai_coding_agents_for_dsml_notebooks_whats_your/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in \"founder mode\" (Rafe Rosner-Uddin/Financial Times) (2025-12-30)",
+          "whats_new": "Gmail to Let Users Change Their Addresses While Keeping Data (2025-12-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/251230/p4#a251230p4"
+            "news": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html"
           },
           "total": 83.25
         },
