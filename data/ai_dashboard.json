@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-01",
+    "last_updated": "2026-01-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: SpaceX, OpenAI, and Anthropic could IPO in 2026; those three deals alone would exceed the total proceeds from roughly 200 US IPOs in 2025 (George Hammond/Financial Times) (2026-01-01)",
+          "whats_new": "Sources: OpenAI is taking steps to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information) (2026-01-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260101/p6#a260101p6"
+            "news": "http://www.techmeme.com/260101/p10#a260101p10"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 (Financial Times) (2026-01-01)",
+          "whats_new": "Gmail to Let Users Change Their Addresses While Keeping Data (2025-12-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260101/p8#a260101p8"
+            "news": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot (2025-12-22)",
+          "whats_new": "[P] I built a desktop tool to inspect and debug vector databases and embeddings (2026-01-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q17j5a/p_i_built_a_desktop_tool_to_inspect_and_debug/"
           },
           "total": 84.1
         },
