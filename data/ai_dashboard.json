@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-02",
+    "last_updated": "2026-01-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI is taking steps to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information) (2026-01-01)",
+          "whats_new": "Presentable / Publishable Paper? [R] (2026-01-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260101/p10#a260101p10"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q2j5mf/presentable_publishable_paper_r/"
           },
           "total": 88.65
         },
@@ -73,7 +73,7 @@
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] imesde: CPU-first Vector Engine for sub-millisecond Semantic Streaming using SIMD and Sliding Window Centroids (2025-12-29)",
+          "whats_new": "[P] FlakeStorm: Chaos Engineering for AI Agent Testing (Apache 2.0, Rust-accelerated) (2026-01-03)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1pym075/p_imesde_cpufirst_vector_engine_for/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q2nlsk/p_flakestorm_chaos_engineering_for_ai_agent/"
           }
         }
       ]
