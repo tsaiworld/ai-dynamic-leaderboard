@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-03",
+    "last_updated": "2026-01-04",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Presentable / Publishable Paper? [R] (2026-01-03)",
+          "whats_new": "Q&A with Kara Swisher on Sam Altman's determination to \"do anything to make OpenAI win\", Elon Musk, the tech industry's Trump pivot, and more (Mishal Husain/Bloomberg) (2026-01-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q2j5mf/presentable_publishable_paper_r/"
+            "news": "http://www.techmeme.com/260103/p7#a260103p7"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gmail to Let Users Change Their Addresses While Keeping Data (2025-12-30)",
+          "whats_new": "EU officials and policymakers say the EC will intensify its enforcement of the DMA and DSA in 2026, a move expected to renew clashes with US Big Tech and Trump (Barbara Moens/Financial Times) (2026-01-04)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html"
+            "news": "http://www.techmeme.com/260104/p3#a260104p3"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] I built a desktop tool to inspect and debug vector databases and embeddings (2026-01-01)",
+          "whats_new": "Fueled partly by US tech companies, governments worldwide are racing to deploy GenAI in schools and universities, even as agencies such as UNICEF urge caution (Natasha Singer/New York Times) (2026-01-03)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q17j5a/p_i_built_a_desktop_tool_to_inspect_and_debug/"
+            "news": "http://www.techmeme.com/260103/p10#a260103p10"
           },
           "total": 84.1
         },
