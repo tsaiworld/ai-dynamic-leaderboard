@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-04",
+    "last_updated": "2026-01-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Q&A with Kara Swisher on Sam Altman's determination to \"do anything to make OpenAI win\", Elon Musk, the tech industry's Trump pivot, and more (Mishal Husain/Bloomberg) (2026-01-03)",
+          "whats_new": "OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an \"ally\" for health care (Megan Morrone/Axios) (2026-01-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260103/p7#a260103p7"
+            "news": "http://www.techmeme.com/260105/p14#a260105p14"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "EU officials and policymakers say the EC will intensify its enforcement of the DMA and DSA in 2026, a move expected to renew clashes with US Big Tech and Trump (Barbara Moens/Financial Times) (2026-01-04)",
+          "whats_new": "Samsung upgrades its Family Hub refrigerators with AI features, such as voice control to open and close the door and Gemini-powered AI Vision to track inventory (Jennifer Pattison Tuohy/The Verge) (2026-01-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260104/p3#a260104p3"
+            "news": "http://www.techmeme.com/260105/p1#a260105p1"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Fueled partly by US tech companies, governments worldwide are racing to deploy GenAI in schools and universities, even as agencies such as UNICEF urge caution (Natasha Singer/New York Times) (2026-01-03)",
+          "whats_new": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex (2025-12-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260103/p10#a260103p10"
+            "news": "https://openai.com/index/gpt-5-2-codex-system-card"
           },
           "total": 84.1
         },
