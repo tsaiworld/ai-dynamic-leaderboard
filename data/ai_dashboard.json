@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-06",
+    "last_updated": "2026-01-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Announcing OpenAI Grove Cohort 2 (2026-01-02)",
+          "whats_new": "Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients (Bloomberg) (2026-01-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-grove"
+            "news": "http://www.techmeme.com/260107/p10#a260107p10"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini on Google TV is getting Nano Banana and voice-controlled settings (2026-01-05)",
+          "whats_new": "[D] Shall I Reject Reviewing this CVPR Paper? (2026-01-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/854112/gemini-google-tv-nano-banana-veo-ces"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q58cgc/d_shall_i_reject_reviewing_this_cvpr_paper/"
           },
           "total": 83.25
         },
