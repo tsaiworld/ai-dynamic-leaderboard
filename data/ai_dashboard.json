@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-07",
+    "last_updated": "2026-01-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients (Bloomberg) (2026-01-07)",
+          "whats_new": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records (2026-01-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260107/p10#a260107p10"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Shall I Reject Reviewing this CVPR Paper? (2026-01-06)",
+          "whats_new": "Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription (Abner Li/9to5Google) (2026-01-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q58cgc/d_shall_i_reject_reviewing_this_cvpr_paper/"
+            "news": "http://www.techmeme.com/260108/p22#a260108p22"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex (2025-12-18)",
+          "whats_new": "How Tolan builds voice-first AI with GPT-5.1 (2026-01-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-2-codex-system-card"
+            "news": "https://openai.com/index/tolan"
           },
           "total": 84.1
         },
@@ -301,7 +301,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "Build & deploy assistants (2025-10-17)",
+          "whats_new": "A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel's war in Gaza before Replit's AI agent took off (Margaux MacColl/The San Francisco ...) (2026-01-08)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -312,7 +312,10 @@
             "privacy": 74,
             "innovation": 78
           },
-          "total": 74.7
+          "total": 74.7,
+          "links": {
+            "news": "http://www.techmeme.com/260108/p12#a260108p12"
+          }
         }
       ]
     }
