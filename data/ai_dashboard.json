@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-08",
+    "last_updated": "2026-01-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records (2026-01-07)",
+          "whats_new": "OpenAI for Healthcare (2026-01-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records"
+            "news": "https://openai.com/index/openai-for-healthcare"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D] AI coding agents for DS/ML (notebooks) - what's your workflow? (2025-12-31)",
+          "whats_new": "Grok\u2019s Undressing Scandal + Claude Code Capers + Casey Busts a Reddit Hoax (2026-01-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q08hdo/d_ai_coding_agents_for_dsml_notebooks_whats_your/"
+            "news": "https://www.nytimes.com/2026/01/09/podcasts/hardfork-grok-crisis-claude-code.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription (Abner Li/9to5Google) (2026-01-08)",
+          "whats_new": "Google is taking over your Gmail inbox with AI (2026-01-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260108/p22#a260108p22"
+            "news": "https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] FlakeStorm: Chaos Engineering for AI Agent Testing (Apache 2.0, Rust-accelerated) (2026-01-03)",
+          "whats_new": "[P] Three-Phase Self-Inclusive Evaluation Protocol for Synthetic Data Generation in a Fine-Tuned 4B Model (Experiment 3/100) (2026-01-08)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q2nlsk/p_flakestorm_chaos_engineering_for_ai_agent/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q7f7tr/p_threephase_selfinclusive_evaluation_protocol/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Tolan builds voice-first AI with GPT-5.1 (2026-01-07)",
+          "whats_new": "Netomi\u2019s lessons for scaling agentic systems into the enterprise (2026-01-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/tolan"
+            "news": "https://openai.com/index/netomi"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware) (2026-01-06)",
+          "whats_new": "Microsoft will put buy buttons directly in Copilot (2026-01-08)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/260106/p4#a260106p4"
+            "news": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
           }
         },
         {
