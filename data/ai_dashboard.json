@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-10",
+    "last_updated": "2026-01-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Michael Burry, Anthropic co-founder Jack Clark, and Dwarkesh Patel on the future of AI, whether AI tools improve productivity, job losses due to AI, and more (The Substack Post) (2026-01-10)",
+          "whats_new": "Grok\u2019s Undressing Scandal + Claude Code Capers + Casey Busts a Reddit Hoax (2026-01-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260110/p6#a260110p6"
+            "news": "https://www.nytimes.com/2026/01/09/podcasts/hardfork-grok-crisis-claude-code.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Democrats ask Apple and Google to remove X\u2019s undressing bot from their app stores (2026-01-09)",
+          "whats_new": "[P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source) (2026-01-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9bcl9/p_i_made_screen_vision_turn_any_confusing_ui_into/"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Three-Phase Self-Inclusive Evaluation Protocol for Synthetic Data Generation in a Fine-Tuned 4B Model (Experiment 3/100) (2026-01-08)",
+          "whats_new": "[D] Anyone running into KV cache / memory bandwidth limits with long-context inference? (2026-01-11)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q7f7tr/p_threephase_selfinclusive_evaluation_protocol/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9syiz/d_anyone_running_into_kv_cache_memory_bandwidth/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Netomi\u2019s lessons for scaling agentic systems into the enterprise (2026-01-08)",
+          "whats_new": "[P] Cronformer: Text to cron in the blink of an eye (2026-01-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/netomi"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9g644/p_cronformer_text_to_cron_in_the_blink_of_an_eye/"
           },
           "total": 84.1
         },
