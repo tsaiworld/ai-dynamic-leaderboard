@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-11",
+    "last_updated": "2026-01-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and SoftBank Group partner with SB Energy (2026-01-09)",
+          "whats_new": "Google brings buy buttons to Gemini and AI search (2026-01-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/stargate-sb-energy-partnership"
+            "news": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Grok\u2019s Undressing Scandal + Claude Code Capers + Casey Busts a Reddit Hoax (2026-01-09)",
+          "whats_new": "[R] paper on Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior (2026-01-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/01/09/podcasts/hardfork-grok-crisis-claude-code.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qastrk/r_paper_on_evaluative_fingerprints_stable_and/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source) (2026-01-10)",
+          "whats_new": "A look at claims from Google and others about quantum computing breakthroughs over the past few months that helped boost quantum computing stocks in 2025 (Richard Waters/Financial Times) (2026-01-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9bcl9/p_i_made_screen_vision_turn_any_confusing_ui_into/"
+            "news": "http://www.techmeme.com/260112/p6#a260112p6"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] Cronformer: Text to cron in the blink of an eye (2026-01-10)",
+          "whats_new": "CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo's chatty motorized laptop to Sharp's ChatGPT-powered Poketomo (Chris Velazco/Washington Post) (2026-01-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9g644/p_cronformer_text_to_cron_in_the_blink_of_an_eye/"
+            "news": "http://www.techmeme.com/260112/p4#a260112p4"
           },
           "total": 84.1
         },
