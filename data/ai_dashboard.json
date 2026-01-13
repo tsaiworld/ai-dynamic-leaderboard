@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-12",
+    "last_updated": "2026-01-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Google brings buy buttons to Gemini and AI search (2026-01-12)",
+          "whats_new": "Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A (Kate Park/TechCrunch) (2026-01-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini"
+            "news": "http://www.techmeme.com/260113/p14#a260113p14"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] paper on Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior (2026-01-12)",
+          "whats_new": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push (2026-01-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qastrk/r_paper_on_evaluative_fingerprints_stable_and/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at claims from Google and others about quantum computing breakthroughs over the past few months that helped boost quantum computing stocks in 2025 (Richard Waters/Financial Times) (2026-01-12)",
+          "whats_new": "Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China (Lauly Li/Nikkei Asia) (2026-01-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260112/p6#a260112p6"
+            "news": "http://www.techmeme.com/260113/p9#a260113p9"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo's chatty motorized laptop to Sharp's ChatGPT-powered Poketomo (Chris Velazco/Washington Post) (2026-01-12)",
+          "whats_new": "[P] Cronformer: Text to cron in the blink of an eye (2026-01-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260112/p4#a260112p4"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9g644/p_cronformer_text_to_cron_in_the_blink_of_an_eye/"
           },
           "total": 84.1
         },
