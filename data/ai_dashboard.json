@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-13",
+    "last_updated": "2026-01-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A (Kate Park/TechCrunch) (2026-01-13)",
+          "whats_new": "What Apple and Google\u2019s Gemini deal means for both companies (2026-01-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260113/p14#a260113p14"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push (2026-01-12)",
+          "whats_new": "Anthropic shakes up C-suite to expand its internal incubator (2026-01-13)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google will start developing and making high-end Pixel phones like the Pro and Fold from scratch in Vietnam in 2026; the Pixel A remains in China (Lauly Li/Nikkei Asia) (2026-01-13)",
+          "whats_new": "US Big Tech companies have been on an energy-related hiring spree; Workforce.AI says Microsoft has hired 570+ people with energy-related expertise since 2022 (Tasmin Lockwood/CNBC) (2026-01-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260113/p9#a260113p9"
+            "news": "http://www.techmeme.com/260114/p20#a260114p20"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[D] Anyone running into KV cache / memory bandwidth limits with long-context inference? (2026-01-11)",
+          "whats_new": "Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app (Natalie Lung/Bloomberg) (2026-01-14)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9syiz/d_anyone_running_into_kv_cache_memory_bandwidth/"
+            "news": "http://www.techmeme.com/260114/p29#a260114p29"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] Cronformer: Text to cron in the blink of an eye (2026-01-10)",
+          "whats_new": "Zenken boosts a lean sales team with ChatGPT Enterprise (2026-01-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1q9g644/p_cronformer_text_to_cron_in_the_blink_of_an_eye/"
+            "news": "https://openai.com/index/zenken"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft will put buy buttons directly in Copilot (2026-01-08)",
+          "whats_new": "UK police blame Microsoft Copilot for intelligence mistake (2026-01-14)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
+            "news": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
           }
         },
         {
