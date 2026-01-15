@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-01-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "What Apple and Google\u2019s Gemini deal means for both companies (2026-01-13)",
+          "whats_new": "OpenAI\u2019s ChatGPT translator challenges Google Translate (2026-01-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means"
+            "news": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic shakes up C-suite to expand its internal incubator (2026-01-13)",
+          "whats_new": "Anthropic researchers say rich countries' higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains (Financial Times) (2026-01-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger"
+            "news": "http://www.techmeme.com/260115/p27#a260115p27"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "US Big Tech companies have been on an energy-related hiring spree; Workforce.AI says Microsoft has hired 570+ people with energy-related expertise since 2022 (Tasmin Lockwood/CNBC) (2026-01-14)",
+          "whats_new": "\u2018Get Grok Gone\u2019: Advocacy groups demand Apple and Google block X from app stores (2026-01-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260114/p20#a260114p20"
+            "news": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Zenken boosts a lean sales team with ChatGPT Enterprise (2026-01-13)",
+          "whats_new": "Nvidia: End-to-End Test-Time Training for Long Context aka Being Able To Update A Model's Weights In Real-Time As You Use It | \"TTT changes the paradigm from retrieving info to learning it on the fly...the TTT model treats the context window as a dataset & trains itself on it in real-time.\" [R] (2026-01-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/zenken"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qd696s/nvidia_endtoend_testtime_training_for_long/"
           },
           "total": 84.1
         },
