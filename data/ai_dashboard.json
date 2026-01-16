@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-15",
+    "last_updated": "2026-01-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s ChatGPT translator challenges Google Translate (2026-01-15)",
+          "whats_new": "\u2018Sideshow\u2019 concerns and billionaire dreams: What I learned from Elon Musk\u2019s lawsuit against OpenAI (2026-01-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website"
+            "news": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "\u2018Get Grok Gone\u2019: Advocacy groups demand Apple and Google block X from app stores (2026-01-15)",
+          "whats_new": "[R] Is it possible for a high school student to publish multiple papers at top conferences within a year? (2026-01-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qe1z90/r_is_it_possible_for_a_high_school_student_to/"
           },
           "total": 83.25
         },
