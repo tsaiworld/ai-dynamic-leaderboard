@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-01-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "\u2018Sideshow\u2019 concerns and billionaire dreams: What I learned from Elon Musk\u2019s lawsuit against OpenAI (2026-01-16)",
+          "whats_new": "Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft (Robert Burnson/Bloomberg) (2026-01-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai"
+            "news": "http://www.techmeme.com/260117/p6#a260117p6"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic researchers say rich countries' higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains (Financial Times) (2026-01-15)",
+          "whats_new": "Anthropic appoints Irina Ghose, a former Microsoft India managing director, to lead its business in India, which has the second-largest user base for Claude (Jagmeet Singh/TechCrunch) (2026-01-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260115/p27#a260115p27"
+            "news": "http://www.techmeme.com/260117/p1#a260117p1"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] Is it possible for a high school student to publish multiple papers at top conferences within a year? (2026-01-16)",
+          "whats_new": "Google brings its AI videomaker to Workspace users (2026-01-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qe1z90/r_is_it_possible_for_a_high_school_student_to/"
+            "news": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Nvidia: End-to-End Test-Time Training for Long Context aka Being Able To Update A Model's Weights In Real-Time As You Use It | \"TTT changes the paradigm from retrieving info to learning it on the fly...the TTT model treats the context window as a dataset & trains itself on it in real-time.\" [R] (2026-01-15)",
+          "whats_new": "Introducing ChatGPT Go, now available worldwide (2026-01-16)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qd696s/nvidia_endtoend_testtime_training_for_long/"
+            "news": "https://openai.com/index/introducing-chatgpt-go"
           },
           "total": 84.1
         },
