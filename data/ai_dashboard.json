@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-17",
+    "last_updated": "2026-01-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft (Robert Burnson/Bloomberg) (2026-01-17)",
+          "whats_new": "OpenAI's former Head of Policy Research Miles Brundage announces AVERI, a nonprofit aimed at advocating the idea of external audits for frontier AI models (Jeremy Kahn/Fortune) (2026-01-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260117/p6#a260117p6"
+            "news": "http://www.techmeme.com/260118/p5#a260118p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic appoints Irina Ghose, a former Microsoft India managing director, to lead its business in India, which has the second-largest user base for Claude (Jagmeet Singh/TechCrunch) (2026-01-17)",
+          "whats_new": "[D] Shower thought after 13hr coding session: Could physical filtration principles inform attention head design? (Claude wrote this, I just had the idea) (2026-01-18)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260117/p1#a260117p1"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qfwm1g/d_shower_thought_after_13hr_coding_session_could/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google brings its AI videomaker to Workspace users (2026-01-16)",
+          "whats_new": "A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 (Ben Cohen/Wall Street Journal) (2026-01-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace"
+            "news": "http://www.techmeme.com/260118/p6#a260118p6"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app (Natalie Lung/Bloomberg) (2026-01-14)",
+          "whats_new": "[P] I built an offline AI system on Raspberry Pi that analyzes wound images and gives basic medical guidance \u2014 fully on-device (2026-01-18)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "http://www.techmeme.com/260114/p29#a260114p29"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qg2wte/p_i_built_an_offline_ai_system_on_raspberry_pi/"
           }
         }
       ]
