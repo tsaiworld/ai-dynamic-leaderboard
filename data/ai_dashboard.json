@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-18",
+    "last_updated": "2026-01-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI's former Head of Policy Research Miles Brundage announces AVERI, a nonprofit aimed at advocating the idea of external audits for frontier AI models (Jeremy Kahn/Fortune) (2026-01-18)",
+          "whats_new": "[D] tested file based memory vs embedding search for my chatbot. the difference in retrieval accuracy was bigger than i expected (2026-01-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260118/p5#a260118p5"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qgwtas/d_tested_file_based_memory_vs_embedding_search/"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 (Ben Cohen/Wall Street Journal) (2026-01-18)",
+          "whats_new": "Google brings its AI videomaker to Workspace users (2026-01-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260118/p6#a260118p6"
+            "news": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace"
           },
           "total": 83.25
         },
