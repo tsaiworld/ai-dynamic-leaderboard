@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-19",
+    "last_updated": "2026-01-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[D] tested file based memory vs embedding search for my chatbot. the difference in retrieval accuracy was bigger than i expected (2026-01-19)",
+          "whats_new": "ServiceNow powers actionable enterprise AI with OpenAI (2026-01-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qgwtas/d_tested_file_based_memory_vs_embedding_search/"
+            "news": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[D] Shower thought after 13hr coding session: Could physical filtration principles inform attention head design? (Claude wrote this, I just had the idea) (2026-01-18)",
+          "whats_new": "Anthropic CEO Dario Amodei says selling AI chips to China is a blunder with \"incredible national security implications\", calling it a \"big mistake\" and \"crazy\" (Christina Kyriasoglou/Bloomberg) (2026-01-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qfwm1g/d_shower_thought_after_13hr_coding_session_could/"
+            "news": "http://www.techmeme.com/260120/p17#a260120p17"
           },
           "total": 85.15
         },
