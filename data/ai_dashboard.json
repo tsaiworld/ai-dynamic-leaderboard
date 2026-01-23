@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-22",
+    "last_updated": "2026-01-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "An analysis of 5,290 AI research papers at NeurIPS: 141, or ~3%, had US-China AI lab collaboration, up from 134 in 2024; Llama featured in 106 Chinese papers (Will Knight/Wired) (2026-01-22)",
+          "whats_new": "How Anthropic, OpenAI, and Google are testing AI models by having them play Pok\u00e9mon Blue on Twitch to track a model's ability to reason and make decisions (Isabelle Bousquette/Wall Street Journal) (2026-01-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260122/p13#a260122p13"
+            "news": "http://www.techmeme.com/260123/p7#a260123p7"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic\u2019s new Claude \u2018constitution\u2019: be helpful and honest, and don\u2019t destroy humanity (2026-01-21)",
+          "whats_new": "Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test (Anthropic) (2026-01-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
+            "news": "http://www.techmeme.com/260123/p9#a260123p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Source: Google DeepMind signs a licensing deal with Hume AI, which builds emotionally intelligent voice interfaces, to hire CEO Alan Cowen and ~7 top engineers (Will Knight/Wired) (2026-01-22)",
+          "whats_new": "Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini's presence in Japan; Sakana AI gains access to Google's LLMs (Min-Jeong Lee/Bloomberg) (2026-01-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260122/p18#a260122p18"
+            "news": "http://www.techmeme.com/260123/p11#a260123p11"
           },
           "total": 83.25
         },
