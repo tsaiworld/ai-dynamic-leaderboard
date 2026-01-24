@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-23",
+    "last_updated": "2026-01-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How Anthropic, OpenAI, and Google are testing AI models by having them play Pok\u00e9mon Blue on Twitch to track a model's ability to reason and make decisions (Isabelle Bousquette/Wall Street Journal) (2026-01-23)",
+          "whats_new": "Gemini with Personal Intelligence is awfully familiar (2026-01-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260123/p7#a260123p7"
+            "news": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test (Anthropic) (2026-01-23)",
+          "whats_new": "Five Ways People Are Using Claude Code (2026-01-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260123/p9#a260123p9"
+            "news": "https://www.nytimes.com/2026/01/23/technology/claude-code.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini's presence in Japan; Sakana AI gains access to Google's LLMs (Min-Jeong Lee/Bloomberg) (2026-01-23)",
+          "whats_new": "Google acquires Common Sense Machines, whose AI models create 3D assets from 2D images, and was last valued at $15M after raising $10M from a16z and others (The Information) (2026-01-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260123/p11#a260123p11"
+            "news": "http://www.techmeme.com/260124/p1#a260124p1"
           },
           "total": 83.25
         },
