@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-24",
+    "last_updated": "2026-01-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google acquires Common Sense Machines, whose AI models create 3D assets from 2D images, and was last valued at $15M after raising $10M from a16z and others (The Information) (2026-01-24)",
+          "whats_new": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins (2026-01-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260124/p1#a260124p1"
+            "news": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Inside Praktika's conversational approach to language learning (2026-01-22)",
+          "whats_new": "A look at Clawdbot, an open-source personal AI agent that runs locally on the user's computer and integrates with multiple LLMs and messaging services (Federico Viticci/MacStories) (2026-01-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/praktika"
+            "news": "http://www.techmeme.com/260124/p17#a260124p17"
           },
           "total": 84.1
         },
