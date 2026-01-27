@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-26",
+    "last_updated": "2026-01-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI says nearly 1.3M weekly users are discussing \"advanced topics in hard science\" in January, with an average of 8.4M ChatGPT messages on those topics (Ashley Gold/Axios) (2026-01-26)",
+          "whats_new": "PVH reimagines the future of fashion with OpenAI (2026-01-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260126/p13#a260126p13"
+            "news": "https://openai.com/index/pvh-future-of-fashion"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude Code can feel daunting, and most people's problems are not software-shaped, but it is clearly autonomous and the home-cooked app renaissance is great (Jasmine Sun/@jasmine's substack) (2026-01-26)",
+          "whats_new": "US court filings detail Anthropic's Project Panama, an effort to \"destructively scan\" up to 2M books with a hydraulic \"cutting machine\" led by an ex-Google exec (Washington Post) (2026-01-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260126/p9#a260126p9"
+            "news": "http://www.techmeme.com/260127/p7#a260127p7"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation (Cade Metz/New York Times) (2026-01-26)",
+          "whats_new": "Google Photos now lets you describe how to transform images into video (2026-01-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260126/p12#a260126p12"
+            "news": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Interviews with 100+ therapists and psychiatrists on clients' AI chatbot usage show, while there are some upsides, conversations also deepened negative feelings (New York Times) (2026-01-26)",
+          "whats_new": "All rise for JudgeGPT (2026-01-27)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260126/p14#a260126p14"
+            "news": "https://www.theverge.com/policy/868151/ai-judges-arbitration"
           },
           "total": 84.1
         },
