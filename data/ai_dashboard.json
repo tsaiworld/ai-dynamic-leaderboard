@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "PVH reimagines the future of fashion with OpenAI (2026-01-27)",
+          "whats_new": "The next chapter for AI in the EU (2026-01-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/pvh-future-of-fashion"
+            "news": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "US court filings detail Anthropic's Project Panama, an effort to \"destructively scan\" up to 2M books with a hydraulic \"cutting machine\" led by an ex-Google exec (Washington Post) (2026-01-27)",
+          "whats_new": "Grok is the most antisemitic chatbot according to the ADL (2026-01-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260127/p7#a260127p7"
+            "news": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Photos now lets you describe how to transform images into video (2026-01-27)",
+          "whats_new": "A Google bug report apparently leaks the planned Android desktop interface, showing a taller status bar, a new mouse cursor, Chrome extensions, and more (Abner Li/9to5Google) (2026-01-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
+            "news": "http://www.techmeme.com/260128/p20#a260128p20"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "All rise for JudgeGPT (2026-01-27)",
+          "whats_new": "Introducing Prism (2026-01-27)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/policy/868151/ai-judges-arbitration"
+            "news": "https://openai.com/index/introducing-prism"
           },
           "total": 84.1
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Cursor CEO Michael Truell warns that \"vibe coding\" advanced projects may create \"shaky foundations\" and eventually \"things start to kind of crumble\" (Marco Quiroz-Gutierrez/Fortune) (2025-12-26)",
+          "whats_new": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff (2026-01-28)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/251226/p1#a251226p1"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/"
           }
         },
         {
