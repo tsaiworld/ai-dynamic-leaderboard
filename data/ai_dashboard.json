@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-29",
+    "last_updated": "2026-01-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The next chapter for AI in the EU (2026-01-28)",
+          "whats_new": "Inside OpenAI\u2019s in-house data agent (2026-01-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
+            "news": "https://openai.com/index/inside-our-in-house-data-agent"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] AlphaGenome: DeepMind's unified DNA sequence model predicts regulatory variant effects across 11 modalities at single-bp resolution (Nature 2026) (2026-01-29)",
+          "whats_new": "Google's experience in India has become a proving ground to scale AI in education, as the country accounts for the highest global usage of Gemini for learning (Jagmeet Singh/TechCrunch) (2026-01-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qq4lnc/r_alphagenome_deepminds_unified_dna_sequence/"
+            "news": "http://www.techmeme.com/260130/p1#a260130p1"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Prism (2026-01-27)",
+          "whats_new": "Tech Grapples With ICE + Casey Tries Clawdbot, a Risky New A.I. Assistant + HatGPT (2026-01-30)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-prism"
+            "news": "https://www.nytimes.com/2026/01/30/podcasts/hardfork-ice-clawdbot.html"
           },
           "total": 84.1
         },
