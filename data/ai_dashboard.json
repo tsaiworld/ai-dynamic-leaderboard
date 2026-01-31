@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-30",
+    "last_updated": "2026-01-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Inside OpenAI\u2019s in-house data agent (2026-01-29)",
+          "whats_new": "OpenAI details its custom internal-only GPT\u20115.2-powered AI data agent that allows its employees to do natural language data analysis across 600+ PB of data (OpenAI) (2026-01-31)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/inside-our-in-house-data-agent"
+            "news": "http://www.techmeme.com/260131/p1#a260131p1"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "I used Claude to vibe-code my wildly overcomplicated smart home (2026-01-28)",
+          "whats_new": "There\u2019s a social network for AI agents, and it\u2019s getting weird (2026-01-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google's experience in India has become a proving ground to scale AI in education, as the country accounts for the highest global usage of Gemini for learning (Jagmeet Singh/TechCrunch) (2026-01-30)",
+          "whats_new": "ChatGPT isn\u2019t the only chatbot pulling answers from Elon Musk\u2019s Grokipedia (2026-01-31)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260130/p1#a260130p1"
+            "news": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] I built an offline AI system on Raspberry Pi that analyzes wound images and gives basic medical guidance \u2014 fully on-device (2026-01-18)",
+          "whats_new": "[P] A Python tool for natural language inference (2026-01-30)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qg2wte/p_i_built_an_offline_ai_system_on_raspberry_pi/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qrc5zx/p_a_python_tool_for_natural_language_inference/"
           }
         }
       ]
