@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-01-31",
+    "last_updated": "2026-02-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI details its custom internal-only GPT\u20115.2-powered AI data agent that allows its employees to do natural language data analysis across 600+ PB of data (OpenAI) (2026-01-31)",
+          "whats_new": "OpenAI says it is asking select advertisers to commit at least $200K as it rolls out beta ads on ChatGPT; two sources say their firms were pitched lower amounts (Trishla Ostwal/Adweek) (2026-02-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260131/p1#a260131p1"
+            "news": "http://www.techmeme.com/260201/p4#a260201p4"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "There\u2019s a social network for AI agents, and it\u2019s getting weird (2026-01-30)",
+          "whats_new": "Anthropic positions itself as the AI sector's superego, but it's caught between the pressures to be safe, fast, and rigorous while being commercially successful (Matteo Wong/The Atlantic) (2026-02-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw"
+            "news": "http://www.techmeme.com/260201/p7#a260201p7"
           },
           "total": 85.15
         },
