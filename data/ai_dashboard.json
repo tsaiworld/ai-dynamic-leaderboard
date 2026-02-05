@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-02-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic says \u2018Claude will remain ad-free,\u2019 unlike ChatGPT (2026-02-04)",
+          "whats_new": "Introducing OpenAI Frontier (2026-02-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
+            "news": "https://openai.com/index/introducing-openai-frontier"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sen. Warren wants to know what Google Gemini\u2019s built-in checkout means for user privacy (2026-02-04)",
+          "whats_new": "A look at India's push to become a major provider of AI services, as US tech companies pledge tens of billions in Indian data center investments (Wall Street Journal) (2026-02-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy"
+            "news": "http://www.techmeme.com/260205/p8#a260205p8"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Released: VOR \u2014 a hallucination-free runtime that forces LLMs to prove answers or abstain (2026-02-02)",
+          "whats_new": "[P] NTTuner - GUI to Locally Fine-Tune AI Models with Unsloth GPU + CPU Support! (2026-02-05)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qu1ggl/p_released_vor_a_hallucinationfree_runtime_that/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qwbc9d/p_nttuner_gui_to_locally_finetune_ai_models_with/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "VfL Wolfsburg turns ChatGPT into a club-wide capability (2026-02-04)",
+          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/vfl-wolfsburg"
+            "news": "https://openai.com/index/navigating-health-questions"
           },
           "total": 84.1
         },
