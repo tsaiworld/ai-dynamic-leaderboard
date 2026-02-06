@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-05",
+    "last_updated": "2026-02-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Introducing OpenAI Frontier (2026-02-05)",
+          "whats_new": "GPT-5 lowers the cost of cell-free protein synthesis (2026-02-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/introducing-openai-frontier"
+            "news": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic says \"Claude will remain ad-free\", its users \"won't see 'sponsored' links adjacent to\" conversations, and responses won't be influenced by advertisers (Anthropic) (2026-02-04)",
+          "whats_new": "Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding (Hugh Son/CNBC) (2026-02-06)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260204/p24#a260204p24"
+            "news": "http://www.techmeme.com/260206/p5#a260206p5"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at India's push to become a major provider of AI services, as US tech companies pledge tens of billions in Indian data center investments (Wall Street Journal) (2026-02-05)",
+          "whats_new": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator (2026-02-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260205/p8#a260205p8"
+            "news": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
+          "whats_new": "GPT-5.3-Codex System Card (2026-02-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/navigating-health-questions"
+            "news": "https://openai.com/index/gpt-5-3-codex-system-card"
           },
           "total": 84.1
         },
