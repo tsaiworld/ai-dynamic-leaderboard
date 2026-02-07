@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-06",
+    "last_updated": "2026-02-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "GPT-5 lowers the cost of cell-free protein synthesis (2026-02-05)",
+          "whats_new": "Making AI work for everyone, everywhere: our approach to localization (2026-02-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
+            "news": "https://openai.com/index/our-approach-to-localization"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding (Hugh Son/CNBC) (2026-02-06)",
+          "whats_new": "Claude has been having a moment \u2014 can it keep it up? (2026-02-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260206/p5#a260206p5"
+            "news": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator (2026-02-06)",
+          "whats_new": "What happens when Waymo runs into a tornado? Or an elephant? (2026-02-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html"
+            "news": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GPT-5.3-Codex System Card (2026-02-05)",
+          "whats_new": "[P] How do you regression-test ML systems when correctness is fuzzy? (OSS tool) (2026-02-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-3-codex-system-card"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qy7afx/p_how_do_you_regressiontest_ml_systems_when/"
           },
           "total": 84.1
         },
