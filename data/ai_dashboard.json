@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-07",
+    "last_updated": "2026-02-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude has been having a moment \u2014 can it keep it up? (2026-02-05)",
+          "whats_new": "Anthropic rolls out a fast mode for Claude Opus 4.6 in research preview, saying it offers the same model quality 2.5 times faster but costs six times more (Simon Willison/Simon Willison's Weblog) (2026-02-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment"
+            "news": "http://www.techmeme.com/260208/p4#a260208p4"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "What happens when Waymo runs into a tornado? Or an elephant? (2026-02-06)",
+          "whats_new": "This year's projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing (Martin Peers/The Information) (2026-02-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3"
+            "news": "http://www.techmeme.com/260208/p7#a260208p7"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] NTTuner - GUI to Locally Fine-Tune AI Models with Unsloth GPU + CPU Support! (2026-02-05)",
+          "whats_new": "[N] Benchmarking GGUF Quantization for LLaMA-3.2-1B: 68% Size Reduction with <0.4pp Accuracy Loss on SNIPS (2026-02-08)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qwbc9d/p_nttuner_gui_to_locally_finetune_ai_models_with/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1qz1kmq/n_benchmarking_gguf_quantization_for_llama321b_68/"
           }
         }
       ]
