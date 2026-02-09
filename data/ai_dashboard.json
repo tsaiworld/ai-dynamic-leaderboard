@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-08",
+    "last_updated": "2026-02-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Making AI work for everyone, everywhere: our approach to localization (2026-02-06)",
+          "whats_new": "Internal memo: Sam Altman tells staff that ChatGPT is \"back to exceeding 10% monthly growth\", and OpenAI plans to release \"an updated Chat model\" this week (CNBC) (2026-02-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/our-approach-to-localization"
+            "news": "http://www.techmeme.com/260209/p17#a260209p17"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic rolls out a fast mode for Claude Opus 4.6 in research preview, saying it offers the same model quality 2.5 times faster but costs six times more (Simon Willison/Simon Willison's Weblog) (2026-02-08)",
+          "whats_new": "A profile of Amanda Askell, Anthropic's resident philosopher, who is learning Claude's reasoning patterns in a bid to endow the chatbot with a sense of morality (Wall Street Journal) (2026-02-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260208/p4#a260208p4"
+            "news": "http://www.techmeme.com/260209/p13#a260209p13"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "This year's projected capex ramp-up will all but wipe out free cash flow for Amazon, Google, and Meta, potentially forcing stock buyback cuts or more borrowing (Martin Peers/The Information) (2026-02-08)",
+          "whats_new": "Sources: Alphabet aims to raise ~$15B from a US high-grade dollar bond sale, as it seeks to finance $185B in 2026 capex; Alphabet raised $17.5B in November 2025 (Bloomberg) (2026-02-09)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260208/p7#a260208p7"
+            "news": "http://www.techmeme.com/260209/p18#a260209p18"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] How do you regression-test ML systems when correctness is fuzzy? (OSS tool) (2026-02-07)",
+          "whats_new": "The European Commission sends a statement of objections to Meta over WhatsApp blocking rival AI chatbots, warning it will take measures to avoid \"serious\" harm (Bloomberg) (2026-02-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qy7afx/p_how_do_you_regressiontest_ml_systems_when/"
+            "news": "http://www.techmeme.com/260209/p8#a260209p8"
           },
           "total": 84.1
         },
