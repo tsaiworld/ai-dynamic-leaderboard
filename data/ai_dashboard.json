@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-09",
+    "last_updated": "2026-02-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Internal memo: Sam Altman tells staff that ChatGPT is \"back to exceeding 10% monthly growth\", and OpenAI plans to release \"an updated Chat model\" this week (CNBC) (2026-02-09)",
+          "whats_new": "Testing ads in ChatGPT (2026-02-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260209/p17#a260209p17"
+            "news": "https://openai.com/index/testing-ads-in-chatgpt"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Alphabet aims to raise ~$15B from a US high-grade dollar bond sale, as it seeks to finance $185B in 2026 capex; Alphabet raised $17.5B in November 2025 (Bloomberg) (2026-02-09)",
+          "whats_new": "[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML\u2014 0 Interviews Big tech (2026-02-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260209/p18#a260209p18"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[N] Benchmarking GGUF Quantization for LLaMA-3.2-1B: 68% Size Reduction with <0.4pp Accuracy Loss on SNIPS (2026-02-08)",
+          "whats_new": "[D] Benchmarking deterministic schema enforcement vs. long-context prompting for SOP adherence in 8B models (2026-02-09)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qz1kmq/n_benchmarking_gguf_quantization_for_llama321b_68/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0eau4/d_benchmarking_deterministic_schema_enforcement/"
           }
         }
       ]
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Runway says its new text-to-video AI generator has &#8216;unprecedented&#8217; accuracy (2025-12-01)",
+          "whats_new": "NYC-based AI video startup Runway raised a $315M Series E led by General Atlantic, a source says at a $5.3B valuation, and plans to build AI world models (Nat Rubio-Licht/The Deep View) (2026-02-10)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
+            "news": "http://www.techmeme.com/260210/p28#a260210p28"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The European Commission sends a statement of objections to Meta over WhatsApp blocking rival AI chatbots, warning it will take measures to avoid \"serious\" harm (Bloomberg) (2026-02-09)",
+          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260209/p8#a260209p8"
+            "news": "https://openai.com/index/navigating-health-questions"
           },
           "total": 84.1
         },
