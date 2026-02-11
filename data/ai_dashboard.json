@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-10",
+    "last_updated": "2026-02-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Testing ads in ChatGPT (2026-02-09)",
+          "whats_new": "Anthropic CCO Paul Smith says the company is focused on \"growing revenue\" rather than making \"flashy headlines\", calls the market selloff \"hyperbole\", and more (CNBC) (2026-02-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/testing-ads-in-chatgpt"
+            "news": "http://www.techmeme.com/260211/p20#a260211p20"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A profile of Amanda Askell, Anthropic's resident philosopher, who is learning Claude's reasoning patterns in a bid to endow the chatbot with a sense of morality (Wall Street Journal) (2026-02-09)",
+          "whats_new": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states \u2014 instruct fine-tuning is associated with measurable behavioral constraints (2026-02-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260209/p13#a260209p13"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML\u2014 0 Interviews Big tech (2026-02-10)",
+          "whats_new": "Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 (Samantha Kelly/Bloomberg) (2026-02-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/"
+            "news": "http://www.techmeme.com/260211/p25#a260211p25"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
+          "whats_new": "[R] I accidentally built a dataloader 10x faster than PyTorch's and I'm still processing this (2026-02-11)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/navigating-health-questions"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r1t2ig/r_i_accidentally_built_a_dataloader_10x_faster/"
           },
           "total": 84.1
         },
