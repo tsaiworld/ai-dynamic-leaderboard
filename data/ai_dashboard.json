@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-11",
+    "last_updated": "2026-02-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic CCO Paul Smith says the company is focused on \"growing revenue\" rather than making \"flashy headlines\", calls the market selloff \"hyperbole\", and more (CNBC) (2026-02-11)",
+          "whats_new": "Anthropic donates $20M to Public First, a super PAC pushing for AI guardrails and transparency in opposition to OpenAI-backed PACs, ahead of the US midterms (Theodore Schleifer/New York Times) (2026-02-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260211/p20#a260211p20"
+            "news": "http://www.techmeme.com/260212/p23#a260212p23"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states \u2014 instruct fine-tuning is associated with measurable behavioral constraints (2026-02-11)",
+          "whats_new": "Internal messages: Amazon pushes in-house AI coding assistant Kiro for production code, prompting criticism and causing ~1,500 staff to push for Claude Code (Eugene Kim/Business Insider) (2026-02-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/"
+            "news": "http://www.techmeme.com/260212/p19#a260212p19"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 (Samantha Kelly/Bloomberg) (2026-02-11)",
+          "whats_new": "Google's TIG says Gemini has been inundated by \"commercially motivated\" actors who are trying to clone it, including one campaign that prompted it 100K+ times (Kevin Collier/NBC News) (2026-02-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260211/p25#a260211p25"
+            "news": "http://www.techmeme.com/260212/p22#a260212p22"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] I accidentally built a dataloader 10x faster than PyTorch's and I'm still processing this (2026-02-11)",
+          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r1t2ig/r_i_accidentally_built_a_dataloader_10x_faster/"
+            "news": "https://openai.com/index/navigating-health-questions"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "UK police blame Microsoft Copilot for intelligence mistake (2026-01-14)",
+          "whats_new": "[D] CVPR Score stats (2026-02-12)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r2pqeg/d_cvpr_score_stats/"
           }
         },
         {
