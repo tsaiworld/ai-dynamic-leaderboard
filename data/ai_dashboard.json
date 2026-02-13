@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-12",
+    "last_updated": "2026-02-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic donates $20M to Public First, a super PAC pushing for AI guardrails and transparency in opposition to OpenAI-backed PACs, ahead of the US midterms (Theodore Schleifer/New York Times) (2026-02-12)",
+          "whats_new": "Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment (Kate Clark/Wall Street Journal) (2026-02-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260212/p23#a260212p23"
+            "news": "http://www.techmeme.com/260213/p2#a260213p2"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Internal messages: Amazon pushes in-house AI coding assistant Kiro for production code, prompting criticism and causing ~1,500 staff to push for Claude Code (Eugene Kim/Business Insider) (2026-02-12)",
+          "whats_new": "Anthropic Is Valued at $380 Billion in New Funding Round (2026-02-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260212/p19#a260212p19"
+            "news": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google's TIG says Gemini has been inundated by \"commercially motivated\" actors who are trying to clone it, including one campaign that prompted it 100K+ times (Kevin Collier/NBC News) (2026-02-12)",
+          "whats_new": "[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML\u2014 0 Interviews Big tech (2026-02-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260212/p22#a260212p22"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Navigating health questions with ChatGPT (2026-02-05)",
+          "whats_new": "A look at Higgsfield, an AI video startup that grew to $300M ARR within 11 months, as it faces a creator backlash over aggressive and shocking marketing tactics (Rashi Shrivastava/Forbes) (2026-02-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/navigating-health-questions"
+            "news": "http://www.techmeme.com/260213/p1#a260213p1"
           },
           "total": 84.1
         },
