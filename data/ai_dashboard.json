@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-02-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment (Kate Clark/Wall Street Journal) (2026-02-13)",
+          "whats_new": "Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix's rate when it introduced ads (Financial Times) (2026-02-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260213/p2#a260213p2"
+            "news": "http://www.techmeme.com/260214/p2#a260214p2"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic Is Valued at $380 Billion in New Funding Round (2026-02-12)",
+          "whats_new": "BNP Paribas analysis: Anthropic saw visits to its site jump 6.5% after its Super Bowl ad and DAUs jump 11% post-game, outperforming other AI companies (Samantha Subin/CNBC) (2026-02-14)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html"
+            "news": "http://www.techmeme.com/260214/p5#a260214p5"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML\u2014 0 Interviews Big tech (2026-02-10)",
+          "whats_new": "Sources: recently the DHS has sent hundreds of administrative subpoenas, which do not need a judge's approval, to tech firms to identify people critical of ICE (New York Times) (2026-02-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/"
+            "news": "http://www.techmeme.com/260213/p22#a260213p22"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[D] Benchmarking deterministic schema enforcement vs. long-context prompting for SOP adherence in 8B models (2026-02-09)",
+          "whats_new": "[D] Minimax 2.5 is out, considering local deployment (2026-02-14)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r0eau4/d_benchmarking_deterministic_schema_enforcement/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r48dvk/d_minimax_25_is_out_considering_local_deployment/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A look at Higgsfield, an AI video startup that grew to $300M ARR within 11 months, as it faces a creator backlash over aggressive and shocking marketing tactics (Rashi Shrivastava/Forbes) (2026-02-13)",
+          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260213/p1#a260213p1"
+            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
           },
           "total": 84.1
         },
