@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-14",
+    "last_updated": "2026-02-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix's rate when it introduced ads (Financial Times) (2026-02-14)",
+          "whats_new": "[R]Arrow Language \u2013 A concatenative functional language for formal reasoning about AI processes (2026-02-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260214/p2#a260214p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r58z7h/rarrow_language_a_concatenative_functional/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "BNP Paribas analysis: Anthropic saw visits to its site jump 6.5% after its Super Bowl ad and DAUs jump 11% post-game, outperforming other AI companies (Samantha Subin/CNBC) (2026-02-14)",
+          "whats_new": "Anthropic partners with CodePath to help redesign computer coding curricula at hundreds of US community and state colleges, integrating Claude AI tools (Wall Street Journal) (2026-02-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260214/p5#a260214p5"
+            "news": "http://www.techmeme.com/260215/p4#a260215p4"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: recently the DHS has sent hundreds of administrative subpoenas, which do not need a judge's approval, to tech firms to identify people critical of ICE (New York Times) (2026-02-13)",
+          "whats_new": "Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts (Rafe Rosner-Uddin/Financial Times) (2026-02-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260213/p22#a260213p22"
+            "news": "http://www.techmeme.com/260214/p8#a260214p8"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
+          "whats_new": "[D] Advice on a Modern NLP Roadmap (for someone with strong ML theory background) (2026-02-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r5avui/d_advice_on_a_modern_nlp_roadmap_for_someone_with/"
           },
           "total": 84.1
         },
