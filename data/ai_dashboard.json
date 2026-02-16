@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-15",
+    "last_updated": "2026-02-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[R]Arrow Language \u2013 A concatenative functional language for formal reasoning about AI processes (2026-02-15)",
+          "whats_new": "OpenAI retired GPT-4o on February 13, angering loyal users, 20K+ of whom signed a petition; 4o showed the unique attachment that people can form with chatbots (Shirin Ghaffary/Bloomberg) (2026-02-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r58z7h/rarrow_language_a_concatenative_functional/"
+            "news": "http://www.techmeme.com/260216/p10#a260216p10"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic partners with CodePath to help redesign computer coding curricula at hundreds of US community and state colleges, integrating Claude AI tools (Wall Street Journal) (2026-02-15)",
+          "whats_new": "Anthropic opens a Bengaluru office, its second in Asia, says its India run rate revenue doubled since October, and curates training data for 10 Indic languages (Anthropic) (2026-02-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260215/p4#a260215p4"
+            "news": "http://www.techmeme.com/260216/p15#a260216p15"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts (Rafe Rosner-Uddin/Financial Times) (2026-02-14)",
+          "whats_new": "Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts (2026-02-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260214/p8#a260214p8"
+            "news": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Advice on a Modern NLP Roadmap (for someone with strong ML theory background) (2026-02-15)",
+          "whats_new": "[D] Advice on sequential recommendations architectures (2026-02-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r5avui/d_advice_on_a_modern_nlp_roadmap_for_someone_with/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r5u24v/d_advice_on_sequential_recommendations/"
           },
           "total": 84.1
         },
