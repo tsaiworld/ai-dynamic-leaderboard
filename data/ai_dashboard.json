@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-16",
+    "last_updated": "2026-02-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI retired GPT-4o on February 13, angering loyal users, 20K+ of whom signed a petition; 4o showed the unique attachment that people can form with chatbots (Shirin Ghaffary/Bloomberg) (2026-02-16)",
+          "whats_new": "Josh Kushner's Thrive raised $10B, its 10th fund and the firm's largest ever; sources say Thrive distributed just 64% of all capital raised during the 2021 peak (Caroline Hyde/Bloomberg) (2026-02-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260216/p10#a260216p10"
+            "news": "http://www.techmeme.com/260217/p16#a260217p16"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic opens a Bengaluru office, its second in Asia, says its India run rate revenue doubled since October, and curates training data for 10 Indic languages (Anthropic) (2026-02-16)",
+          "whats_new": "Indian IT giant Infosys partners with Anthropic to develop AI services for telecom, with plans to expand to finance, manufacturing, and software development (Kosaku Narioka/Wall Street Journal) (2026-02-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260216/p15#a260216p15"
+            "news": "http://www.techmeme.com/260217/p6#a260217p6"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts (2026-02-13)",
+          "whats_new": "Google's Android XR design docs and developer tools hint at the XR glasses' details, including mandatory physical buttons and \"Glimmer\" UI design language (Abner Li/9to5Google) (2026-02-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html"
+            "news": "http://www.techmeme.com/260217/p14#a260217p14"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Advice on sequential recommendations architectures (2026-02-15)",
+          "whats_new": "[D] We found 18K+ exposed OpenClaw instances and ~15% of community skills contain malicious instructionsc (2026-02-16)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r5u24v/d_advice_on_sequential_recommendations/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r6ge7h/d_we_found_18k_exposed_openclaw_instances_and_15/"
           },
           "total": 84.1
         },
@@ -301,7 +301,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel's war in Gaza before Replit's AI agent took off (Margaux MacColl/The San Francisco ...) (2026-01-08)",
+          "whats_new": "Q&A with Replit CEO Amjad Masad, who says India is Replit's second-largest market by active users, on integrating Razorpay's tech, AI's impact on SaaS, and more (Bhavya Dilipkumar/Moneycontrol) (2026-02-17)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -314,7 +314,7 @@
           },
           "total": 74.7,
           "links": {
-            "news": "http://www.techmeme.com/260108/p12#a260108p12"
+            "news": "http://www.techmeme.com/260217/p9#a260217p9"
           }
         }
       ]
