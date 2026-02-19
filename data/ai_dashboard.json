@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-18",
+    "last_updated": "2026-02-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue (2026-02-18)",
+          "whats_new": "[R] Analysis of 350+ ML competitions in 2025 (2026-02-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r8y1ha/r_analysis_of_350_ml_competitions_in_2025/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic Is Valued at $380 Billion in New Funding Round (2026-02-12)",
+          "whats_new": "The Gates Foundation says Bill Gates will not deliver his keynote at India's AI Summit after \"careful consideration\", amid controversy over his Epstein ties (Cherylann Mollan/BBC) (2026-02-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html"
+            "news": "http://www.techmeme.com/260219/p14#a260219p14"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "At India's AI Summit, Alphabet announces the America-India Connect Initiative, which will build new fiber optic lines between India, the US, and other countries (Saritha Rai/Bloomberg) (2026-02-18)",
+          "whats_new": "[p] I Made my first Transformer architecture code (2026-02-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260218/p19#a260218p19"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1r8v5x2/p_i_made_my_first_transformer_architecture_code/"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Advice on sequential recommendations architectures (2026-02-15)",
+          "whats_new": "Indian conglomerate Reliance plans to invest up to ~$110B to build AI-related infrastructure over the next seven years, and JioHotstar plans a ChatGPT-based bot (Bloomberg) (2026-02-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r5u24v/d_advice_on_sequential_recommendations/"
+            "news": "http://www.techmeme.com/260219/p11#a260219p11"
           },
           "total": 84.1
         },
