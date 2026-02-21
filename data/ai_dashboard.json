@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-20",
+    "last_updated": "2026-02-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[P] Open source LLM gateway in Rust looking for feedback and contributors (2026-02-20)",
+          "whats_new": "[D] antaris-suite 3.0 (open source, free) \u2014 zero-dependency agent memory, guard, routing, and context management (benchmarks + 3-model code review inside) (2026-02-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r9mbtc/p_open_source_llm_gateway_in_rust_looking_for/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rahywr/d_antarissuite_30_open_source_free_zerodependency/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express (2026-02-20)",
+          "whats_new": "How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools (Shirin Ghaffary/Bloomberg) (2026-02-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html"
+            "news": "http://www.techmeme.com/260221/p3#a260221p3"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google rejected 1.75M policy-violating Android apps and blocked 80K+ developer accounts from Google Play in 2025, down from 2.36M apps and 158K accounts in 2024 (Sarah Perez/TechCrunch) (2026-02-20)",
+          "whats_new": "Google announces a partnership with Sea to develop AI tools for Sea's Shopee, Southeast Asia's most dominant e-commerce platform, and Sea's gaming unit Garena (Stanley Widianto/Reuters) (2026-02-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260220/p2#a260220p2"
+            "news": "http://www.techmeme.com/260221/p1#a260221p1"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] I Found Catastrophe Geometry in GPT-2's Residual Stream. (2026-02-20)",
+          "whats_new": "[R] LOLAMEME: A Mechanistic Framework Comparing GPT-2, Hyena, and Hybrid Architectures on Logic+Memory Tasks (2026-02-21)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r9vp4i/r_i_found_catastrophe_geometry_in_gpt2s_residual/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1raizg0/r_lolameme_a_mechanistic_framework_comparing_gpt2/"
           },
           "total": 84.1
         },
