@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-21",
+    "last_updated": "2026-02-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[D] antaris-suite 3.0 (open source, free) \u2014 zero-dependency agent memory, guard, routing, and context management (benchmarks + 3-model code review inside) (2026-02-21)",
+          "whats_new": "Sam Altman says currently \"the idea of putting data centers in space is ridiculous\" and that it is \"not something that's going to matter at scale this decade\" (Bijin Jose/The Indian Express) (2026-02-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rahywr/d_antarissuite_30_open_source_free_zerodependency/"
+            "news": "http://www.techmeme.com/260222/p4#a260222p4"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools (Shirin Ghaffary/Bloomberg) (2026-02-21)",
+          "whats_new": "Anthropic's data shows software engineering accounts for ~50% of its AI agent tool calls; the remaining verticals are greenfields most founders are overlooking (Garry Tan/Garry's List) (2026-02-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260221/p3#a260221p3"
+            "news": "http://www.techmeme.com/260222/p6#a260222p6"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google announces a partnership with Sea to develop AI tools for Sea's Shopee, Southeast Asia's most dominant e-commerce platform, and Sea's gaming unit Garena (Stanley Widianto/Reuters) (2026-02-21)",
+          "whats_new": "Google is ending Gmailify and POP access in Gmail; new users will lose access in Q1 2026, and existing users will keep both features until later in 2026 (David Nield/Wired) (2026-02-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260221/p1#a260221p1"
+            "news": "http://www.techmeme.com/260221/p8#a260221p8"
           },
           "total": 83.25
         },
