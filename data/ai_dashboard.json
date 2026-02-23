@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-22",
+    "last_updated": "2026-02-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sam Altman says currently \"the idea of putting data centers in space is ridiculous\" and that it is \"not something that's going to matter at scale this decade\" (Bijin Jose/The Indian Express) (2026-02-22)",
+          "whats_new": "OpenAI announces Frontier Alliance Partners (2026-02-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260222/p4#a260222p4"
+            "news": "https://openai.com/index/frontier-alliance-partners"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic's data shows software engineering accounts for ~50% of its AI agent tool calls; the remaining verticals are greenfields most founders are overlooking (Garry Tan/Garry's List) (2026-02-22)",
+          "whats_new": "Sources: US Defense Secretary Pete Hegseth summons Dario Amodei to the Pentagon on Tuesday morning for what is likely to be a tense meeting over Claude usage (Axios) (2026-02-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260222/p6#a260222p6"
+            "news": "http://www.techmeme.com/260223/p9#a260223p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google is ending Gmailify and POP access in Gmail; new users will lose access in Q1 2026, and existing users will keep both features until later in 2026 (David Nield/Wired) (2026-02-21)",
+          "whats_new": "Samsung is adding Perplexity to Galaxy AI (2026-02-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260221/p8#a260221p8"
+            "news": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] LOLAMEME: A Mechanistic Framework Comparing GPT-2, Hyena, and Hybrid Architectures on Logic+Memory Tasks (2026-02-21)",
+          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1raizg0/r_lolameme_a_mechanistic_framework_comparing_gpt2/"
+            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
           },
           "total": 84.1
         },
