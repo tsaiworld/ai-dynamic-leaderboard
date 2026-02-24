@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-23",
+    "last_updated": "2026-02-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI announces Frontier Alliance Partners (2026-02-23)",
+          "whats_new": "Inside Anthropic\u2019s existential negotiations with the Pentagon (2026-02-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/frontier-alliance-partners"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: US Defense Secretary Pete Hegseth summons Dario Amodei to the Pentagon on Tuesday morning for what is likely to be a tense meeting over Claude usage (Axios) (2026-02-23)",
+          "whats_new": "[D] How much are you using LLMs to summarize/read papers now? (2026-02-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260223/p9#a260223p9"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rdcw0o/d_how_much_are_you_using_llms_to_summarizeread/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Samsung is adding Perplexity to Galaxy AI (2026-02-22)",
+          "whats_new": "This Chainsmokers-approved AI music producer is joining Google (2026-02-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
+            "news": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[D] Minimax 2.5 is out, considering local deployment (2026-02-14)",
+          "whats_new": "[P] OpenLanguageModel (OLM): A modular, readable PyTorch LLM library \u2014 feedback & contributors welcome (2026-02-23)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r48dvk/d_minimax_25_is_out_considering_local_deployment/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rcqe3u/p_openlanguagemodel_olm_a_modular_readable/"
           }
         }
       ]
