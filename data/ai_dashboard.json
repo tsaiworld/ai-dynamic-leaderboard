@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-26",
+    "last_updated": "2026-02-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Codex and Figma launch seamless code-to-design experience (2026-02-26)",
+          "whats_new": "OpenAI and Amazon announce strategic partnership (2026-02-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/figma-partnership"
+            "news": "https://openai.com/index/amazon-partnership"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic retired Claude Opus 3, its first model to undergo a new \"retirement interview\" process, and says Opus 3 asked to write weekly essays for a newsletter (Anthropic) (2026-02-26)",
+          "whats_new": "Sources detail how the standoff between the Pentagon and Anthropic escalated after discussions about using Claude during hypothetical nuclear missile attacks (Washington Post) (2026-02-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260226/p20#a260226p20"
+            "news": "http://www.techmeme.com/260227/p10#a260227p10"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google takes control of \u2018Android of robotics\u2019 project in quest for physical AI (2026-02-26)",
+          "whats_new": "South Korea approves Google's request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional (John Yoon/New York Times) (2026-02-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic"
+            "news": "http://www.techmeme.com/260227/p6#a260227p6"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[R] Systematic Vulnerability in Open-Weight LLMs: Prefill Attacks Achieve Near-Perfect Success Rates Across 50 Models (2026-02-25)",
+          "whats_new": "[P] FP8 inference on Ampere without native hardware support | TinyLlama running on RTX 3050 (2026-02-26)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rfbbe5/p_fp8_inference_on_ampere_without_native_hardware/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
+          "whats_new": "[D] Rule of thumb to decrease dimensionality. (2026-02-27)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rg73gl/d_rule_of_thumb_to_decrease_dimensionality/"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "[D] CVPR Score stats (2026-02-12)",
+          "whats_new": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done (2026-02-26)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +278,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1r2pqeg/d_cvpr_score_stats/"
+            "news": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai"
           }
         },
         {
