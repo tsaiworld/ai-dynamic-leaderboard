@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-27",
+    "last_updated": "2026-02-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Amazon announce strategic partnership (2026-02-27)",
+          "whats_new": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash (2026-02-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/amazon-partnership"
+            "news": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources detail how the standoff between the Pentagon and Anthropic escalated after discussions about using Claude during hypothetical nuclear missile attacks (Washington Post) (2026-02-27)",
+          "whats_new": "Anthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic (Wired) (2026-02-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260227/p10#a260227p10"
+            "news": "http://www.techmeme.com/260228/p2#a260228p2"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "South Korea approves Google's request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional (John Yoon/New York Times) (2026-02-27)",
+          "whats_new": "South Korea Clears Way for Google Maps to Fully Operate (2026-02-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260227/p6#a260227p6"
+            "news": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Rule of thumb to decrease dimensionality. (2026-02-27)",
+          "whats_new": "[P] Micro Diffusion \u2014 Discrete text diffusion in ~150 lines of pure Python (2026-02-28)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rg73gl/d_rule_of_thumb_to_decrease_dimensionality/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rgsgt6/p_micro_diffusion_discrete_text_diffusion_in_150/"
           },
           "total": 84.1
         },
