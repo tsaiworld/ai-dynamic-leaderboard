@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-02-28",
+    "last_updated": "2026-03-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash (2026-02-28)",
+          "whats_new": "[Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an \"extremely scary precedent\", OpenAI rushed its deal to \"de-escalate things\", and more (Sam Altman/@sama) (2026-03-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
+            "news": "http://www.techmeme.com/260301/p4#a260301p4"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic (Wired) (2026-02-28)",
+          "whats_new": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary (2026-03-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260228/p2#a260228p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/"
           },
           "total": 85.15
         },
