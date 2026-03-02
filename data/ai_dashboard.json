@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-01",
+    "last_updated": "2026-03-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an \"extremely scary precedent\", OpenAI rushed its deal to \"de-escalate things\", and more (Sam Altman/@sama) (2026-03-01)",
+          "whats_new": "Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Zheping Huang/Bloomberg) (2026-03-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260301/p4#a260301p4"
+            "news": "http://www.techmeme.com/260302/p10#a260302p10"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary (2026-03-01)",
+          "whats_new": "Anthropic's concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities (Ben Thompson/Stratechery) (2026-03-02)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/"
+            "news": "http://www.techmeme.com/260302/p18#a260302p18"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "South Korea Clears Way for Google Maps to Fully Operate (2026-02-27)",
+          "whats_new": "Qualcomm forms a \"strategic coalition\" to launch 6G in 2029 and unveils FastConnect 8800, an \"AI-native\" Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 (Will Sattelberg/9to5Google) (2026-03-02)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html"
+            "news": "http://www.techmeme.com/260302/p17#a260302p17"
           },
           "total": 83.25
         },
