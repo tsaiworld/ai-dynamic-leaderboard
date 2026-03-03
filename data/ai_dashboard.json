@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-02",
+    "last_updated": "2026-03-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Shanghai-based MiniMax reports 2025 revenue up 159% YoY to $79M, above ~$71.4M est., and a $1.87B net loss, up from a ~$465.2M loss in 2024, after its IPO (Zheping Huang/Bloomberg) (2026-03-02)",
+          "whats_new": "Sam Altman says the DOD affirmed that OpenAI's tools wouldn't be used by agencies like the NSA, and services to them would need a further contract modification (Dylan Butts/CNBC) (2026-03-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260302/p10#a260302p10"
+            "news": "http://www.techmeme.com/260303/p1#a260303p1"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic's concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities (Ben Thompson/Stratechery) (2026-03-02)",
+          "whats_new": "US Defense Secretary Pete Hegseth's and Trump's actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes (Lawfare) (2026-03-03)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260302/p18#a260302p18"
+            "news": "http://www.techmeme.com/260303/p9#a260303p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Qualcomm forms a \"strategic coalition\" to launch 6G in 2029 and unveils FastConnect 8800, an \"AI-native\" Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 (Will Sattelberg/9to5Google) (2026-03-02)",
+          "whats_new": "Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds (Thomas Ricker/The Verge) (2026-03-03)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260302/p17#a260302p17"
+            "news": "http://www.techmeme.com/260303/p5#a260303p5"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] Micro Diffusion \u2014 Discrete text diffusion in ~150 lines of pure Python (2026-02-28)",
+          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rgsgt6/p_micro_diffusion_discrete_text_diffusion_in_150/"
+            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
           },
           "total": 84.1
         },
