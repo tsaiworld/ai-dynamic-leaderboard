@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-03",
+    "last_updated": "2026-03-04",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sam Altman says the DOD affirmed that OpenAI's tools wouldn't be used by agencies like the NSA, and services to them would need a further contract modification (Dylan Butts/CNBC) (2026-03-03)",
+          "whats_new": "An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for \"unclassified networks\" (Hyunsu Yim/Reuters) (2026-03-04)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260303/p1#a260303p1"
+            "news": "http://www.techmeme.com/260304/p5#a260304p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "US Defense Secretary Pete Hegseth's and Trump's actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes (Lawfare) (2026-03-03)",
+          "whats_new": "Raycast\u2019s Glaze is an all-in-one vibe coding app platform (2026-03-04)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260303/p9#a260303p9"
+            "news": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds (Thomas Ricker/The Verge) (2026-03-03)",
+          "whats_new": "Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold (Ben Schoon/9to5Google) (2026-03-04)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260303/p5#a260303p5"
+            "news": "http://www.techmeme.com/260304/p7#a260304p7"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT (2026-02-13)",
+          "whats_new": "GPT-5.3 Instant System Card (2026-03-03)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+            "news": "https://openai.com/index/gpt-5-3-instant-system-card"
           },
           "total": 84.1
         },
