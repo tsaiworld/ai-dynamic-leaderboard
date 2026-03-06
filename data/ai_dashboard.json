@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-05",
+    "last_updated": "2026-03-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[D] Working on a photo-based calorie tracker app (2026-03-05)",
+          "whats_new": "Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI (Bloomberg) (2026-03-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rl5pxu/d_working_on_a_photobased_calorie_tracker_app/"
+            "news": "http://www.techmeme.com/260306/p8#a260306p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup (2026-03-05)",
+          "whats_new": "Microsoft says it will keep Anthropic's AI tools embedded in its client products, after its lawyers concluded the DOD's designation is only for defense projects (Jordan Novet/CNBC) (2026-03-06)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal"
+            "news": "http://www.techmeme.com/260306/p5#a260306p5"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google expands its Canvas workspace to everyone in the US using Google Search's AI Mode so they can get the latest info to organize plans, draft docs, and more (Emma Roth/The Verge) (2026-03-05)",
+          "whats_new": "An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic's case against Apple is different, and more (Dean Takahashi/GamesBeat) (2026-03-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260305/p18#a260305p18"
+            "news": "http://www.techmeme.com/260306/p1#a260306p1"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Extending single-minus amplitudes to gravitons (2026-03-04)",
+          "whats_new": "GPT-5.4 Thinking System Card (2026-03-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons"
+            "news": "https://openai.com/index/gpt-5-4-thinking-system-card"
           },
           "total": 84.1
         },
@@ -283,7 +283,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff (2026-01-28)",
+          "whats_new": "Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer (Russell Brandom/TechCrunch) (2026-03-05)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/"
+            "news": "http://www.techmeme.com/260305/p65#a260305p65"
           }
         },
         {
