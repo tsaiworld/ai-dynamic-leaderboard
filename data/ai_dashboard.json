@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-06",
+    "last_updated": "2026-03-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI (Bloomberg) (2026-03-06)",
+          "whats_new": "For OpenAI and Anthropic, the Competition Is Deeply Personal (2026-03-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260306/p8#a260306p8"
+            "news": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft says it will keep Anthropic's AI tools embedded in its client products, after its lawyers concluded the DOD's designation is only for defense projects (Jordan Novet/CNBC) (2026-03-06)",
+          "whats_new": "The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force (Noah Smith/Noahpinion) (2026-03-06)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260306/p5#a260306p5"
+            "news": "http://www.techmeme.com/260306/p28#a260306p28"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic's case against Apple is different, and more (Dean Takahashi/GamesBeat) (2026-03-06)",
+          "whats_new": "Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register) (2026-03-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260306/p1#a260306p1"
+            "news": "http://www.techmeme.com/260307/p2#a260307p2"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] FP8 inference on Ampere without native hardware support | TinyLlama running on RTX 3050 (2026-02-26)",
+          "whats_new": "[P] Domain specific LoRA fine tuning on consumer hardware (2026-03-06)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rfbbe5/p_fp8_inference_on_ampere_without_native_hardware/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GPT-5.4 Thinking System Card (2026-03-05)",
+          "whats_new": "How Balyasny Asset Management built an AI research engine for investing (2026-03-06)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-4-thinking-system-card"
+            "news": "https://openai.com/index/balyasny-asset-management"
           },
           "total": 84.1
         },
