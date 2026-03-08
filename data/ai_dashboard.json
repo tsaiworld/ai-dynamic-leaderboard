@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-07",
+    "last_updated": "2026-03-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "For OpenAI and Anthropic, the Competition Is Deeply Personal (2026-03-07)",
+          "whats_new": "A study finds LLMs from Anthropic, Google, OpenAI, and xAI can help with academic fraud, specifically helping non-researchers submit fabricated papers to arXiv (Elizabeth Gibney/Nature) (2026-03-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html"
+            "news": "http://www.techmeme.com/260308/p5#a260308p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force (Noah Smith/Noahpinion) (2026-03-06)",
+          "whats_new": "A profile of Emil Michael, who made his name as an aggressive dealmaker for Uber, as he takes a leading role in the Pentagon's dispute with Anthropic (Rebecca Torrence/Bloomberg) (2026-03-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260306/p28#a260306p28"
+            "news": "http://www.techmeme.com/260308/p4#a260308p4"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google's TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse (Jessica Lyons/The Register) (2026-03-07)",
+          "whats_new": "[R] Low-effort papers (2026-03-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260307/p2#a260307p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rmk49w/r_loweffort_papers/"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Balyasny Asset Management built an AI research engine for investing (2026-03-06)",
+          "whats_new": "Documents show two DOGE employees used ChatGPT to identify National Endowment for the Humanities grants, worth over $100M, to be cut for being related to DEI (Jennifer Schuessler/New York Times) (2026-03-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/balyasny-asset-management"
+            "news": "http://www.techmeme.com/260307/p15#a260307p15"
           },
           "total": 84.1
         },
