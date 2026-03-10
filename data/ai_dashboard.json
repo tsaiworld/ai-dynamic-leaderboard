@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "For OpenAI and Anthropic, the Competition Is Deeply Personal (2026-03-07)",
+          "whats_new": "OpenAI to acquire Promptfoo (2026-03-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html"
+            "news": "https://openai.com/index/openai-to-acquire-promptfoo"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft launches Copilot Cowork, integrating Anthropic's Claude Cowork tech into Microsoft 365 and using Work IQ to ground actions in organizational data (Charles Lamanna/Microsoft 365 Blog) (2026-03-09)",
+          "whats_new": "Anthropic is suing the Department of Defense (2026-03-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260309/p15#a260309p15"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[R] Low-effort papers (2026-03-06)",
+          "whats_new": "Google\u2019s Gemini AI is getting a bigger role across Docs, Sheets, and Slides (2026-03-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rmk49w/r_loweffort_papers/"
+            "news": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A Lloyds-commissioned study of 5,000 people in the UK finds that 50%+ of the adults used generative AI platforms for financial advice; ChatGPT was the most used (Mary McDougall/Financial Times) (2026-03-09)",
+          "whats_new": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues (2026-03-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260309/p3#a260309p3"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/"
           },
           "total": 84.1
         },
