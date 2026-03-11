@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic is suing the Department of Defense (2026-03-09)",
+          "whats_new": "Anthropic is launching a new think tank amid Pentagon blacklist fight (2026-03-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Gemini AI is getting a bigger role across Docs, Sheets, and Slides (2026-03-10)",
+          "whats_new": "Google closes its acquisition of Israeli cybersecurity startup Wiz for $32B, marking Google's biggest acquisition yet; Google initially approached Wiz in 2024 (Rebecca Bellan/TechCrunch) (2026-03-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+            "news": "http://www.techmeme.com/260311/p27#a260311p27"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues (2026-03-08)",
+          "whats_new": "New ways to learn math and science in ChatGPT (2026-03-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/"
+            "news": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
           },
           "total": 84.1
         },
