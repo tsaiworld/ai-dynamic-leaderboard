@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-11",
+    "last_updated": "2026-03-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI to acquire Promptfoo (2026-03-09)",
+          "whats_new": "Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng (Kate Park/TechCrunch) (2026-03-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-to-acquire-promptfoo"
+            "news": "http://www.techmeme.com/260312/p13#a260312p13"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic is launching a new think tank amid Pentagon blacklist fight (2026-03-11)",
+          "whats_new": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label (2026-03-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"
+            "news": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google closes its acquisition of Israeli cybersecurity startup Wiz for $32B, marking Google's biggest acquisition yet; Google initially approached Wiz in 2024 (Rebecca Bellan/TechCrunch) (2026-03-11)",
+          "whats_new": "You can now ask Google Maps \u2018complex, real-world questions\u2019 \u2014 and Gemini will answer (2026-03-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260311/p27#a260311p27"
+            "news": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Domain specific LoRA fine tuning on consumer hardware (2026-03-06)",
+          "whats_new": "[P] Yet another garage model - Prisma: Interpretability-Inspired Architecture (2026-03-11)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rr1w4s/p_yet_another_garage_model_prisma/"
           }
         }
       ]
@@ -97,7 +97,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "The Sora feed philosophy (2026-02-03)",
+          "whats_new": "Bespoke AI models are the next big thing in filmmaking (2026-03-12)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -109,7 +109,7 @@
             "innovation": 95
           },
           "links": {
-            "news": "https://openai.com/index/sora-feed-philosophy"
+            "news": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck"
           },
           "total": 87.0
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "New ways to learn math and science in ChatGPT (2026-03-10)",
+          "whats_new": "Designing AI agents to resist prompt injection (2026-03-11)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
+            "news": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
           },
           "total": 84.1
         },
@@ -265,7 +265,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft launches the E7 bundle for $99/user/month, a 65% jump; of the 450M+ business users that paid for its tools in January, only ~3% also paid for Copilot (Brody Ford/Bloomberg) (2026-03-09)",
+          "whats_new": "Microsoft\u2019s Copilot Health can connect to your medical records and wearables (2026-03-12)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,12 +278,12 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/260309/p14#a260309p14"
+            "news": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch"
           }
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer (Russell Brandom/TechCrunch) (2026-03-05)",
+          "whats_new": "Stockholm-based AI coding startup Lovable reaches $400M in ARR, up from $300M in January; rival Cursor hit $2B in annualized revenue in February, per a source (Bloomberg) (2026-03-12)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -296,7 +296,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/260305/p65#a260305p65"
+            "news": "http://www.techmeme.com/260312/p26#a260312p26"
           }
         },
         {
