@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-12",
+    "last_updated": "2026-03-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng (Kate Park/TechCrunch) (2026-03-12)",
+          "whats_new": "A.I. Chatbots Want Your Health Records. Tread Carefully. (2026-03-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260312/p13#a260312p13"
+            "news": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label (2026-03-09)",
+          "whats_new": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now (2026-03-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "You can now ask Google Maps \u2018complex, real-world questions\u2019 \u2014 and Gemini will answer (2026-03-12)",
+          "whats_new": "Gemini\u2019s task automation is here and it\u2019s wild (2026-03-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+            "news": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10"
           },
           "total": 83.25
         },
