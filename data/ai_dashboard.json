@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-15",
+    "last_updated": "2026-03-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "[Project] JudgeGPT \u2014 open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry (2026-03-13)",
+          "whats_new": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic (2026-03-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses (Caroline Haskins/Wired) (2026-03-14)",
+          "whats_new": "How tech billionaires are turning on the Giving Pledge, promoted by Bill Gates and Warren Buffett; Peter Thiel says he privately told ~12 signers to undo it (Theodore Schleifer/New York Times) (2026-03-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260314/p3#a260314p3"
+            "news": "http://www.techmeme.com/260316/p14#a260316p14"
           },
           "total": 85.15
         },
