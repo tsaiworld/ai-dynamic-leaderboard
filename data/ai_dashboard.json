@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-16",
+    "last_updated": "2026-03-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic (2026-03-16)",
+          "whats_new": "Sources: OpenAI signed a deal with AWS to sell its AI services to US government agencies for both classified and unclassified work, amid the Anthropic-DOD spat (The Information) (2026-03-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
+            "news": "http://www.techmeme.com/260317/p26#a260317p26"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[P] Karpathy's autoresearch with evolutionary database. (2026-03-14)",
+          "whats_new": "Sources: Google is in talks with Envicool and other Chinese companies about buying liquid cooling equipment for data centers, amid a tight supply of such parts (Reuters) (2026-03-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rtsbkv/p_karpathys_autoresearch_with_evolutionary/"
+            "news": "http://www.techmeme.com/260317/p13#a260317p13"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization (2026-03-14)",
+          "whats_new": "DLSS 5 looks like a real-time generative AI filter for video games (2026-03-16)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/"
+            "news": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
           },
           "total": 84.1
         },
