@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-17",
+    "last_updated": "2026-03-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI signed a deal with AWS to sell its AI services to US government agencies for both classified and unclassified work, amid the Anthropic-DOD spat (The Information) (2026-03-17)",
+          "whats_new": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes) (2026-03-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260317/p26#a260317p26"
+            "news": "http://www.techmeme.com/260318/p25#a260318p25"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "How tech billionaires are turning on the Giving Pledge, promoted by Bill Gates and Warren Buffett; Peter Thiel says he privately told ~12 signers to undo it (Theodore Schleifer/New York Times) (2026-03-16)",
+          "whats_new": "Silicon Valley Bet on War. The Bets Are Paying Off. (2026-03-18)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260316/p14#a260316p14"
+            "news": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google is in talks with Envicool and other Chinese companies about buying liquid cooling equipment for data centers, amid a tight supply of such parts (Reuters) (2026-03-17)",
+          "whats_new": "Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites (Andy Greenberg/Wired) (2026-03-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260317/p13#a260317p13"
+            "news": "http://www.techmeme.com/260318/p28#a260318p28"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "DLSS 5 looks like a real-time generative AI filter for video games (2026-03-16)",
+          "whats_new": "[R] Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation (2026-03-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rwswk1/r_beyond_final_answers_crystal_benchmark_for/"
           },
           "total": 84.1
         },
@@ -244,7 +244,7 @@
         },
         {
           "tool": "CrewAI / AutoGen",
-          "whats_new": "Multi-agent orchestration improvements (2025-10-17)",
+          "whats_new": "[D] Are AI agents missing an \u201cexecution authorization\u201d layer? (2026-03-18)",
           "best_used_for": "AI team coordination",
           "pro": "High flexibility for devs",
           "con": "Setup/ops complexity",
@@ -255,7 +255,10 @@
             "privacy": 82,
             "innovation": 82
           },
-          "total": 75.2
+          "total": 75.2,
+          "links": {
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1rx50y0/d_are_ai_agents_missing_an_execution/"
+          }
         }
       ]
     },
@@ -265,7 +268,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft\u2019s Copilot AI assistant is coming to current-gen Xbox consoles this year (2026-03-13)",
+          "whats_new": "Microsoft appoints a new Copilot boss after AI leadership shake-up (2026-03-17)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -278,7 +281,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
+            "news": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"
           }
         },
         {
@@ -301,7 +304,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "Q&A with Replit CEO Amjad Masad, who says India is Replit's second-largest market by active users, on integrating Razorpay's tech, AI's impact on SaaS, and more (Bhavya Dilipkumar/Moneycontrol) (2026-02-17)",
+          "whats_new": "Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser (The Information) (2026-03-18)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -314,7 +317,7 @@
           },
           "total": 74.7,
           "links": {
-            "news": "http://www.techmeme.com/260217/p9#a260217p9"
+            "news": "http://www.techmeme.com/260318/p23#a260318p23"
           }
         }
       ]
