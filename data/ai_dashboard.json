@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-18",
+    "last_updated": "2026-03-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes) (2026-03-18)",
+          "whats_new": "OpenAI to acquire Astral (2026-03-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260318/p25#a260318p25"
+            "news": "https://openai.com/index/openai-to-acquire-astral"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Silicon Valley Bet on War. The Bets Are Paying Off. (2026-03-18)",
+          "whats_new": "Silicon Valley Bet on War. The Bets Are Paying Off. (2026-03-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites (Andy Greenberg/Wired) (2026-03-18)",
+          "whats_new": "Google co-founder Sergey Brin raises his total contribution to $45M for the Building a Better California Super PAC, which opposes a proposed 5% billionaire tax (Dara Kerr/The Guardian) (2026-03-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260318/p28#a260318p28"
+            "news": "http://www.techmeme.com/260319/p25#a260319p25"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[R] Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation (2026-03-18)",
+          "whats_new": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks (2026-03-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rwswk1/r_beyond_final_answers_crystal_benchmark_for/"
+            "news": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html"
           },
           "total": 84.1
         },
