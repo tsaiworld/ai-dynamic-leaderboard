@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-03-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI to acquire Astral (2026-03-19)",
+          "whats_new": "How we monitor internal coding agents for misalignment (2026-03-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-to-acquire-astral"
+            "news": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google co-founder Sergey Brin raises his total contribution to $45M for the Building a Better California Super PAC, which opposes a proposed 5% billionaire tax (Dara Kerr/The Guardian) (2026-03-19)",
+          "whats_new": "Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the start of 2026 and employed ~445 people as of March 1; Gemini lost $500M+ in 2025 (Olga Kharif/Bloomberg) (2026-03-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260319/p25#a260319p25"
+            "news": "http://www.techmeme.com/260320/p6#a260320p6"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks (2026-03-19)",
+          "whats_new": "Xiaomi unveils its MiMo-V2 AI models, including the 1T-parameter MiMo-V2-Pro, codenamed Hunter Alpha, which Xiaomi says benchmarks close to GPT-5.2 and Opus 4.6 (Carl Franzen/VentureBeat) (2026-03-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html"
+            "news": "http://www.techmeme.com/260320/p4#a260320p4"
           },
           "total": 84.1
         },
