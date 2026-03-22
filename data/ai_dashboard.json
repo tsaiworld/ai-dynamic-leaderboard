@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI aims to grow to about 8,000 employees by the end of 2026, from ~4,500 today, as it seeks to arrest Anthropic's momentum with business customers (Financial Times) (2026-03-21)",
+          "whats_new": "The gen AI Kool-Aid tastes like eugenics (2026-03-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260321/p6#a260321p6"
+            "news": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[P] I cut my Claude Code token usage by using HDC as a context engine for my source tree (2026-03-21)",
+          "whats_new": "Silicon Valley Bet on War. The Bets Are Paying Off. (2026-03-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rzq8pm/p_i_cut_my_claude_code_token_usage_by_using_hdc/"
+            "news": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini task automation is slow, clunky, and super impressive (2026-03-21)",
+          "whats_new": "[D] Solving the \"Liquid-Solid Interface\" Problem: 116 High-Fidelity Datasets of Coastal Physics (Waves, Saturated Sand, Light Transport) (2026-03-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s0ea4v/d_solving_the_liquidsolid_interface_problem_116/"
           },
           "total": 83.25
         },
