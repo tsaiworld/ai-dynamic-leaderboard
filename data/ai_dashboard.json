@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-23",
+    "last_updated": "2026-03-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI is offering private equity firms a guaranteed minimum return of 17.5% and early access to new models to secure JVs, beating Anthropic's terms (Reuters) (2026-03-23)",
+          "whats_new": "Filing: OpenAI petitions the UK CMA to include AI chatbots with a search function in Google's mandated Chrome and Android default search engine choice screens (James Titcomb/Telegraph) (2026-03-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260323/p19#a260323p19"
+            "news": "http://www.techmeme.com/260324/p5#a260324p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Silicon Valley Bet on War. The Bets Are Paying Off. (2026-03-19)",
+          "whats_new": "Anthropic\u2019s Claude Code and Cowork can control your computer (2026-03-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Canal+, ITV, Sky, and other broadcasters urge the EU to designate smart TV operating systems such as Android TV and Amazon Fire OS as gatekeepers under the DMA (Foo Yun Chee/Reuters) (2026-03-23)",
+          "whats_new": "Google\u2019s new Pixel 10 ads made me go \u2018Wait, WHAT are they trying to sell?\u2019 (2026-03-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260323/p21#a260323p21"
+            "news": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"
           },
           "total": 83.25
         },
@@ -97,7 +97,7 @@
       "entries": [
         {
           "tool": "Sora (OpenAI)",
-          "whats_new": "Bespoke AI models are the next big thing in filmmaking (2026-03-12)",
+          "whats_new": "Creating with Sora Safely (2026-03-23)",
           "best_used_for": "Ad creatives, concept films",
           "pro": "Unmatched realism (demo)",
           "con": "Limited public availability",
@@ -109,7 +109,7 @@
             "innovation": 95
           },
           "links": {
-            "news": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck"
+            "news": "https://openai.com/index/creating-with-sora-safely"
           },
           "total": 87.0
         },
