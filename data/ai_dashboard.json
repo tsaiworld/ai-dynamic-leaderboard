@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-25",
+    "last_updated": "2026-03-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Legal AI company Harvey raised $200M led by GIC and Sequoia at an $11B valuation, up from $8B in December 2025, and reports 100K+ users at 1,300+ organizations (Ashley Capoot/CNBC) (2026-03-25)",
+          "whats_new": "OpenAI shelves erotic chatbot &#8216;indefinitely&#8217; (2026-03-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260325/p20#a260325p20"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode (2026-03-25)",
+          "whats_new": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance (2026-03-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"
+            "news": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] ICML 2026: Policy A vs Policy B impact on scores discussion (2026-03-25)",
+          "whats_new": "Book excerpt: how Google acquired DeepMind for $650M in 2014, beating Facebook to the deal; Mustafa Suleyman used poker-style bluffing to secure a safety board (Sebastian Mallaby/Wall Street Journal) (2026-03-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s387tx/d_icml_2026_policy_a_vs_policy_b_impact_on_scores/"
+            "news": "http://www.techmeme.com/260326/p9#a260326p9"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Powering product discovery in ChatGPT (2026-03-24)",
+          "whats_new": "Mistral launches Voxtral TTS, an open-source enterprise text-to-speech model that supports nine languages, including Hindi and Arabic, based on Ministral 3B (Ivan Mehta/TechCrunch) (2026-03-26)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+            "news": "http://www.techmeme.com/260326/p20#a260326p20"
           },
           "total": 84.1
         },
