@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-26",
+    "last_updated": "2026-03-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI shelves erotic chatbot &#8216;indefinitely&#8217; (2026-03-26)",
+          "whats_new": "OpenAI launches Codex plugins to standardize repeatable AI workflows, with 20+ initial integrations such as Figma, Notion, Gmail, and Slack (David Gewirtz/ZDNET) (2026-03-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely"
+            "news": "http://www.techmeme.com/260327/p8#a260327p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance (2026-03-25)",
+          "whats_new": "Anthropic says it's testing an AI model that's a \"step change\" in performance after a draft blog in an unsecured data store revealed the Claude Mythos model (Beatrice Nolan/Fortune) (2026-03-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance"
+            "news": "http://www.techmeme.com/260327/p9#a260327p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Book excerpt: how Google acquired DeepMind for $650M in 2014, beating Facebook to the deal; Mustafa Suleyman used poker-style bluffing to secure a safety board (Sebastian Mallaby/Wall Street Journal) (2026-03-26)",
+          "whats_new": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages (2026-03-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260326/p9#a260326p9"
+            "news": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] Yet another garage model - Prisma: Interpretability-Inspired Architecture (2026-03-11)",
+          "whats_new": "[D] Why evaluating only final outputs is misleading for local LLM agents (2026-03-26)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1rr1w4s/p_yet_another_garage_model_prisma/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/"
           }
         }
       ]
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "NYC-based AI video startup Runway raised a $315M Series E led by General Atlantic, a source says at a $5.3B valuation, and plans to build AI world models (Nat Rubio-Licht/The Deep View) (2026-02-10)",
+          "whats_new": "Safety Experts Considered LaGuardia Challenging but Not an Outlier (2026-03-27)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "http://www.techmeme.com/260210/p28#a260210p28"
+            "news": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Mistral launches Voxtral TTS, an open-source enterprise text-to-speech model that supports nine languages, including Hindi and Arabic, based on Ministral 3B (Ivan Mehta/TechCrunch) (2026-03-26)",
+          "whats_new": "[D] Is LeCun\u2019s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning? (2026-03-25)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260326/p20#a260326p20"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/"
           },
           "total": 84.1
         },
@@ -268,7 +268,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft appoints a new Copilot boss after AI leadership shake-up (2026-03-17)",
+          "whats_new": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A (Lily Mae Lazarus/Fortune) (2026-03-26)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -281,7 +281,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"
+            "news": "http://www.techmeme.com/260326/p53#a260326p53"
           }
         },
         {
