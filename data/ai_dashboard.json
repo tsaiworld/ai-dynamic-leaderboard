@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-27",
+    "last_updated": "2026-03-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI launches Codex plugins to standardize repeatable AI workflows, with 20+ initial integrations such as Figma, Notion, Gmail, and Slack (David Gewirtz/ZDNET) (2026-03-27)",
+          "whats_new": "Why OpenAI killed Sora (2026-03-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260327/p8#a260327p8"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic says it's testing an AI model that's a \"step change\" in performance after a draft blog in an unsecured data store revealed the Claude Mythos model (Beatrice Nolan/Fortune) (2026-03-27)",
+          "whats_new": "Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label (Brendan Bordelon/Politico) (2026-03-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260327/p9#a260327p9"
+            "news": "http://www.techmeme.com/260327/p30#a260327p30"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages (2026-03-26)",
+          "whats_new": "A Jeffrey Epstein victim files a class action against the Trump administration and Google, claiming Google's search and AI Mode published victims' personal info (Jennifer Elias/CNBC) (2026-03-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion"
+            "news": "http://www.techmeme.com/260327/p29#a260327p29"
           },
           "total": 83.25
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] Is LeCun\u2019s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning? (2026-03-25)",
+          "whats_new": "[Project] PentaNet: Pushing beyond BitNet with Native Pentanary {-2, -1, 0, 1, 2} Quantization (124M, zero-multiplier inference) (2026-03-28)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s5l5l2/project_pentanet_pushing_beyond_bitnet_with/"
           },
           "total": 84.1
         },
