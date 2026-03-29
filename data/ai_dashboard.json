@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-28",
+    "last_updated": "2026-03-29",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Why OpenAI killed Sora (2026-03-28)",
+          "whats_new": "[R] I built a benchmark that catches LLMs breaking physics laws (2026-03-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label (Brendan Bordelon/Politico) (2026-03-27)",
+          "whats_new": "Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year (Julie Bort/TechCrunch) (2026-03-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260327/p30#a260327p30"
+            "news": "http://www.techmeme.com/260328/p11#a260328p11"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A Jeffrey Epstein victim files a class action against the Trump administration and Google, claiming Google's search and AI Mode published victims' personal info (Jennifer Elias/CNBC) (2026-03-27)",
+          "whats_new": "A profile of Mark Lanier, a TX lawyer and part-time pastor who beat Meta and Google in the LA social media case and said Zuckerberg was \"rattled\" on the stand (Wall Street Journal) (2026-03-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260327/p29#a260327p29"
+            "news": "http://www.techmeme.com/260328/p12#a260328p12"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "How to vibe-write a country hit (2025-12-12)",
+          "whats_new": "Suno leans into customization with v5.5 (2026-03-28)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast"
+            "news": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model"
           },
           "total": 79.6
         },
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[Project] PentaNet: Pushing beyond BitNet with Native Pentanary {-2, -1, 0, 1, 2} Quantization (124M, zero-multiplier inference) (2026-03-28)",
+          "whats_new": "[R] GPT-5.4-mini regressed 22pp on vanilla prompting vs GPT-5-mini. Nobody noticed because benchmarks don't test this. Recursive Language Models solved it. (2026-03-29)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s5l5l2/project_pentanet_pushing_beyond_bitnet_with/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s6qtsz/r_gpt54mini_regressed_22pp_on_vanilla_prompting/"
           },
           "total": 84.1
         },
