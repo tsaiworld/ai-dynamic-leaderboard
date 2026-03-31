@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-03-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Microsoft rolls out Copilot Cowork to its Frontier program for early-stage testing, including a new Researcher Critique tool using Anthropic and OpenAI models (Jared Spataro/Microsoft 365 Blog) (2026-03-30)",
+          "whats_new": "Helping disaster response teams turn AI into action across Asia (2026-03-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260330/p22#a260330p22"
+            "news": "https://openai.com/index/helping-disaster-response-teams-asia"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How Google DeepMind Chief Scientist Jeff Dean has been an outspoken voice on politics, a rare tech leader openly criticizing Trump actions and an ICE shooting (Katherine Blunt/Wall Street Journal) (2026-03-30)",
+          "whats_new": "[D] Diffusion research interview experience? (2026-03-31)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260330/p15#a260330p15"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s8dpuj/d_diffusion_research_interview_experience/"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Safety Experts Considered LaGuardia Challenging but Not an Outlier (2026-03-27)",
+          "whats_new": "Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits (Rebecca Bellan/TechCrunch) (2026-03-31)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html"
+            "news": "http://www.techmeme.com/260331/p36#a260331p36"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] Implemented TurboQuant in Python (2026-03-29)",
+          "whats_new": "[P] I built a personal research newspaper to funnel arXiv (2026-03-31)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s73sbf/p_implemented_turboquant_in_python/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s8ls28/p_i_built_a_personal_research_newspaper_to_funnel/"
           },
           "total": 84.1
         },
