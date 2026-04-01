@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-03-31",
+    "last_updated": "2026-04-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Helping disaster response teams turn AI into action across Asia (2026-03-29)",
+          "whats_new": "US kid safety groups say they didn't know OpenAI had entirely funded the Parents & Kids Safe AI Coalition to promote CA legislation until after it was announced (Emily Shugerman/The San Francisco ...) (2026-04-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/helping-disaster-response-teams-asia"
+            "news": "http://www.techmeme.com/260401/p21#a260401p21"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Bluesky\u2019s new app is an AI for customizing your feed (2026-03-29)",
+          "whats_new": "AI can push your Stream Deck buttons for you (2026-04-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
+            "news": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Diffusion research interview experience? (2026-03-31)",
+          "whats_new": "[D] Does seeing the identify of authors influence your scoring? (2026-04-01)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s8dpuj/d_diffusion_research_interview_experience/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1s9iacl/d_does_seeing_the_identify_of_authors_influence/"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits (Rebecca Bellan/TechCrunch) (2026-03-31)",
+          "whats_new": "Safety Experts Considered LaGuardia Challenging but Not an Outlier (2026-03-27)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "http://www.techmeme.com/260331/p36#a260331p36"
+            "news": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[P] I built a personal research newspaper to funnel arXiv (2026-03-31)",
+          "whats_new": "Gradient Labs gives every bank customer an AI account manager (2026-04-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s8ls28/p_i_built_a_personal_research_newspaper_to_funnel/"
+            "news": "https://openai.com/index/gradient-labs"
           },
           "total": 84.1
         },
