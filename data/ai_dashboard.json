@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-01",
+    "last_updated": "2026-04-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "US kid safety groups say they didn't know OpenAI had entirely funded the Parents & Kids Safe AI Coalition to promote CA legislation until after it was announced (Emily Shugerman/The San Francisco ...) (2026-04-01)",
+          "whats_new": "Microsoft launches in-house AI models MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, built by its superintelligence team, as it pursues \"AI self-sufficiency\" (Michael Nu\u00f1ez/VentureBeat) (2026-04-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260401/p21#a260401p21"
+            "news": "http://www.techmeme.com/260402/p13#a260402p13"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "[D] Does seeing the identify of authors influence your scoring? (2026-04-01)",
+          "whats_new": "Google Home\u2019s latest update makes Gemini better at understanding your commands (2026-04-02)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s9iacl/d_does_seeing_the_identify_of_authors_influence/"
+            "news": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting"
           },
           "total": 83.25
         },
