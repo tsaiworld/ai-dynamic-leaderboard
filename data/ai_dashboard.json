@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Microsoft launches in-house AI models MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, built by its superintelligence team, as it pursues \"AI self-sufficiency\" (Michael Nu\u00f1ez/VentureBeat) (2026-04-02)",
+          "whats_new": "OpenAI Buys Streaming Show \u2018TBPN,\u2019 Aiming to Change Narrative on A.I. (2026-04-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260402/p13#a260402p13"
+            "news": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "AI can push your Stream Deck buttons for you (2026-04-01)",
+          "whats_new": "Anthropic researchers find that an AI model's representations of emotion can influence its behavior \"in ways that matter,\" such as driving it to act unethically (Nat Rubio-Licht/The Deep View) (2026-04-02)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"
+            "news": "http://www.techmeme.com/260402/p41#a260402p41"
           },
           "total": 85.15
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Safety Experts Considered LaGuardia Challenging but Not an Outlier (2026-03-27)",
+          "whats_new": "[R] VOID: Video Object and Interaction Deletion (physically-consistent video inpainting) (2026-04-03)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1sb9d9s/r_void_video_object_and_interaction_deletion/"
           }
         },
         {
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Gradient Labs gives every bank customer an AI account manager (2026-04-01)",
+          "whats_new": "Arcee AI releases Trinity-Large-Thinking, a 399B-parameter text-only reasoning model under an Apache 2.0 license, allowing full customization and commercial use (Carl Franzen/VentureBeat) (2026-04-03)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gradient-labs"
+            "news": "http://www.techmeme.com/260403/p1#a260403p1"
           },
           "total": 84.1
         },
