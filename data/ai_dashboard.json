@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-03",
+    "last_updated": "2026-04-04",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Buys Streaming Show \u2018TBPN,\u2019 Aiming to Change Narrative on A.I. (2026-04-03)",
+          "whats_new": "OpenAI\u2019s AGI boss is taking a leave of absence (2026-04-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic researchers find that an AI model's representations of emotion can influence its behavior \"in ways that matter,\" such as driving it to act unethically (Nat Rubio-Licht/The Deep View) (2026-04-02)",
+          "whats_new": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra (2026-04-03)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260402/p41#a260402p41"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Home\u2019s latest update makes Gemini better at understanding your commands (2026-04-02)",
+          "whats_new": "Best OCR for template-based form extraction? [D] (2026-04-04)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1sc5o71/best_ocr_for_templatebased_form_extraction_d/"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[D] Why evaluating only final outputs is misleading for local LLM agents (2026-03-26)",
+          "whats_new": "[P] GPU friendly lossless 12-bit BF16 format with 0.03% escape rate and 1 integer ADD decode works for AMD & NVIDIA (2026-04-04)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1sbv9jl/p_gpu_friendly_lossless_12bit_bf16_format_with/"
           }
         }
       ]
@@ -211,7 +211,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Arcee AI releases Trinity-Large-Thinking, a 399B-parameter text-only reasoning model under an Apache 2.0 license, allowing full customization and commercial use (Carl Franzen/VentureBeat) (2026-04-03)",
+          "whats_new": "Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans (Anna Tong/Forbes) (2026-04-04)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +223,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260403/p1#a260403p1"
+            "news": "http://www.techmeme.com/260404/p2#a260404p2"
           },
           "total": 84.1
         },
@@ -268,7 +268,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A (Lily Mae Lazarus/Fortune) (2026-03-26)",
+          "whats_new": "Sources: Microsoft's Judson Althoff said Copilot sales hit \"some pretty big audacious goals\" in Q3; only 3% of customers were paying for Copilot as of January (Brody Ford/Bloomberg) (2026-04-04)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -281,7 +281,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/260326/p53#a260326p53"
+            "news": "http://www.techmeme.com/260404/p1#a260404p1"
           }
         },
         {
