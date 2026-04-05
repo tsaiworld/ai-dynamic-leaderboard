@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-04",
+    "last_updated": "2026-04-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra (2026-04-03)",
+          "whats_new": "Sources: the UK has stepped up its efforts to get Anthropic to expand in the country, including a dual listing proposal, after Anthropic's clash with the US DOD (Financial Times) (2026-04-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"
+            "news": "http://www.techmeme.com/260405/p1#a260405p1"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Best OCR for template-based form extraction? [D] (2026-04-04)",
+          "whats_new": "Samsung plans to discontinue its Messages app in the US in July 2026 and offers instructions for users on older Android versions to switch to Google Messages (Abner Li/9to5Google) (2026-04-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1sc5o71/best_ocr_for_templatebased_form_extraction_d/"
+            "news": "http://www.techmeme.com/260405/p2#a260405p2"
           },
           "total": 83.25
         },
@@ -190,7 +190,7 @@
         },
         {
           "tool": "Play.ht v2",
-          "whats_new": "Real-time TTS API (2025-10-17)",
+          "whats_new": "How some teens use popular AI-powered role-playing chatbots, and the high-stakes challenge for parents to understand their potentially addictive impact (New York Times) (2026-04-04)",
           "best_used_for": "Developer TTS, narrations",
           "pro": "Developer-first platform",
           "con": "Occasional robotic timbre",
@@ -201,7 +201,10 @@
             "privacy": 74,
             "innovation": 78
           },
-          "total": 75.8
+          "total": 75.8,
+          "links": {
+            "news": "http://www.techmeme.com/260404/p13#a260404p13"
+          }
         }
       ]
     },
@@ -211,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans (Anna Tong/Forbes) (2026-04-04)",
+          "whats_new": "How Hollywood support staff are integrating AI into workflows, from mundane tasks to creative development, amid cost-cutting and workload demands (Mia Galuppo/The Hollywood Reporter) (2026-04-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -223,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260404/p2#a260404p2"
+            "news": "http://www.techmeme.com/260405/p4#a260405p4"
           },
           "total": 84.1
         },
@@ -268,7 +271,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Sources: Microsoft's Judson Althoff said Copilot sales hit \"some pretty big audacious goals\" in Q3; only 3% of customers were paying for Copilot as of January (Brody Ford/Bloomberg) (2026-04-04)",
+          "whats_new": "According to Microsoft Copilot Terms of Use, updated in Oct. 2025, \"Copilot is for entertainment purposes only\" and \"Don't rely on Copilot for important advice\" (Jowi Morales/Tom's Hardware) (2026-04-05)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -281,7 +284,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/260404/p1#a260404p1"
+            "news": "http://www.techmeme.com/260405/p3#a260405p3"
           }
         },
         {
