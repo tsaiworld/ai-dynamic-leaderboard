@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-06",
+    "last_updated": "2026-04-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath (New Yorker) (2026-04-06)",
+          "whats_new": "GoDaddy integrates Cloudflare's AI Crawl Control into its hosting platform, enabling site owners to block, permit, or possibly monetize automated crawler access (Alistair Barr/Business Insider) (2026-04-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260406/p8#a260406p8"
+            "news": "http://www.techmeme.com/260407/p25#a260407p25"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] Reference model free behavioral discovery of AudiBench model organisms via Probe-Mediated Adaptive Auditing (2026-04-05)",
+          "whats_new": "[D] Tested model routing on financial AI datasets \u2014 good savings and curious what benchmarks others use. (2026-04-06)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1sdieuq/r_reference_model_free_behavioral_discovery_of/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1sedqda/d_tested_model_routing_on_financial_ai_datasets/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "I let Gemini in Google Maps plan my day and it went surprisingly well (2026-04-05)",
+          "whats_new": "Gemini is making it faster for distressed users to reach mental health resources (2026-04-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "[D] How to break free from LLM's chains as a PhD student? (2026-04-06)",
+          "whats_new": "[D] MemPalace claims 100% on LoCoMo and a \"perfect score on LongMemEval.\" Its own BENCHMARKS.md documents why neither is meaningful. (2026-04-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1seunbr/d_mempalace_claims_100_on_locomo_and_a_perfect/"
           },
           "total": 84.1
         },
