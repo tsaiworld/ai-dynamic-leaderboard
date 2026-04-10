@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-09",
+    "last_updated": "2026-04-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Full Fan Mode Contest: Terms & Conditions (2026-04-09)",
+          "whats_new": "Fear and loathing at OpenAI (2026-04-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
+            "news": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The AI industry\u2019s race for profits is now existential (2026-04-09)",
+          "whats_new": "CoreWeave says it has signed a multiyear deal with Anthropic, including a variety of Nvidia chips at data centers in the US; it now has 43 active data centers (Brody Ford/Bloomberg) (2026-04-10)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+            "news": "http://www.techmeme.com/260410/p11#a260410p11"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google makes it easy to deepfake yourself (2026-04-09)",
+          "whats_new": "Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism) (2026-04-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar"
+            "news": "http://www.techmeme.com/260410/p9#a260410p9"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT (2026-04-07)",
+          "whats_new": "CyberAgent moves faster with ChatGPT Enterprise and Codex (2026-04-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html"
+            "news": "https://openai.com/index/cyberagent"
           },
           "total": 84.1
         },
@@ -271,7 +271,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "According to Microsoft Copilot Terms of Use, updated in Oct. 2025, \"Copilot is for entertainment purposes only\" and \"Don't rely on Copilot for important advice\" (Jowi Morales/Tom's Hardware) (2026-04-05)",
+          "whats_new": "Microsoft starts removing Copilot buttons from Windows 11 apps (2026-04-10)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -284,7 +284,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "http://www.techmeme.com/260405/p3#a260405p3"
+            "news": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
           }
         },
         {
