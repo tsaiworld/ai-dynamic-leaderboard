@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-11",
+    "last_updated": "2026-04-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Court filing: OpenAI says Elon Musk's recent amendments to his OpenAI lawsuit are a \"legal ambush\", calling them \"legally improper and factually unsupported\" (Robert Burnson/Bloomberg) (2026-04-11)",
+          "whats_new": "Your article about AI doesn\u2019t need AI art (2026-04-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260411/p5#a260411p5"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The AI industry\u2019s race for profits is now existential (2026-04-09)",
+          "whats_new": "Gary Marcus on the Claude Code leak [D] (2026-04-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Gemini AI can answer your questions with 3D models and simulations (2026-04-09)",
+          "whats_new": "Analysts and researchers say Google's TurboQuant compression algorithm to make LLMs more efficient is more likely to expand memory chip demand than reduce it (Daniel Tudor/Financial Times) (2026-04-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations"
+            "news": "http://www.techmeme.com/260412/p1#a260412p1"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How AI is transforming golf: optimizing course operations, virtual assistants handling tee time bookings, and AI instructor apps improving player performance (Bradley S. Klein/Wall Street Journal) (2026-04-11)",
+          "whats_new": "A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times (Derek Wallbank/Bloomberg) (2026-04-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "http://www.techmeme.com/260411/p6#a260411p6"
+            "news": "http://www.techmeme.com/260412/p3#a260412p3"
           },
           "total": 84.1
         },
