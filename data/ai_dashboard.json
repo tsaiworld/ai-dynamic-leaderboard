@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-13",
+    "last_updated": "2026-04-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI (2026-04-13)",
+          "whats_new": "OpenAI's new economic agenda is oddly socialist, wildly hypocritical, and largely undermined by OpenAI's support for Republicans who attack welfare programs (Eric Levitz/Vox) (2026-04-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/cloudflare-openai-agent-cloud"
+            "news": "http://www.techmeme.com/260414/p6#a260414p6"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft says it is \"exploring the potential of technologies like OpenClaw in an enterprise context\", including a team of always-on agents within Microsoft 365 (Aaron Holmes/The Information) (2026-04-13)",
+          "whats_new": "Anthropic appoints Novartis CEO Vas Narasimhan to its board, its second board addition in recent months as it eyes an IPO and pushes further into healthcare (Kate Clark/Wall Street Journal) (2026-04-14)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260413/p17#a260413p17"
+            "news": "http://www.techmeme.com/260414/p16#a260414p16"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How Accurate Are Google\u2019s A.I. Overviews? (2026-04-07)",
+          "whats_new": "Has Google\u2019s AI watermarking system been reverse-engineered? (2026-04-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
           },
           "total": 83.25
         },
@@ -271,7 +271,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft starts removing Copilot buttons from Windows 11 apps (2026-04-10)",
+          "whats_new": "Microsoft is testing OpenClaw-like AI bots for Copilot (2026-04-13)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -284,7 +284,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
+            "news": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
           }
         },
         {
