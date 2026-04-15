@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-14",
+    "last_updated": "2026-04-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI's new economic agenda is oddly socialist, wildly hypocritical, and largely undermined by OpenAI's support for Republicans who attack welfare programs (Eric Levitz/Vox) (2026-04-14)",
+          "whats_new": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies (2026-04-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260414/p6#a260414p6"
+            "news": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic appoints Novartis CEO Vas Narasimhan to its board, its second board addition in recent months as it eyes an IPO and pushes further into healthcare (Kate Clark/Wall Street Journal) (2026-04-14)",
+          "whats_new": "Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B (Rebecca Torrence/Bloomberg) (2026-04-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260414/p16#a260414p16"
+            "news": "http://www.techmeme.com/260415/p22#a260415p22"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Has Google\u2019s AI watermarking system been reverse-engineered? (2026-04-14)",
+          "whats_new": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217; (2026-04-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered"
+            "news": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT for operations teams (2026-04-10)",
+          "whats_new": "Responsible and safe use of AI (2026-04-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/operations"
+            "news": "https://openai.com/academy/responsible-and-safe-use"
           },
           "total": 84.1
         },
