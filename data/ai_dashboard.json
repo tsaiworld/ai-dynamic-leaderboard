@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies (2026-04-15)",
+          "whats_new": "Accelerating the cyber defense ecosystem that protects us all (2026-04-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html"
+            "news": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B (Rebecca Torrence/Bloomberg) (2026-04-15)",
+          "whats_new": "Anthropic releases Claude Opus 4.7, saying it is a \"notable improvement\" on Opus 4.6 in advanced software engineering and comes with a new \"xhigh\" effort level (Anthropic) (2026-04-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260415/p22#a260415p22"
+            "news": "http://www.techmeme.com/260416/p28#a260416p28"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217; (2026-04-14)",
+          "whats_new": "Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance (Erin Woo/The Information) (2026-04-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch"
+            "news": "http://www.techmeme.com/260416/p23#a260416p23"
           },
           "total": 83.25
         },
