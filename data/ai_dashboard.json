@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-16",
+    "last_updated": "2026-04-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Accelerating the cyber defense ecosystem that protects us all (2026-04-16)",
+          "whats_new": "SynMax: almost 40% of US data centers due in 2026 are facing delays; major projects for Microsoft, OpenAI, and others are likely to end over three months late (Financial Times) (2026-04-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
+            "news": "http://www.techmeme.com/260417/p8#a260417p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic releases Claude Opus 4.7, saying it is a \"notable improvement\" on Opus 4.6 in advanced software engineering and comes with a new \"xhigh\" effort level (Anthropic) (2026-04-16)",
+          "whats_new": "An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn't yet fully delivered the benefits it promises (John Thornhill/Financial Times) (2026-04-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260416/p28#a260416p28"
+            "news": "http://www.techmeme.com/260417/p15#a260417p15"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance (Erin Woo/The Information) (2026-04-16)",
+          "whats_new": "India drops a proposal to require Apple, Google, Samsung, and others to pre-install the country's biometric identification app Aadhaar on phones (Reuters) (2026-04-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260416/p23#a260416p23"
+            "news": "http://www.techmeme.com/260417/p18#a260417p18"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Responsible and safe use of AI (2026-04-10)",
+          "whats_new": "AI fundamentals (2026-04-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,13 +226,13 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/responsible-and-safe-use"
+            "news": "https://openai.com/academy/what-is-ai"
           },
           "total": 84.1
         },
         {
           "tool": "Anthropic Computer Use",
-          "whats_new": "Autonomous computer actions (2025-10-17)",
+          "whats_new": "Codex for (almost) everything (2026-04-16)",
           "best_used_for": "Task execution & RPA-like flows",
           "pro": "Safety-first design",
           "con": "Preview/limited availability",
@@ -243,7 +243,10 @@
             "privacy": 86,
             "innovation": 86
           },
-          "total": 77.7
+          "total": 77.7,
+          "links": {
+            "news": "https://openai.com/index/codex-for-almost-everything"
+          }
         },
         {
           "tool": "CrewAI / AutoGen",
