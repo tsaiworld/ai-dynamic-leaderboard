@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "SynMax: almost 40% of US data centers due in 2026 are facing delays; major projects for Microsoft, OpenAI, and others are likely to end over three months late (Financial Times) (2026-04-17)",
+          "whats_new": "OpenAI\u2019s former Sora boss is leaving (2026-04-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260417/p8#a260417p8"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn't yet fully delivered the benefits it promises (John Thornhill/Financial Times) (2026-04-17)",
+          "whats_new": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces (2026-04-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260417/p15#a260417p15"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "India drops a proposal to require Apple, Google, Samsung, and others to pre-install the country's biometric identification app Aadhaar on phones (Reuters) (2026-04-17)",
+          "whats_new": "Google\u2019s AI Mode update lets you open links without leaving the page (2026-04-16)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260417/p18#a260417p18"
+            "news": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "AI fundamentals (2026-04-10)",
+          "whats_new": "Creating images with ChatGPT (2026-04-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/what-is-ai"
+            "news": "https://openai.com/academy/image-generation"
           },
           "total": 84.1
         },
