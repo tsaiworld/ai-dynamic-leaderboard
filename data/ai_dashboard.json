@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-19",
+    "last_updated": "2026-04-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Mistral, which once aimed for top open models, now leans on being an alternative to Chinese and US labs, says it's on track for $80M in monthly revenue by Dec. (Iain Martin/Forbes) (2026-04-18)",
+          "whats_new": "OpenAI helps Hyatt advance AI among colleagues (2026-04-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260418/p12#a260418p12"
+            "news": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic's Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a \"crazy\" number of bug reports (Chris Stokel-Walker/Bloomberg) (2026-04-18)",
+          "whats_new": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces (2026-04-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260418/p9#a260418p9"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google is in talks with Marvell Technology to develop a memory processing unit that works alongside TPUs, and a new TPU for running AI models (Qianer Liu/The Information) (2026-04-19)",
+          "whats_new": "Sources: Google has created strike team to improve its coding models; Sergey Brin told DeepMind staffers that they must aggressively pivot to catch up on agents (Erin Woo/The Information) (2026-04-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260419/p9#a260419p9"
+            "news": "http://www.techmeme.com/260420/p9#a260420p9"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Creating images with ChatGPT (2026-04-10)",
+          "whats_new": "Brainstorming with ChatGPT (2026-04-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/image-generation"
+            "news": "https://openai.com/academy/brainstorming"
           },
           "total": 84.1
         },
