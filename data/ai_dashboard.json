@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-04-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI helps Hyatt advance AI among colleagues (2026-04-20)",
+          "whats_new": "Scaling Codex to enterprises worldwide (2026-04-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
+            "news": "https://openai.com/index/scaling-codex-to-enterprises-worldwide"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces (2026-04-17)",
+          "whats_new": "Trump says his administration had \"some very good talks\" with Anthropic during a WH meeting last week and \"it's possible\" there will be a deal with DOD (Ashley Capoot/CNBC) (2026-04-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
+            "news": "http://www.techmeme.com/260421/p11#a260421p11"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google has created strike team to improve its coding models; Sergey Brin told DeepMind staffers that they must aggressively pivot to catch up on agents (Erin Woo/The Information) (2026-04-20)",
+          "whats_new": "A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend (Politico) (2026-04-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260420/p9#a260420p9"
+            "news": "http://www.techmeme.com/260421/p3#a260421p3"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Brainstorming with ChatGPT (2026-04-10)",
+          "whats_new": "Financial services (2026-04-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/brainstorming"
+            "news": "https://openai.com/academy/financial-services"
           },
           "total": 84.1
         },
