@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-21",
+    "last_updated": "2026-04-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Scaling Codex to enterprises worldwide (2026-04-21)",
+          "whats_new": "Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries (Molly Taft/Wired) (2026-04-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/scaling-codex-to-enterprises-worldwide"
+            "news": "http://www.techmeme.com/260422/p25#a260422p25"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Trump says his administration had \"some very good talks\" with Anthropic during a WH meeting last week and \"it's possible\" there will be a deal with DOD (Ashley Capoot/CNBC) (2026-04-21)",
+          "whats_new": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands (2026-04-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260421/p11#a260421p11"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend (Politico) (2026-04-21)",
+          "whats_new": "Google Cloud and Wiz debut new AI security agents at Next '26, including Threat Hunting and Detection Engineering agents, to combat automated zero-day exploits (Frederic Lardinois/The New Stack) (2026-04-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260421/p3#a260421p3"
+            "news": "http://www.techmeme.com/260422/p26#a260422p26"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Financial services (2026-04-10)",
+          "whats_new": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare (2026-04-21)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/financial-services"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing"
           },
           "total": 84.1
         },
@@ -292,7 +292,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Stockholm-based AI coding startup Lovable reaches $400M in ARR, up from $300M in January; rival Cursor hit $2B in annualized revenue in February, per a source (Bloomberg) (2026-03-12)",
+          "whats_new": "SpaceX Strikes Deal With Cursor for $60 Billion (2026-04-22)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "http://www.techmeme.com/260312/p26#a260312p26"
+            "news": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
           }
         },
         {
