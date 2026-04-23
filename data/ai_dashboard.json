@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-22",
+    "last_updated": "2026-04-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries (Molly Taft/Wired) (2026-04-22)",
+          "whats_new": "Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B (Ben Bergman/Business Insider) (2026-04-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260422/p25#a260422p25"
+            "news": "http://www.techmeme.com/260423/p35#a260423p35"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands (2026-04-22)",
+          "whats_new": "You\u2019re about to feel the AI money squeeze (2026-04-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Cloud and Wiz debut new AI security agents at Next '26, including Threat Hunting and Detection Engineering agents, to combat automated zero-day exploits (Frederic Lardinois/The New Stack) (2026-04-22)",
+          "whats_new": "Google Meet will take AI notes for in-person meetings too (2026-04-22)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260422/p26#a260422p26"
+            "news": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare (2026-04-21)",
+          "whats_new": "Workspace agents (2026-04-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing"
+            "news": "https://openai.com/academy/workspace-agents"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft is testing OpenClaw-like AI bots for Copilot (2026-04-13)",
+          "whats_new": "Microsoft launches \u2018vibe working\u2019 in Word, Excel, and PowerPoint (2026-04-23)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses"
+            "news": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
           }
         },
         {
