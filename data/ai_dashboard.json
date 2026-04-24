@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-23",
+    "last_updated": "2026-04-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B (Ben Bergman/Business Insider) (2026-04-23)",
+          "whats_new": "Musk vs. Altman is here, and it&#8217;s going to get messy (2026-04-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260423/p35#a260423p35"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "You\u2019re about to feel the AI money squeeze (2026-04-23)",
+          "whats_new": "Sources: Cursor hit $2.7B in annualized sales in March, up ~14x from a year ago, and reported a ~$900M loss in its last fiscal year on $770M in total revenue (The Information) (2026-04-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue"
+            "news": "http://www.techmeme.com/260424/p8#a260424p8"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Workspace agents (2026-04-22)",
+          "whats_new": "Tim Cook\u2019s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT (2026-04-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/workspace-agents"
+            "news": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html"
           },
           "total": 84.1
         },
