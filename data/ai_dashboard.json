@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-24",
+    "last_updated": "2026-04-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Musk vs. Altman is here, and it&#8217;s going to get messy (2026-04-24)",
+          "whats_new": "An overview of Elon Musk's $134B lawsuit against Sam Altman, scheduled to begin on Monday, accusing Altman of reneging on a vow to keep OpenAI nonprofit (Ashley Capoot/CNBC) (2026-04-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
+            "news": "http://www.techmeme.com/260425/p7#a260425p7"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Cursor hit $2.7B in annualized sales in March, up ~14x from a year ago, and reported a ~$900M loss in its last fiscal year on $770M in total revenue (The Information) (2026-04-24)",
+          "whats_new": "Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees (Anthropic) (2026-04-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260424/p8#a260424p8"
+            "news": "http://www.techmeme.com/260424/p48#a260424p48"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Meet will take AI notes for in-person meetings too (2026-04-22)",
+          "whats_new": "Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages (Ben Schoon/9to5Google) (2026-04-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
+            "news": "http://www.techmeme.com/260425/p5#a260425p5"
           },
           "total": 83.25
         },
