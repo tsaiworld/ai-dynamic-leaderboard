@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-25",
+    "last_updated": "2026-04-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees (Anthropic) (2026-04-24)",
+          "whats_new": "Inside Andon Market, billed as the first retail boutique run by an AI agent; the Andon Labs experiment uses a Claude Sonnet 4.6-based agent to run the boutique (Heather Knight/New York Times) (2026-04-26)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260424/p48#a260424p48"
+            "news": "http://www.techmeme.com/260426/p3#a260426p3"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages (Ben Schoon/9to5Google) (2026-04-25)",
+          "whats_new": "Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend (Stephen Morris/Financial Times) (2026-04-26)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260425/p5#a260425p5"
+            "news": "http://www.techmeme.com/260426/p1#a260426p1"
           },
           "total": 83.25
         },
