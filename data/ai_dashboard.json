@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "An overview of Elon Musk's $134B lawsuit against Sam Altman, scheduled to begin on Monday, accusing Altman of reneging on a vow to keep OpenAI nonprofit (Ashley Capoot/CNBC) (2026-04-25)",
+          "whats_new": "The next phase of the Microsoft OpenAI partnership (2026-04-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "http://www.techmeme.com/260425/p7#a260425p7"
+            "news": "https://openai.com/index/next-phase-of-microsoft-partnership"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Inside Andon Market, billed as the first retail boutique run by an AI agent; the Andon Labs experiment uses a Claude Sonnet 4.6-based agent to run the boutique (Heather Knight/New York Times) (2026-04-26)",
+          "whats_new": "Google Commits to Invest Up to $40 Billion in Anthropic (2026-04-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "http://www.techmeme.com/260426/p3#a260426p3"
+            "news": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend (Stephen Morris/Financial Times) (2026-04-26)",
+          "whats_new": "Ineffable Intelligence, founded by ex-Google DeepMind Principal Scientist David Silver, raised a $1.1B seed at a $5.1B valuation to build AI \"superlearners\" (Will Knight/Wired) (2026-04-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260426/p1#a260426p1"
+            "news": "http://www.techmeme.com/260427/p27#a260427p27"
           },
           "total": 83.25
         },
