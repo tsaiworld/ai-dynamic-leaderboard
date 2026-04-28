@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-04-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The next phase of the Microsoft OpenAI partnership (2026-04-27)",
+          "whats_new": "Musk and Altman go to court (2026-04-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/next-phase-of-microsoft-partnership"
+            "news": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Google Commits to Invest Up to $40 Billion in Anthropic (2026-04-24)",
+          "whats_new": "Sources and memos: Tencent employees used Claude Code to assist them with evaluating and fine-tuning the company's new Hy3 model to improve its performance (Juro Osawa/The Information) (2026-04-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html"
+            "news": "http://www.techmeme.com/260428/p19#a260428p19"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Ineffable Intelligence, founded by ex-Google DeepMind Principal Scientist David Silver, raised a $1.1B seed at a $5.1B valuation to build AI \"superlearners\" (Will Knight/Wired) (2026-04-27)",
+          "whats_new": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI (2026-04-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "http://www.techmeme.com/260427/p27#a260427p27"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
           },
           "total": 83.25
         },
