@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-04-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Cybersecurity in the Intelligence Age (2026-04-29)",
+          "whats_new": "OpenAI talks about not talking about goblins (2026-04-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Google Commits to Invest Up to $40 Billion in Anthropic (2026-04-24)",
+          "whats_new": "Sources: the NSA has been testing Anthropic's Mythos model to find vulnerabilities in Microsoft products and widely used software from other companies (Jake Bleiberg/Bloomberg) (2026-04-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html"
+            "news": "https://www.techmeme.com/260430/p29#a260430p29"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "General Motors is adding Gemini to four million cars (2026-04-29)",
+          "whats_new": "How Good Is Google\u2019s Gemini AI at Making Travel Plans? (2026-04-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update"
+            "news": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The Structured Output Benchmark (SOB) - validates both JSON parse and value accuracy [R] (2026-04-28)",
+          "whats_new": "The more young people use AI, the more they hate it (2026-04-30)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1syepnz/the_structured_output_benchmark_sob_validates/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
           },
           "total": 84.1
         },
