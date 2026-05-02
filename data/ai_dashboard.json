@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-02",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic (2026-05-01)",
+          "whats_new": "A profile of OpenAI CFO Sarah Friar, who sources say helped keep OpenAI's Microsoft deal on track and has privately suggested waiting until 2027 for an IPO (Wall Street Journal) (2026-05-02)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"
+            "news": "https://www.techmeme.com/260502/p4#a260502p4"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "How do you use AI Agents for EDA/Data Analysis and getting it ready for ML model training? [D] (2026-05-01)",
+          "whats_new": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work (2026-05-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t0tegw/how_do_you_use_ai_agents_for_edadata_analysis_and/"
+            "news": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini is rolling out to cars with Google built-in (2026-04-30)",
+          "whats_new": "A look at casino-style games, considered gambling in some US states, where player \"whales\" spend tens of thousands via IAP on Apple, Google, and Meta platforms (Bloomberg) (2026-05-02)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
+            "news": "https://www.techmeme.com/260502/p5#a260502p5"
           },
           "total": 83.25
         },
