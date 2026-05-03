@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-02",
+    "last_updated": "2026-05-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A profile of OpenAI CFO Sarah Friar, who sources say helped keep OpenAI's Microsoft deal on track and has privately suggested waiting until 2027 for an IPO (Wall Street Journal) (2026-05-02)",
+          "whats_new": "Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT (Georgia Wells/Wall Street Journal) (2026-05-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260502/p4#a260502p4"
+            "news": "https://www.techmeme.com/260503/p3#a260503p3"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look at casino-style games, considered gambling in some US states, where player \"whales\" spend tens of thousands via IAP on Apple, Google, and Meta platforms (Bloomberg) (2026-05-02)",
+          "whats_new": "Ask.com shutters, as its owner IAC \"continues to sharpen its focus\"; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google (Chase DiBenedetto/Mashable) (2026-05-02)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260502/p5#a260502p5"
+            "news": "https://www.techmeme.com/260502/p13#a260502p13"
           },
           "total": 83.25
         },
