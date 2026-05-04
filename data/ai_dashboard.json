@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-03",
+    "last_updated": "2026-05-04",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT (Georgia Wells/Wall Street Journal) (2026-05-03)",
+          "whats_new": "Filing: Elon Musk texted Greg Brockman about settling days before trial; after being denied, he said Brockman and Altman \"will be the most hated men in America\" (Ashley Capoot/CNBC) (2026-05-04)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260503/p3#a260503p3"
+            "news": "https://www.techmeme.com/260504/p14#a260504p14"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Ask.com shutters, as its owner IAC \"continues to sharpen its focus\"; a dot-com era icon, Ask Jeeves launched in 1997, a year before Google (Chase DiBenedetto/Mashable) (2026-05-02)",
+          "whats_new": "I implemented meta paper [P] (2026-05-02)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260502/p13#a260502p13"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/"
           },
           "total": 83.25
         },
