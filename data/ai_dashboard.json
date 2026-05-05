@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Filing: Elon Musk texted Greg Brockman about settling days before trial; after being denied, he said Brockman and Altman \"will be the most hated men in America\" (Ashley Capoot/CNBC) (2026-05-04)",
+          "whats_new": "OpenAI is reportedly launching a phone for ChatGPT (2026-05-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260504/p14#a260504p14"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work (2026-05-01)",
+          "whats_new": "Researchers gaslit Claude into giving instructions to build explosives (2026-05-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "I implemented meta paper [P] (2026-05-02)",
+          "whats_new": "Google, Microsoft, and xAI will allow the US government to review their new AI models (2026-05-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "A Hackable ML Compiler Stack in 5,000 Lines of Python [P] (2026-04-30)",
+          "whats_new": "[P] QLoRA Fine-Tuning of Qwen2.5-1.5B for CEFR English Proficiency Classification (A1\u2013C2) [P] (2026-05-04)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t07zff/a_hackable_ml_compiler_stack_in_5000_lines_of/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t3ogbw/p_qlora_finetuning_of_qwen2515b_for_cefr_english/"
           }
         }
       ]
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "ElevenLabs made an AI album to plug its music generator (2026-01-21)",
+          "whats_new": "ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1 (John Reynolds/Tech.eu) (2026-05-05)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release"
+            "news": "https://www.techmeme.com/260505/p26#a260505p26"
           }
         },
         {
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft launches \u2018vibe working\u2019 in Word, Excel, and PowerPoint (2026-04-23)",
+          "whats_new": "Seattle-based CopilotKit, whose popular AG-UI protocol lets developers deploy app-native AI agents, raised a $27M Series A led by Glilot, NFX, and SignalFire (Ram Iyer/TechCrunch) (2026-05-05)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,12 +287,12 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
+            "news": "https://www.techmeme.com/260505/p25#a260505p25"
           }
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "SpaceX Strikes Deal With Cursor for $60 Billion (2026-04-22)",
+          "whats_new": "How do you experiment with a (very) large model architecture? [D] (2026-05-04)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/"
           }
         },
         {
