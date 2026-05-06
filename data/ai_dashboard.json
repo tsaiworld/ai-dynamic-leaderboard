@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-05",
+    "last_updated": "2026-05-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI is reportedly launching a phone for ChatGPT (2026-05-05)",
+          "whats_new": "How frontier enterprises are building an AI advantage (2026-05-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo"
+            "news": "https://openai.com/index/introducing-b2b-signals"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Researchers gaslit Claude into giving instructions to build explosives (2026-05-05)",
+          "whats_new": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm (2026-05-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information"
+            "news": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google, Microsoft, and xAI will allow the US government to review their new AI models (2026-05-05)",
+          "whats_new": "Google&#8217;s AI search summaries will now quote Reddit (2026-05-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review"
+            "news": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "[P] QLoRA Fine-Tuning of Qwen2.5-1.5B for CEFR English Proficiency Classification (A1\u2013C2) [P] (2026-05-04)",
+          "whats_new": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying (2026-05-05)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t3ogbw/p_qlora_finetuning_of_qwen2515b_for_cefr_english/"
+            "news": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Where the goblins came from (2026-04-29)",
+          "whats_new": "GPT-5.5 Instant System Card (2026-05-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/where-the-goblins-came-from"
+            "news": "https://openai.com/index/gpt-5-5-instant-system-card"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Seattle-based CopilotKit, whose popular AG-UI protocol lets developers deploy app-native AI agents, raised a $27M Series A led by Glilot, NFX, and SignalFire (Ram Iyer/TechCrunch) (2026-05-05)",
+          "whats_new": "Sources: in a reshuffle, LinkedIn CEO Ryan Roslansky will lead Microsoft's new Work Experiences Group, including Teams, after 35-year veteran Rajesh Jha retired (Tom Warren/The Verge) (2026-05-06)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260505/p25#a260505p25"
+            "news": "https://www.techmeme.com/260506/p21#a260506p21"
           }
         },
         {
