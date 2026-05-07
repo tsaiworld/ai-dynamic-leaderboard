@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-06",
+    "last_updated": "2026-05-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How frontier enterprises are building an AI advantage (2026-05-06)",
+          "whats_new": "Parloa builds service agents customers want to talk to (2026-05-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/introducing-b2b-signals"
+            "news": "https://openai.com/index/parloa"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm (2026-05-05)",
+          "whats_new": "At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate \"crazy\" and \"too hard to handle\" (Natallie Rocha/New York Times) (2026-05-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html"
+            "news": "https://www.techmeme.com/260507/p11#a260507p11"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google&#8217;s AI search summaries will now quote Reddit (2026-05-06)",
+          "whats_new": "Google\u2019s taking a big swing at AI health with the Fitbit Air (2026-05-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
+            "news": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GPT-5.5 Instant System Card (2026-05-05)",
+          "whats_new": "Transformer Math Explorer [P] (2026-05-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-5-instant-system-card"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6a2ri/transformer_math_explorer_p/"
           },
           "total": 84.1
         },
@@ -310,7 +310,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser (The Information) (2026-03-18)",
+          "whats_new": "Researchers: 5,000+ web apps built using AI coding tools like Lovable, Base44, and Replit have little to no authentication, and ~40% exposed sensitive data (Andy Greenberg/Wired) (2026-05-07)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -323,7 +323,7 @@
           },
           "total": 74.7,
           "links": {
-            "news": "http://www.techmeme.com/260318/p23#a260318p23"
+            "news": "https://www.techmeme.com/260507/p17#a260507p17"
           }
         }
       ]
