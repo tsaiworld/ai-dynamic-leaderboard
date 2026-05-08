@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-07",
+    "last_updated": "2026-05-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Parloa builds service agents customers want to talk to (2026-05-07)",
+          "whats_new": "Musk v. Altman docs: Microsoft executives had reservations about funding OpenAI in 2018 but worried that not giving support could push OpenAI into Amazon's arms (Wired) (2026-05-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/parloa"
+            "news": "https://www.techmeme.com/260508/p11#a260508p11"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate \"crazy\" and \"too hard to handle\" (Natallie Rocha/New York Times) (2026-05-07)",
+          "whats_new": "Disillusionment with mechanistic interpretability research [D] (2026-05-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260507/p11#a260507p11"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6zdj6/disillusionment_with_mechanistic_interpretability/"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Transformer Math Explorer [P] (2026-05-07)",
+          "whats_new": "Steam Similarity Recommender [P] (2026-05-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6a2ri/transformer_math_explorer_p/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6x2zw/steam_similarity_recommender_p/"
           },
           "total": 84.1
         },
