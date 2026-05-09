@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-08",
+    "last_updated": "2026-05-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Musk v. Altman docs: Microsoft executives had reservations about funding OpenAI in 2018 but worried that not giving support could push OpenAI into Amazon's arms (Wired) (2026-05-08)",
+          "whats_new": "OpenAI, Anthropic, and Google's enterprise push with PE firms poses a new competitive threat to India's IT industry, as services become increasingly automatable (Moneycontrol) (2026-05-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260508/p11#a260508p11"
+            "news": "https://www.techmeme.com/260509/p8#a260509p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Disillusionment with mechanistic interpretability research [D] (2026-05-08)",
+          "whats_new": "Anthropic details how it improved Claude's safety training after finding agentic misalignment in older models, such as Opus 4 blackmailing engineers (Anthropic) (2026-05-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6zdj6/disillusionment_with_mechanistic_interpretability/"
+            "news": "https://www.techmeme.com/260509/p4#a260509p4"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s taking a big swing at AI health with the Fitbit Air (2026-05-07)",
+          "whats_new": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D] (2026-05-09)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Steam Similarity Recommender [P] (2026-05-08)",
+          "whats_new": "Formalizing statistical learning theory in Lean 4 [R] (2026-05-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t6x2zw/steam_similarity_recommender_p/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1t7bgve/formalizing_statistical_learning_theory_in_lean_4/"
           },
           "total": 84.1
         },
@@ -292,7 +292,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "How do you experiment with a (very) large model architecture? [D] (2026-05-04)",
+          "whats_new": "Source: Mistral AI and TML's founding member Devendra Chaplot, who was considered a marquee hire when he joined xAI in March, exited xAI after roughly a month (The Information) (2026-05-09)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/"
+            "news": "https://www.techmeme.com/260509/p2#a260509p2"
           }
         },
         {
