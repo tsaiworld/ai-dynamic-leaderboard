@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-10",
+    "last_updated": "2026-05-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality (Krysta Fauria/Associated Press) (2026-05-09)",
+          "whats_new": "OpenAI Campus Network: Student club interest form (2026-05-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260509/p11#a260509p11"
+            "news": "https://openai.com/index/openai-campus-network-student-club-interest-form"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues (Rick Findlay/Reclaim The Net) (2026-05-09)",
+          "whats_new": "Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says \"this is the tip of the iceberg\" (Dustin Volz/New York Times) (2026-05-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260509/p16#a260509p16"
+            "news": "https://www.techmeme.com/260511/p21#a260511p21"
           },
           "total": 83.25
         },
