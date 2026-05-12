@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-11",
+    "last_updated": "2026-05-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Campus Network: Student club interest form (2026-05-11)",
+          "whats_new": "OpenAI stands to hold ~$2.6B in combined CoreWeave and Cerebras stock that it acquired by committing to buy cloud services and chips, and to lend Cerebras money (Cory Weinberg/The Information) (2026-05-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+            "news": "https://www.techmeme.com/260512/p22#a260512p22"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "LLM rankings are not a ladder: experimental results from a transitive benchmark graph [D] (2026-05-09)",
+          "whats_new": "The US DOD says it is deploying Mythos to find and patch vulnerabilities across the US government even as it plans a transition away from Anthropic (Reuters) (2026-05-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/"
+            "news": "https://www.techmeme.com/260512/p28#a260512p28"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says \"this is the tip of the iceberg\" (Dustin Volz/New York Times) (2026-05-11)",
+          "whats_new": "Google stopped a zero-day hack that it says was developed with AI (2026-05-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260511/p21#a260511p21"
+            "news": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying (2026-05-05)",
+          "whats_new": "A hackable compiler to generate efficient fused GPU kernels for AI models [P] (2026-05-11)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tag07l/a_hackable_compiler_to_generate_efficient_fused/"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Formalizing statistical learning theory in Lean 4 [R] (2026-05-08)",
+          "whats_new": "How ChatGPT adoption broadened in early 2026 (2026-05-11)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1t7bgve/formalizing_statistical_learning_theory_in_lean_4/"
+            "news": "https://openai.com/signals/research/2026q1-update"
           },
           "total": 84.1
         },
