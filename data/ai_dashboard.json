@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-12",
+    "last_updated": "2026-05-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI stands to hold ~$2.6B in combined CoreWeave and Cerebras stock that it acquired by committing to buy cloud services and chips, and to lend Cerebras money (Cory Weinberg/The Information) (2026-05-12)",
+          "whats_new": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI (2026-05-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260512/p22#a260512p22"
+            "news": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The US DOD says it is deploying Mythos to find and patch vulnerabilities across the US government even as it plans a transition away from Anthropic (Reuters) (2026-05-12)",
+          "whats_new": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation (2026-05-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260512/p28#a260512p28"
+            "news": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google stopped a zero-day hack that it says was developed with AI (2026-05-11)",
+          "whats_new": "Apple files an EU submission criticizing draft DMA measures that would require Google to give competing AI services access to Android apps, citing privacy risks (Foo Yun Chee/Reuters) (2026-05-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
+            "news": "https://www.techmeme.com/260513/p26#a260513p26"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How ChatGPT adoption broadened in early 2026 (2026-05-11)",
+          "whats_new": "How NVIDIA engineers and researchers build with Codex (2026-05-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/signals/research/2026q1-update"
+            "news": "https://openai.com/index/nvidia"
           },
           "total": 84.1
         },
