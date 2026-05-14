@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI (2026-05-13)",
+          "whats_new": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy (2026-05-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+            "news": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation (2026-05-12)",
+          "whats_new": "Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI tools; Clio had a $5B valuation after a $500M Series G in November 2025 (Marina Temkin/TechCrunch) (2026-05-14)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html"
+            "news": "https://www.techmeme.com/260514/p6#a260514p6"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Apple files an EU submission criticizing draft DMA measures that would require Google to give competing AI services access to Android apps, citing privacy risks (Foo Yun Chee/Reuters) (2026-05-13)",
+          "whats_new": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R] (2026-05-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260513/p26#a260513p26"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tcmj6v/continual_harness_online_adaptation_for/"
           },
           "total": 83.25
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Sources: in a reshuffle, LinkedIn CEO Ryan Roslansky will lead Microsoft's new Work Experiences Group, including Teams, after 35-year veteran Rajesh Jha retired (Tom Warren/The Verge) (2026-05-06)",
+          "whats_new": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs (2026-05-13)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260506/p21#a260506p21"
+            "news": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
           }
         },
         {
