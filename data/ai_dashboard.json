@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case (2026-05-15)",
+          "whats_new": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens (2026-05-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html"
+            "news": "https://openai.com/index/malta-chatgpt-plus-partnership"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "xAI launches Grok Build, an agent and CLI for coding, building apps, and automating workflows, in early beta, available first for SuperGrok Heavy subscribers (Carmen Arroyo/Bloomberg) (2026-05-15)",
+          "whats_new": "[R] Which LLMs are actually best for bleeding-edge Linux/ML debugging workflows in 2026? [R] (2026-05-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260515/p8#a260515p8"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tejwbl/r_which_llms_are_actually_best_for_bleedingedge/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google confirms a new storage policy test, after some users reported that new Gmail accounts get 5GB, not 15GB, of free storage if they don't add a phone number (Akshay Gangwar/Android Authority) (2026-05-15)",
+          "whats_new": "Google updates its spam rules to include attempts to \u2018manipulate\u2019 AI (2026-05-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260515/p11#a260515p11"
+            "news": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Work with Codex from anywhere (2026-05-14)",
+          "whats_new": "ROCm with PyTorch and PyTorch Lightning seems to still suck for research [D] (2026-05-16)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/work-with-codex-from-anywhere"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tedjwo/rocm_with_pytorch_and_pytorch_lightning_seems_to/"
           },
           "total": 84.1
         },
