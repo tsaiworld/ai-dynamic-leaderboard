@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-16",
+    "last_updated": "2026-05-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens (2026-05-16)",
+          "whats_new": "King's Cross, where Google's new UK HQ is due to open later this year, has become London's new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others (John Gapper/Financial Times) (2026-05-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/malta-chatgpt-plus-partnership"
+            "news": "https://www.techmeme.com/260517/p3#a260517p3"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "[R] Which LLMs are actually best for bleeding-edge Linux/ML debugging workflows in 2026? [R] (2026-05-16)",
+          "whats_new": "In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events (Terrence O'Brien/The Verge) (2026-05-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1tejwbl/r_which_llms_are_actually_best_for_bleedingedge/"
+            "news": "https://www.techmeme.com/260516/p6#a260516p6"
           },
           "total": 85.15
         },
@@ -292,7 +292,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Source: Mistral AI and TML's founding member Devendra Chaplot, who was considered a marquee hire when he joined xAI in March, exited xAI after roughly a month (The Information) (2026-05-09)",
+          "whats_new": "DeepSeek Exposed: Users Can Access Each Other's Conversations with a Special Input[D] (2026-05-17)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.techmeme.com/260509/p2#a260509p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tfmuov/deepseek_exposed_users_can_access_each_others/"
           }
         },
         {
