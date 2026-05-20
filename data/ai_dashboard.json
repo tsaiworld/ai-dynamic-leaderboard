@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-19",
+    "last_updated": "2026-05-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla (Madison Mills/Axios) (2026-05-19)",
+          "whats_new": "The next phase of OpenAI\u2019s Education for Countries (2026-05-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260519/p29#a260519p29"
+            "news": "https://openai.com/index/the-next-phase-of-education-for-countries"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Andrej Karpathy says he has joined Anthropic as the \"next few years at the frontier of LLMs will be especially formative\" (Andrej Karpathy/@karpathy) (2026-05-19)",
+          "whats_new": "Google wants to compete with Anthropic\u2019s Mythos (2026-05-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260519/p23#a260519p23"
+            "news": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini is in danger of going full Copilot (2026-05-19)",
+          "whats_new": "Google Search\u2019s AI evolution includes more ads (2026-05-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace"
+            "news": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "AI/ML Ethicists [D] (2026-05-18)",
+          "whats_new": "under 2% quality gap but 10x cost difference: tested 5 models on identical tool calling tasks[D] (2026-05-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1tgqybv/aiml_ethicists_d/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tiqsao/under_2_quality_gap_but_10x_cost_difference/"
           },
           "total": 84.1
         },
