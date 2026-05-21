@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-20",
+    "last_updated": "2026-05-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The next phase of OpenAI\u2019s Education for Countries (2026-05-20)",
+          "whats_new": "Anthropic, Blackstone, and Hellman & Friedman's unnamed enterprise services JV buys Fractional AI, its first deal; sources say Fractional ends its OpenAI deal (Preeti Singh/Bloomberg) (2026-05-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/the-next-phase-of-education-for-countries"
+            "news": "https://www.techmeme.com/260521/p19#a260521p19"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Google wants to compete with Anthropic\u2019s Mythos (2026-05-19)",
+          "whats_new": "Anthropic is paying $15 billion a year for access to Elon Musk\u2019s data centers (2026-05-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos"
+            "news": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Search\u2019s AI evolution includes more ads (2026-05-20)",
+          "whats_new": "I can\u2019t believe how fast Google vibe coded my first Android app (2026-05-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1 (John Reynolds/Tech.eu) (2026-05-05)",
+          "whats_new": "Spotify says it has 1M+ subscriptions to Audiobook+, which is on track for $100M in ARR, and unveils an ElevenLabs-powered audiobook self-publishing tool (Ivan Mehta/TechCrunch) (2026-05-21)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.techmeme.com/260505/p26#a260505p26"
+            "news": "https://www.techmeme.com/260521/p27#a260521p27"
           }
         },
         {
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "under 2% quality gap but 10x cost difference: tested 5 models on identical tool calling tasks[D] (2026-05-20)",
+          "whats_new": "How Ramp engineers accelerate code review with Codex (2026-05-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1tiqsao/under_2_quality_gap_but_10x_cost_difference/"
+            "news": "https://openai.com/index/ramp"
           },
           "total": 84.1
         },
