@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-24",
+    "last_updated": "2026-05-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "UK Institute Is Hunting for Dangers Lurking in AI (2026-05-24)",
+          "whats_new": "SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company's stakes in OpenAI and SB Energy Corp if they go public (Bloomberg) (2026-05-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html"
+            "news": "https://www.techmeme.com/260525/p14#a260525p14"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts. (2026-05-24)",
+          "whats_new": "A section of the Pope's encyclical describing AI's unpredictability suggests influence from Anthropic, whose co-founder Christopher Olah attended the unveiling (Washington Post) (2026-05-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
+            "news": "https://www.techmeme.com/260525/p10#a260525p10"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers (Nicole Nguyen/Wall Street Journal) (2026-05-24)",
+          "whats_new": "Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV's first AI encyclical (Oc\u00e9ane Herrero/Politico) (2026-05-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260524/p3#a260524p3"
+            "news": "https://www.techmeme.com/260525/p6#a260525p6"
           },
           "total": 83.25
         },
