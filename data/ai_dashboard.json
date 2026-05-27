@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-26",
+    "last_updated": "2026-05-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership (2026-05-25)",
+          "whats_new": "Building self-improving tax agents with Codex (2026-05-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+            "news": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Uber president says AI spending is getting \u2018harder to justify\u2019 (2026-05-26)",
+          "whats_new": "The Pope isn\u2019t AGI-pilled (2026-05-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web (2026-05-26)",
+          "whats_new": "YouTube is putting AI labels where you\u2019ll actually see them (2026-05-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web"
+            "news": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "Spotify says it has 1M+ subscriptions to Audiobook+, which is on track for $100M in ARR, and unveils an ElevenLabs-powered audiobook self-publishing tool (Ivan Mehta/TechCrunch) (2026-05-21)",
+          "whats_new": "ElevenLabs launches Music v2, which can switch genres mid-track and handle complex vocal compositions, built on licensed data and cleared for commercial use (Ivan Mehta/TechCrunch) (2026-05-27)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.techmeme.com/260521/p27#a260521p27"
+            "news": "https://www.techmeme.com/260527/p31#a260527p31"
           }
         },
         {
