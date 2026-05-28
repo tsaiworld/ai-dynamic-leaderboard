@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-27",
+    "last_updated": "2026-05-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Building self-improving tax agents with Codex (2026-05-27)",
+          "whats_new": "OpenAI\u2019s Frontier Governance Framework (2026-05-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+            "news": "https://openai.com/index/openai-frontier-governance-framework"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The Pope isn\u2019t AGI-pilled (2026-05-27)",
+          "whats_new": "Elon Musk says Anthropic's Colossus deal is \"a 180 day lease with 90 day notice\"; SpaceX's S-1 said Anthropic \"agreed to pay a monthly fee through May 2029\" (Russell Brandom/TechCrunch) (2026-05-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions"
+            "news": "https://www.techmeme.com/260528/p47#a260528p47"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "YouTube is putting AI labels where you\u2019ll actually see them (2026-05-27)",
+          "whats_new": "Sources: at WWDC, Apple is likely to showcase how 15 years of designing chips gives it an advantage in running AI locally, and will use a distilled Gemini model (Aaron Tilley/The Information) (2026-05-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
+            "news": "https://www.techmeme.com/260528/p35#a260528p35"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Ramp engineers accelerate code review with Codex (2026-05-20)",
+          "whats_new": "These new iOS 27 renders hint at Siri\u2019s big redesign (2026-05-28)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/ramp"
+            "news": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg"
           },
           "total": 84.1
         },
@@ -310,7 +310,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "Researchers: 5,000+ web apps built using AI coding tools like Lovable, Base44, and Replit have little to no authentication, and ~40% exposed sensitive data (Andy Greenberg/Wired) (2026-05-07)",
+          "whats_new": "Visa makes an undisclosed investment in Replit; the two will explore how developers on Replit can use Visa Intelligent Commerce and the Trusted Agent Protocol (Ivan Mehta/TechCrunch) (2026-05-28)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -323,7 +323,7 @@
           },
           "total": 74.7,
           "links": {
-            "news": "https://www.techmeme.com/260507/p17#a260507p17"
+            "news": "https://www.techmeme.com/260528/p40#a260528p40"
           }
         }
       ]
