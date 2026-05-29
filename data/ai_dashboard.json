@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-28",
+    "last_updated": "2026-05-29",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s Frontier Governance Framework (2026-05-28)",
+          "whats_new": "Boston Children\u2019s uses AI to unlock new diagnoses (2026-05-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-frontier-governance-framework"
+            "news": "https://openai.com/index/boston-childrens-hospital"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Elon Musk says Anthropic's Colossus deal is \"a 180 day lease with 90 day notice\"; SpaceX's S-1 said Anthropic \"agreed to pay a monthly fee through May 2029\" (Russell Brandom/TechCrunch) (2026-05-28)",
+          "whats_new": "A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense (Jo Constantz/Bloomberg) (2026-05-29)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260528/p47#a260528p47"
+            "news": "https://www.techmeme.com/260529/p8#a260529p8"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: at WWDC, Apple is likely to showcase how 15 years of designing chips gives it an advantage in running AI locally, and will use a distilled Gemini model (Aaron Tilley/The Information) (2026-05-28)",
+          "whats_new": "noisekit - CLI for generating realistic degraded speech datasets for ASR benchmarking [P] (2026-05-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260528/p35#a260528p35"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "These new iOS 27 renders hint at Siri\u2019s big redesign (2026-05-28)",
+          "whats_new": "Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation (Kate Park/TechCrunch) (2026-05-29)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg"
+            "news": "https://www.techmeme.com/260529/p17#a260529p17"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year (Todd Bishop/GeekWire) (2026-05-22)",
+          "whats_new": "Microsoft 365 Copilot gets a speed boost and cleaner design (2026-05-28)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260522/p18#a260522p18"
+            "news": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
           }
         },
         {
