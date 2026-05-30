@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-29",
+    "last_updated": "2026-05-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Boston Children\u2019s uses AI to unlock new diagnoses (2026-05-29)",
+          "whats_new": "A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration (Wall Street Journal) (2026-05-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/boston-childrens-hospital"
+            "news": "https://www.techmeme.com/260530/p5#a260530p5"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense (Jo Constantz/Bloomberg) (2026-05-29)",
+          "whats_new": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up (2026-05-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260529/p8#a260529p8"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "noisekit - CLI for generating realistic degraded speech datasets for ASR benchmarking [P] (2026-05-27)",
+          "whats_new": "Google's keyword ad practices face renewed criticism after the Delhi High Court ruled against Google in a trademark dispute involving Indian company Hindware (Jagmeet Singh/TechCrunch) (2026-05-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/"
+            "news": "https://www.techmeme.com/260530/p2#a260530p2"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation (Kate Park/TechCrunch) (2026-05-29)",
+          "whats_new": "Why do the output layer weights become word vectors in Word2Vec? [D] (2026-05-30)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/260529/p17#a260529p17"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1trvuxb/why_do_the_output_layer_weights_become_word/"
           },
           "total": 84.1
         },
