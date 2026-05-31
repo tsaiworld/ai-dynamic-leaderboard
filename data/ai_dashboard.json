@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-05-30",
+    "last_updated": "2026-05-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration (Wall Street Journal) (2026-05-30)",
+          "whats_new": "A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries (Theodore Schleifer/New York Times) (2026-05-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260530/p5#a260530p5"
+            "news": "https://www.techmeme.com/260530/p10#a260530p10"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up (2026-05-28)",
+          "whats_new": "Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors (Yazhou Sun/Bloomberg) (2026-05-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort"
+            "news": "https://www.techmeme.com/260530/p9#a260530p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google's keyword ad practices face renewed criticism after the Delhi High Court ruled against Google in a trademark dispute involving Indian company Hindware (Jagmeet Singh/TechCrunch) (2026-05-30)",
+          "whats_new": "Event like spiking neuron lib that fits into the CPU cache [P] (2026-05-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260530/p2#a260530p2"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1trq5o3/event_like_spiking_neuron_lib_that_fits_into_the/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Why do the output layer weights become word vectors in Word2Vec? [D] (2026-05-30)",
+          "whats_new": "Built an AI Accelerator and opensourced it. [P] (2026-05-31)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1trvuxb/why_do_the_output_layer_weights_become_word/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1tsuogs/built_an_ai_accelerator_and_opensourced_it_p/"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft 365 Copilot gets a speed boost and cleaner design (2026-05-28)",
+          "whats_new": "With Microsoft's GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions (Lucas Ropek/TechCrunch) (2026-05-31)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
+            "news": "https://www.techmeme.com/260531/p1#a260531p1"
           }
         },
         {
