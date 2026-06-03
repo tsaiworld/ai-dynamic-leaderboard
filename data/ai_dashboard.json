@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-02",
+    "last_updated": "2026-06-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Travelers deploys AI-powered claims countrywide with OpenAI (2026-06-02)",
+          "whats_new": "OpenAI public policy agenda (2026-06-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/travelers"
+            "news": "https://openai.com/index/public-policy-agenda"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Uber says it has limited all employees to $1,500 in monthly token spending per AI coding tool \"to responsibly encourage agentic AI adoption\" (Natalie Lung/Bloomberg) (2026-06-02)",
+          "whats_new": "Anthropic unveils a Services Track for its Claude Partner Network, a ranking based on what companies built with Claude, and releases a Claude Partner Hub portal (Belle Lin/Wall Street Journal) (2026-06-03)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260602/p40#a260602p40"
+            "news": "https://www.techmeme.com/260603/p37#a260603p37"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet (2026-06-02)",
+          "whats_new": "As AI gets better, it reveals an empty promise (2026-06-03)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Microsoft releases Web IQ, a search service for AI agents that is powered by Bing, currently used by Copilot, ChatGPT, and other platforms (Barry Schwartz/Search Engine Land) (2026-06-02)",
+          "whats_new": "Town, which is developing personalized AI assistants that connect to users' email and calendar, raised a $55M Series A led by a16z (Lily Mae Lazarus/Fortune) (2026-06-03)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/260602/p39#a260602p39"
+            "news": "https://www.techmeme.com/260603/p44#a260603p44"
           },
           "total": 84.1
         },
