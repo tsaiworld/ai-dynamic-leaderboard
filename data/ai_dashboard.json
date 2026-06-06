@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-05",
+    "last_updated": "2026-06-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: US officials discussed the US taking stakes in major AI companies after Sam Altman pitched the idea in 2025; Altman met Bernie Sanders on Wednesday (Wall Street Journal) (2026-06-05)",
+          "whats_new": "OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features (Igor Bonifacic/Engadget) (2026-06-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260605/p12#a260605p12"
+            "news": "https://www.techmeme.com/260605/p37#a260605p37"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the startup prepares for its IPO (Reuters) (2026-06-05)",
+          "whats_new": "Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt's largest senior portions (Bloomberg) (2026-06-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260605/p8#a260605p8"
+            "news": "https://www.techmeme.com/260605/p31#a260605p31"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D] (2026-06-04)",
+          "whats_new": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power (2026-06-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/"
+            "news": "https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "[R] VOID: Video Object and Interaction Deletion (physically-consistent video inpainting) (2026-04-03)",
+          "whats_new": "Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale (Abhirup Roy/Reuters) (2026-06-06)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1sb9d9s/r_void_video_object_and_interaction_deletion/"
+            "news": "https://www.techmeme.com/260606/p3#a260606p3"
           }
         },
         {
