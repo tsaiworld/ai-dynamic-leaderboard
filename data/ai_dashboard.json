@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products (Cristina Criddle/Financial Times) (2026-06-07)",
+          "whats_new": "Sources: former OpenAI researcher Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, has $20B+ AUM, after launching less than two years ago (Peter Rudegeair/Wall Street Journal) (2026-06-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260607/p1#a260607p1"
+            "news": "https://www.techmeme.com/260608/p22#a260608p22"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt's largest senior portions (Bloomberg) (2026-06-05)",
+          "whats_new": "Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents (Joseph Cox/404 Media) (2026-06-08)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260605/p31#a260605p31"
+            "news": "https://www.techmeme.com/260608/p20#a260608p20"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more (Dwarkesh Patel/Dwarkesh Podcast) (2026-06-07)",
+          "whats_new": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources (2026-06-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260607/p5#a260607p5"
+            "news": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Research collection of Arxiv whitepapers [R] (2026-06-07)",
+          "whats_new": "Can These ChatGPT Ads Make You Love A.I.? (2026-06-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1tz7014/research_collection_of_arxiv_whitepapers_r/"
+            "news": "https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html"
           },
           "total": 84.1
         },
