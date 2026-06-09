@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: former OpenAI researcher Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, has $20B+ AUM, after launching less than two years ago (Peter Rudegeair/Wall Street Journal) (2026-06-08)",
+          "whats_new": "Confidential submission of draft S-1 to the SEC (2026-06-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260608/p22#a260608p22"
+            "news": "https://openai.com/index/openai-submits-confidential-s-1"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources (2026-06-08)",
+          "whats_new": "Google releases Gemini 3.5 Live Translate, which it says can deliver \"near real-time speech-to-speech translation in over 70 languages\" (The Keyword) (2026-06-09)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
+            "news": "https://www.techmeme.com/260609/p23#a260609p23"
           },
           "total": 83.25
         },
