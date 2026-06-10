@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Confidential submission of draft S-1 to the SEC (2026-06-08)",
+          "whats_new": "From data to decisions: how LSEG is scaling trusted AI (2026-06-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-submits-confidential-s-1"
+            "news": "https://openai.com/index/lseg"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents (Joseph Cox/404 Media) (2026-06-08)",
+          "whats_new": "Anthropic secretly limiting Claude's usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior (Dean W. Ball/@deanwball) (2026-06-10)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260608/p20#a260608p20"
+            "news": "https://www.techmeme.com/260610/p42#a260610p42"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google releases Gemini 3.5 Live Translate, which it says can deliver \"near real-time speech-to-speech translation in over 70 languages\" (The Keyword) (2026-06-09)",
+          "whats_new": "Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models (The Keyword) (2026-06-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260609/p23#a260609p23"
+            "news": "https://www.techmeme.com/260610/p44#a260610p44"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Can These ChatGPT Ads Make You Love A.I.? (2026-06-07)",
+          "whats_new": "Introducing Papers Without Code [P] (2026-06-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1u1wq0a/introducing_papers_without_code_p/"
           },
           "total": 84.1
         },
