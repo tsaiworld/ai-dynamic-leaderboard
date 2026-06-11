@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "From data to decisions: how LSEG is scaling trusted AI (2026-06-10)",
+          "whats_new": "OpenAI to acquire Ona (2026-06-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/lseg"
+            "news": "https://openai.com/index/openai-to-acquire-ona"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic secretly limiting Claude's usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior (Dean W. Ball/@deanwball) (2026-06-10)",
+          "whats_new": "Anthropic apologizes for invisible Claude Fable guardrails (2026-06-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260610/p42#a260610p42"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models (The Keyword) (2026-06-10)",
+          "whats_new": "Crusoe said it had \"paused\" a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable (Bloomberg) (2026-06-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260610/p44#a260610p44"
+            "news": "https://www.techmeme.com/260611/p29#a260611p29"
           },
           "total": 83.25
         },
