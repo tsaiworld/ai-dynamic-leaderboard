@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI to acquire Ona (2026-06-11)",
+          "whats_new": "How Preply combines AI and human tutors to personalize learning (2026-06-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-to-acquire-ona"
+            "news": "https://openai.com/index/preply"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Crusoe said it had \"paused\" a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable (Bloomberg) (2026-06-11)",
+          "whats_new": "Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini AI to create fake websites and scam hundreds of thousands of Americans (Cecilia Kang/New York Times) (2026-06-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260611/p29#a260611p29"
+            "news": "https://www.techmeme.com/260612/p9#a260612p9"
           },
           "total": 83.25
         },
