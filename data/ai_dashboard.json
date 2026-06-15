@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "State Attorneys General Are Investigating OpenAI (2026-06-14)",
+          "whats_new": "Why do frontier AI labs send so many people to conferences? [D] (2026-06-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "US export controls on Anthropic reignite debate in India over the country's AI ambitions, which are increasingly tied to tech developed and governed in the US (Jagmeet Singh/TechCrunch) (2026-06-14)",
+          "whats_new": "Anthropic's belief in its own commitment to safety gives Anthropic the license to aggressively favor its business and even challenge the US government (Ben Thompson/Stratechery) (2026-06-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260614/p1#a260614p1"
+            "news": "https://www.techmeme.com/260615/p35#a260615p35"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "My yard is dying, so I made an app for that (2026-06-13)",
+          "whats_new": "Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025 (A.J. Vicens/Reuters) (2026-06-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing"
+            "news": "https://www.techmeme.com/260615/p32#a260615p32"
           },
           "total": 83.25
         },
@@ -190,7 +190,7 @@
         },
         {
           "tool": "Play.ht v2",
-          "whats_new": "How some teens use popular AI-powered role-playing chatbots, and the high-stakes challenge for parents to understand their potentially addictive impact (New York Times) (2026-04-04)",
+          "whats_new": "Electronic Arts launches EA Advertising, letting brands integrate directly into gameplay through dynamic, real-time placements, including stadium signage (Assiatou Hann/CNBC) (2026-06-15)",
           "best_used_for": "Developer TTS, narrations",
           "pro": "Developer-first platform",
           "con": "Occasional robotic timbre",
@@ -203,7 +203,7 @@
           },
           "total": 75.8,
           "links": {
-            "news": "http://www.techmeme.com/260404/p13#a260404p13"
+            "news": "https://www.techmeme.com/260615/p26#a260615p26"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Papers Without Code [P] (2026-06-10)",
+          "whats_new": "How does the ML community view evolutionary algorithm research? Career implications of an EA PhD? [D] (2026-06-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u1wq0a/introducing_papers_without_code_p/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1u66q3l/how_does_the_ml_community_view_evolutionary/"
           },
           "total": 84.1
         },
