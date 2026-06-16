@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-15",
+    "last_updated": "2026-06-16",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Why do frontier AI labs send so many people to conferences? [D] (2026-06-15)",
+          "whats_new": "SpaceX is officially buying Cursor for $60 billion (2026-06-16)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic's belief in its own commitment to safety gives Anthropic the license to aggressively favor its business and even challenge the US government (Ben Thompson/Stratechery) (2026-06-15)",
+          "whats_new": "Sources: the Trump administration won't allow G7 countries to regain access to Mythos 5 as doing so would be \"completely illogical\"; UK requested a \"carve-out\" (James Franey/New York Post) (2026-06-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260615/p35#a260615p35"
+            "news": "https://www.techmeme.com/260616/p26#a260616p26"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025 (A.J. Vicens/Reuters) (2026-06-15)",
+          "whats_new": "Recent CS graduate looking for GPU compute collaborators for LLM/VLM research [D] (2026-06-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260615/p32#a260615p32"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1u6f5a3/recent_cs_graduate_looking_for_gpu_compute/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How does the ML community view evolutionary algorithm research? Career implications of an EA PhD? [D] (2026-06-15)",
+          "whats_new": "Source code for LLMs. [D] (2026-06-16)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u66q3l/how_does_the_ml_community_view_evolutionary/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1u79uwi/source_code_for_llms_d/"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "A live blog of Microsoft Build 2026, where the company is set to unveil a Copilot \"super app\", a new reasoning model, and Windows improvements for developers (Engadget) (2026-06-02)",
+          "whats_new": "Microsoft is moving Copilot Cowork to usage-based pricing and is considering a Microsoft-hosted version of DeepSeek as a cheaper option (Ina Fried/Axios) (2026-06-16)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,12 +287,12 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260602/p32#a260602p32"
+            "news": "https://www.techmeme.com/260616/p31#a260616p31"
           }
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "On-policy distillation: one of the hottest terms on PapersWithCode [R] (2026-06-04)",
+          "whats_new": "Riding High After I.P.O., SpaceX to Buy A.I. Start-Up for $60 Billion (2026-06-16)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1twmhud/onpolicy_distillation_one_of_the_hottest_terms_on/"
+            "news": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html"
           }
         },
         {
