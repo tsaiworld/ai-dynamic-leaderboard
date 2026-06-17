@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-16",
+    "last_updated": "2026-06-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "SpaceX is officially buying Cursor for $60 billion (2026-06-16)",
+          "whats_new": "XDOF, which is building data pipelines, collection tools, and annotation systems for robot training data, emerges from stealth with $70M (Tim Fernholz/TechCrunch) (2026-06-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion"
+            "news": "https://www.techmeme.com/260617/p31#a260617p31"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: the Trump administration won't allow G7 countries to regain access to Mythos 5 as doing so would be \"completely illogical\"; UK requested a \"carve-out\" (James Franey/New York Post) (2026-06-16)",
+          "whats_new": "A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying the startup (New York Times) (2026-06-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260616/p26#a260616p26"
+            "news": "https://www.techmeme.com/260617/p30#a260617p30"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Recent CS graduate looking for GPU compute collaborators for LLM/VLM research [D] (2026-06-15)",
+          "whats_new": "Studies: Mira, an AI medical tool developed by researchers in Germany, and Google's Amie matched or surpassed doctors on diagnostic and treatment decisions (Michael Peel/Financial Times) (2026-06-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u6f5a3/recent_cs_graduate_looking_for_gpu_compute/"
+            "news": "https://www.techmeme.com/260617/p35#a260617p35"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Source code for LLMs. [D] (2026-06-16)",
+          "whats_new": "Estonia says it will assign personal ID numbers to AI agents to give them \"limited, controllable, and auditable authorizations\" as they take actions for humans (Ott Tammik/Bloomberg) (2026-06-17)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u79uwi/source_code_for_llms_d/"
+            "news": "https://www.techmeme.com/260617/p21#a260617p21"
           },
           "total": 84.1
         },
@@ -292,7 +292,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Riding High After I.P.O., SpaceX to Buy A.I. Start-Up for $60 Billion (2026-06-16)",
+          "whats_new": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion (2026-06-16)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
