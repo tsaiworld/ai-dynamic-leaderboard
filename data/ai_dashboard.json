@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-19",
+    "last_updated": "2026-06-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -37,7 +37,7 @@
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources detail how Google is using Nvidia's playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic (Wall Street Journal) (2026-06-19)",
+          "whats_new": "Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France (Angela Cullen/Bloomberg) (2026-06-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260619/p4#a260619p4"
+            "news": "https://www.techmeme.com/260620/p8#a260620p8"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How do you analyze the relative \"strength\" of probes? [R] (2026-06-17)",
+          "whats_new": "Nothing co-founder Akis Evangelidis says the phonemaker won't launch a new phone this year in its budget-focused CMF Phone series due to surging memory prices (Ben Schoon/9to5Google) (2026-06-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1u8lo60/how_do_you_analyze_the_relative_strength_of/"
+            "news": "https://www.techmeme.com/260619/p24#a260619p24"
           },
           "total": 83.25
         },
