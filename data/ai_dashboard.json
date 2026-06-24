@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How Omio is building the future of conversational travel (2026-06-23)",
+          "whats_new": "OpenAI and Broadcom unveil LLM-optimized inference chip (2026-06-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/omio"
+            "news": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court (2026-06-20)",
+          "whats_new": "Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is \"China's version of Mythos\", and Yitianzhen, to automate cyber defense (Eduardo Baptista/Reuters) (2026-06-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html"
+            "news": "https://www.techmeme.com/260624/p23#a260624p23"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The Fitbit Air takes a smarter approach to the AI health dumpster fire (2026-06-23)",
+          "whats_new": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky (2026-06-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach"
+            "news": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "An Update on Matrix Recurrent Units, an Attention Alternative [R] (2026-06-21)",
+          "whats_new": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery (2026-06-23)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/"
+            "news": "https://openai.com/index/gpt-5-immunology-mystery"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft is moving Copilot Cowork to usage-based pricing and is considering a Microsoft-hosted version of DeepSeek as a cheaper option (Ina Fried/Axios) (2026-06-16)",
+          "whats_new": "Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down (Lorelei Smillie/Bloomberg) (2026-06-24)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260616/p31#a260616p31"
+            "news": "https://www.techmeme.com/260624/p24#a260624p24"
           }
         },
         {
