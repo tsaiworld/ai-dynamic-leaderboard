@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Broadcom unveil LLM-optimized inference chip (2026-06-24)",
+          "whats_new": "How agents are transforming work (2026-06-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+            "news": "https://openai.com/index/how-agents-are-transforming-work"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is \"China's version of Mythos\", and Yitianzhen, to automate cyber defense (Eduardo Baptista/Reuters) (2026-06-24)",
+          "whats_new": "Sources: Google expands the scope of its months-old AI coding strike team to \"midtraining\" to try to catch up with Anthropic, after major executive departures (Erin Woo/The Information) (2026-06-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260624/p23#a260624p23"
+            "news": "https://www.techmeme.com/260625/p27#a260625p27"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery (2026-06-23)",
+          "whats_new": "High Dimensional, Dynamic Rotary Positional Embedding [P] (2026-06-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-immunology-mystery"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/"
           },
           "total": 84.1
         },
