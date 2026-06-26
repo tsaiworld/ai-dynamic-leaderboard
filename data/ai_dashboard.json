@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How agents are transforming work (2026-06-25)",
+          "whats_new": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors (Dean W. Ball/Hyperdimensional) (2026-06-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/how-agents-are-transforming-work"
+            "news": "https://www.techmeme.com/260626/p12#a260626p12"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Google expands the scope of its months-old AI coding strike team to \"midtraining\" to try to catch up with Anthropic, after major executive departures (Erin Woo/The Information) (2026-06-25)",
+          "whats_new": "Anthropic&#8217;s Mythos mess is only getting worse (2026-06-26)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260625/p27#a260625p27"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations"
           },
           "total": 85.15
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down (Lorelei Smillie/Bloomberg) (2026-06-24)",
+          "whats_new": "Italy is investigating Microsoft 365's price hike, saying Microsoft did not adequately inform users that it was integrating AI tools like Copilot into the suite (Giulia Segreti/Reuters) (2026-06-26)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260624/p24#a260624p24"
+            "news": "https://www.techmeme.com/260626/p8#a260626p8"
           }
         },
         {
