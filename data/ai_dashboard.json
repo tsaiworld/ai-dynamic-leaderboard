@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors (Dean W. Ball/Hyperdimensional) (2026-06-26)",
+          "whats_new": "Previewing GPT-5.6 Sol: a next-generation model (2026-06-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260626/p12#a260626p12"
+            "news": "https://openai.com/index/previewing-gpt-5-6-sol"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic&#8217;s Mythos mess is only getting worse (2026-06-26)",
+          "whats_new": "Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week (Axios) (2026-06-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations"
+            "news": "https://www.techmeme.com/260627/p8#a260627p8"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky (2026-06-24)",
+          "whats_new": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D] (2026-06-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/"
           },
           "total": 83.25
         },
