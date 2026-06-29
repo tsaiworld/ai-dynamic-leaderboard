@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-06-28",
+    "last_updated": "2026-06-29",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft's consolidated Copilot team efforts to catch up with OpenAI and Anthropic (Sebastian Herrera/Fortune) (2026-06-28)",
+          "whats_new": "Mapping Europe\u2019s AI Workforce Opportunity (2026-06-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260628/p6#a260628p6"
+            "news": "https://openai.com/index/mapping-ai-jobs-transition-eu"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A look at a thriving underground economy for Claude access in China, including \"transfer station\" sites that buy API tokens abroad and distribute them to users (Wired) (2026-06-28)",
+          "whats_new": "Lawmakers want to ban AI companies from selling your health data (2026-06-29)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260628/p4#a260628p4"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects (Financial Times) (2026-06-28)",
+          "whats_new": "Google VP of Security Engineering Heather Adkins warns the EU's DMA proposals to open Android and Search could lead to a significant rise in fraud within weeks (Matt Burgess/Wired) (2026-06-29)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260628/p1#a260628p1"
+            "news": "https://www.techmeme.com/260629/p17#a260629p17"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P] (2026-06-28)",
+          "whats_new": "Adaptive Mixture of Experts Gate (AMG) [R] (2026-06-29)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uiwf2u/adaptive_mixture_of_experts_gate_amg_r/"
           }
         }
       ]
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Nobody wants to tell me why they only listen to their own Suno slop (2026-05-26)",
+          "whats_new": "Suno launches Spark incubator program to feed independent artists to its AI machine (2026-06-28)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
           },
           "total": 79.6
         },
