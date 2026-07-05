@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-04",
+    "last_updated": "2026-07-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI floats giving Trump administration 5 percent cut of AI boom (2026-07-02)",
+          "whats_new": "In San Francisco\u2019s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough (2026-07-05)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+            "news": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "The fanfiction community is at war with AI \u2014 and itself (2026-07-04)",
+          "whats_new": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D] (2026-07-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs (Robert P Baird/The Guardian) (2026-07-04)",
+          "whats_new": "Infuriating Google commercial imagines the founding fathers embracing AI (2026-07-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260704/p5#a260704p5"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Small Language Model SLM [D] (2026-07-03)",
+          "whats_new": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one \u2014 Qwen3.5-4B, open weights [P] (2026-07-05)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1umissr/small_language_model_slm_d/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery (2026-06-23)",
+          "whats_new": "Question regarding Xournal++ and software 4 taking university notes during class [D] (2026-07-05)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-immunology-mystery"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1unzaxg/question_regarding_xournal_and_software_4_taking/"
           },
           "total": 84.1
         },
