@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "In San Francisco\u2019s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough (2026-07-05)",
+          "whats_new": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill (Adam Harrington/CBS News) (2026-07-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
+            "news": "https://www.techmeme.com/260706/p23#a260706p23"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D] (2026-07-05)",
+          "whats_new": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027 (CNBC) (2026-07-06)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/"
+            "news": "https://www.techmeme.com/260706/p16#a260706p16"
           },
           "total": 85.15
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale (Abhirup Roy/Reuters) (2026-06-06)",
+          "whats_new": "AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway (Natalie Breymeyer/Axios) (2026-07-06)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.techmeme.com/260606/p3#a260606p3"
+            "news": "https://www.techmeme.com/260706/p15#a260706p15"
           }
         },
         {
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Question regarding Xournal++ and software 4 taking university notes during class [D] (2026-07-05)",
+          "whats_new": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery (2026-06-23)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1unzaxg/question_regarding_xournal_and_software_4_taking/"
+            "news": "https://openai.com/index/gpt-5-immunology-mystery"
           },
           "total": 84.1
         },
