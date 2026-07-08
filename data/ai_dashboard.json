@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench\u2019s EventQA using gpt-oss-20B [P] (2026-07-06)",
+          "whats_new": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro (Madison Mills/Axios) (2026-07-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/"
+            "news": "https://www.techmeme.com/260708/p26#a260708p26"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "UN Secretary-General Ant\u00f3nio Guterres calls for autonomous \"killer robots\" to be \"banned by international law\", a central issue in the US DOD-Anthropic clash (Sam Schechner/Wall Street Journal) (2026-07-07)",
+          "whats_new": "Anthropic is launching Claude Cowork on mobile and web (2026-07-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260707/p17#a260707p17"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google launches \"platform properties\" in the Google Search Console, letting creators and website owners see which search terms lead to their social platforms (Jay Peters/The Verge) (2026-07-07)",
+          "whats_new": "Infuriating Google commercial imagines the founding fathers embracing AI (2026-07-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260707/p22#a260707p22"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery (2026-06-23)",
+          "whats_new": "Kaon AI, which builds personalized story worlds using its AI-based FlowGPT and Emochi tools, raised $60M from B Capital and others, and says Emochi has 2M DAUs (Corbin Bolies/Variety) (2026-07-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-immunology-mystery"
+            "news": "https://www.techmeme.com/260708/p25#a260708p25"
           },
           "total": 84.1
         },
