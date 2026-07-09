@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro (Madison Mills/Axios) (2026-07-08)",
+          "whats_new": "Meta launches a Meta Model API, whose pricing Mark Zuckerberg says will be \"aggressive and attractive\" at ~25% of the cost of OpenAI and Anthropic models (Kurt Wagner/Bloomberg) (2026-07-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260708/p26#a260708p26"
+            "news": "https://www.techmeme.com/260709/p21#a260709p21"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic is launching Claude Cowork on mobile and web (2026-07-07)",
+          "whats_new": "Say hello to Claude Wrapped (2026-07-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Infuriating Google commercial imagines the founding fathers embracing AI (2026-07-05)",
+          "whats_new": "How to Turn Your Phone Into a Personal Health Dashboard (2026-07-09)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
+            "news": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one \u2014 Qwen3.5-4B, open weights [P] (2026-07-05)",
+          "whats_new": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark (Julie Bort/TechCrunch) (2026-07-09)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/"
+            "news": "https://www.techmeme.com/260709/p15#a260709p15"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Kaon AI, which builds personalized story worlds using its AI-based FlowGPT and Emochi tools, raised $60M from B Capital and others, and says Emochi has 2M DAUs (Corbin Bolies/Variety) (2026-07-08)",
+          "whats_new": "Introducing GPT-Live (2026-07-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/260708/p25#a260708p25"
+            "news": "https://openai.com/index/introducing-gpt-live"
           },
           "total": 84.1
         },
