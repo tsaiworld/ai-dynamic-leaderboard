@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Meta launches a Meta Model API, whose pricing Mark Zuckerberg says will be \"aggressive and attractive\" at ~25% of the cost of OpenAI and Anthropic models (Kurt Wagner/Bloomberg) (2026-07-09)",
+          "whats_new": "How Deutsche Telekom is rewiring telecommunications with AI (2026-07-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260709/p21#a260709p21"
+            "news": "https://openai.com/index/deutsche-telekom"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Say hello to Claude Wrapped (2026-07-09)",
+          "whats_new": "Like the Claude app it imitates, the new ChatGPT \"Super App\", which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions (M.G. Siegler/Spyglass) (2026-07-10)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"
+            "news": "https://www.techmeme.com/260710/p15#a260710p15"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How to Turn Your Phone Into a Personal Health Dashboard (2026-07-09)",
+          "whats_new": "The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight (Muvija M/Reuters) (2026-07-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html"
+            "news": "https://www.techmeme.com/260710/p12#a260710p12"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing GPT-Live (2026-07-08)",
+          "whats_new": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot (2026-07-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-gpt-live"
+            "news": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
           },
           "total": 84.1
         },
