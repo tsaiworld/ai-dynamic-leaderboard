@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-11",
+    "last_updated": "2026-07-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How Deutsche Telekom is rewiring telecommunications with AI (2026-07-10)",
+          "whats_new": "Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce (M.G. Siegler/Spyglass) (2026-07-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/deutsche-telekom"
+            "news": "https://www.techmeme.com/260711/p9#a260711p9"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab) (2026-07-11)",
+          "whats_new": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P] (2026-07-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260711/p6#a260711p6"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google will now tell you if an ad was made with AI (2026-07-09)",
+          "whats_new": "Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak) (2026-07-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
+            "news": "https://www.techmeme.com/260711/p7#a260711p7"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot (2026-07-09)",
+          "whats_new": "Where to publish a construction BIM Benchmark? [D] (2026-07-12)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/"
           },
           "total": 84.1
         },
