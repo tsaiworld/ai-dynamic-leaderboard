@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-12",
+    "last_updated": "2026-07-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce (M.G. Siegler/Spyglass) (2026-07-11)",
+          "whats_new": "Sources: the US estimates unauthorized distillation costs US AI labs up to $6B/year; Silicon Valley told the White House it could become an existential threat (Maggie Eastland/Bloomberg) (2026-07-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260711/p9#a260711p9"
+            "news": "https://www.techmeme.com/260713/p21#a260713p21"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P] (2026-07-12)",
+          "whats_new": "Anthropic hires Tom Blomfield, a Monzo co-founder and one of the biggest names in UK tech, to join its compute team; he is taking a leave of absence from YC (Robert Scammell/Business Insider) (2026-07-13)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/"
+            "news": "https://www.techmeme.com/260713/p19#a260713p19"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak) (2026-07-11)",
+          "whats_new": "Waze is getting a bunch of new AI-powered features (2026-07-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260711/p7#a260711p7"
+            "news": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
           },
           "total": 83.25
         },
