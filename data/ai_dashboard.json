@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI Is Showing Kalshi\u2019s World Cup Odds in ChatGPT (2026-07-14)",
+          "whats_new": "How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI's \"reverse federalism\" strategy for common state rules (Politico) (2026-07-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html"
+            "news": "https://www.techmeme.com/260715/p26#a260715p26"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Waze is getting a bunch of new AI-powered features (2026-07-13)",
+          "whats_new": "Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers (Barbara Moens/Financial Times) (2026-07-15)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
+            "news": "https://www.techmeme.com/260715/p25#a260715p25"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How sales teams use ChatGPT Work (2026-07-14)",
+          "whats_new": "AI/ML Research - What Does it Really Take? [D] (2026-07-15)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/"
           },
           "total": 84.1
         },
