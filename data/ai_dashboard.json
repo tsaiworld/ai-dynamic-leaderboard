@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-07-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The US is advancing AI safety through state and federal action (2026-07-15)",
+          "whats_new": "Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers (Michael Acton/Financial Times) (2026-07-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+            "news": "https://www.techmeme.com/260717/p8#a260717p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude can now use your 1Password credentials for you (2026-07-16)",
+          "whats_new": "In an internal meeting, Satya Nadella criticized Claude Fable 5 for being \"editorially controlled\", saying its refusal to do \"any random thing\" makes no sense (Jordan Novet/CNBC) (2026-07-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
+            "news": "https://www.techmeme.com/260717/p2#a260717p2"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google ordered to open Android and Search to rivals in Europe (2026-07-16)",
+          "whats_new": "San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps (Matt Burgess/Wired) (2026-07-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
+            "news": "https://www.techmeme.com/260717/p9#a260717p9"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "A hacker claims to have accessed Suno user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack (Jason Koebler/404 Media) (2026-07-16)",
+          "whats_new": "Suno snatched millions of songs from YouTube, Genius, and Deezer (2026-07-15)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.techmeme.com/260716/p35#a260716p35"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
           },
           "total": 79.6
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "AI/ML Research - What Does it Really Take? [D] (2026-07-15)",
+          "whats_new": "The A.I. Trade Secrets War + Economists Say \u2018We Must Act Now\u2019 + HatGPT (2026-07-17)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/"
+            "news": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html"
           },
           "total": 84.1
         },
