@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers (Michael Acton/Financial Times) (2026-07-17)",
+          "whats_new": "A scorecard for the AI age (2026-07-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260717/p8#a260717p8"
+            "news": "https://openai.com/index/a-scorecard-for-the-ai-age"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "In an internal meeting, Satya Nadella criticized Claude Fable 5 for being \"editorially controlled\", saying its refusal to do \"any random thing\" makes no sense (Jordan Novet/CNBC) (2026-07-17)",
+          "whats_new": "Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users (Claude/@claudeai) (2026-07-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260717/p2#a260717p2"
+            "news": "https://www.techmeme.com/260717/p30#a260717p30"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps (Matt Burgess/Wired) (2026-07-17)",
+          "whats_new": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P] (2026-07-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260717/p9#a260717p9"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/"
           },
           "total": 83.25
         },
