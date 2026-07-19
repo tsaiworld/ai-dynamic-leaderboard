@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-18",
+    "last_updated": "2026-07-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A scorecard for the AI age (2026-07-17)",
+          "whats_new": "Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO (Alexandra Lindsay/The San Francisco ...) (2026-07-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/a-scorecard-for-the-ai-age"
+            "news": "https://www.techmeme.com/260719/p4#a260719p4"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users (Claude/@claudeai) (2026-07-17)",
+          "whats_new": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal (2026-07-17)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260717/p30#a260717p30"
+            "news": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P] (2026-07-18)",
+          "whats_new": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D] (2026-07-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "The A.I. Trade Secrets War + Economists Say \u2018We Must Act Now\u2019 + HatGPT (2026-07-17)",
+          "whats_new": "Follow up: GPT-2's vocabulary as a hyperbolic tree \u2014 32,070 tokens in a Poincar\u00e9 ball you can fly through [P] (2026-07-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/"
           },
           "total": 84.1
         },
