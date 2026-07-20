@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-19",
+    "last_updated": "2026-07-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO (Alexandra Lindsay/The San Francisco ...) (2026-07-19)",
+          "whats_new": "China delivers a one-two punch to America\u2019s AI dominance (2026-07-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260719/p4#a260719p4"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D] (2026-07-18)",
+          "whats_new": "Billionaire-backed Building A Better California reserves $87M in TV ad time to oppose California's proposed one-time wealth tax; Sergey Brin put $82M into BABC (New York Times) (2026-07-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/"
+            "news": "https://www.techmeme.com/260720/p24#a260720p24"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Suno snatched millions of songs from YouTube, Genius, and Deezer (2026-07-15)",
+          "whats_new": "I hate that I don\u2019t hate this song made with Suno (2026-07-19)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
+            "news": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
           },
           "total": 79.6
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Follow up: GPT-2's vocabulary as a hyperbolic tree \u2014 32,070 tokens in a Poincar\u00e9 ball you can fly through [P] (2026-07-19)",
+          "whats_new": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII [P] (2026-07-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v1fzuy/introducing_asciitermdraw_bench_testing_the/"
           },
           "total": 84.1
         },
