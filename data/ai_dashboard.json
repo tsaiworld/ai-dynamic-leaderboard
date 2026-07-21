@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "China delivers a one-two punch to America\u2019s AI dominance (2026-07-20)",
+          "whats_new": "America needs to stop getting shocked by Chinese AI (2026-07-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal (2026-07-17)",
+          "whats_new": "Google launches a cheaper alternative to large AI security models like Mythos (2026-07-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
+            "news": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Billionaire-backed Building A Better California reserves $87M in TV ad time to oppose California's proposed one-time wealth tax; Sergey Brin put $82M into BABC (New York Times) (2026-07-20)",
+          "whats_new": "How Google\u2019s A.I. Search Is Imperiling the Open Web (2026-07-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260720/p24#a260720p24"
+            "news": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII [P] (2026-07-20)",
+          "whats_new": "Follow up: GPT-2's vocabulary as a hyperbolic tree \u2014 32,070 tokens in a Poincar\u00e9 ball you can fly through [P] (2026-07-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v1fzuy/introducing_asciitermdraw_bench_testing_the/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Italy is investigating Microsoft 365's price hike, saying Microsoft did not adequately inform users that it was integrating AI tools like Copilot into the suite (Giulia Segreti/Reuters) (2026-06-26)",
+          "whats_new": "Microsoft and Mistral sign a multibillion-dollar deal to build European data centers and integrate Mistral models into Foundry, Copilot Studio, and Azure Local (Belle Lin/Wall Street Journal) (2026-07-21)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260626/p8#a260626p8"
+            "news": "https://www.techmeme.com/260721/p16#a260721p16"
           }
         },
         {
