@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-22",
+    "last_updated": "2026-07-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Building AI infrastructure with the Effingham County community (2026-07-22)",
+          "whats_new": "Apple\u2019s OpenAI lawsuit is about who gets to define the post-smartphone era (2026-07-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+            "news": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "AMD and Anthropic reach $5 billion AI infrastructure deal (2026-07-22)",
+          "whats_new": "AMD commits up to $5 billion to Anthropic (2026-07-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Meta made its own AI detection system. It should have just used Google\u2019s (2026-07-22)",
+          "whats_new": "Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 (Sarah Frier/Bloomberg) (2026-07-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid"
+            "news": "https://www.techmeme.com/260723/p21#a260723p21"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Follow up: GPT-2's vocabulary as a hyperbolic tree \u2014 32,070 tokens in a Poincar\u00e9 ball you can fly through [P] (2026-07-19)",
+          "whats_new": "NTT DATA Group cuts incident analysis to 30 minutes with Codex (2026-07-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/"
+            "news": "https://openai.com/index/ntt-data"
           },
           "total": 84.1
         },
