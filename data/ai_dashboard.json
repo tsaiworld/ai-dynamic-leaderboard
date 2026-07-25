@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports (Munsif Vengattil/Reuters) (2026-07-24)",
+          "whats_new": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. (2026-07-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260724/p12#a260724p12"
+            "news": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude\u2019s voice mode is now available for Opus and Sonnet (2026-07-23)",
+          "whats_new": "SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions (Ian King/Bloomberg) (2026-07-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+            "news": "https://www.techmeme.com/260725/p12#a260725p12"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You (2026-07-23)",
+          "whats_new": "Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal, with more such deals in the pipeline (Jaspreet Singh/Reuters) (2026-07-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html"
+            "news": "https://www.techmeme.com/260725/p6#a260725p6"
           },
           "total": 83.25
         },
