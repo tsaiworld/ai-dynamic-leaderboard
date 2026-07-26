@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. (2026-07-25)",
+          "whats_new": "Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons (Wall Street Journal) (2026-07-26)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html"
+            "news": "https://www.techmeme.com/260726/p3#a260726p3"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions (Ian King/Bloomberg) (2026-07-25)",
+          "whats_new": "I want to use AI coding agents for machine learning projects [D] (2026-07-26)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260725/p12#a260725p12"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal, with more such deals in the pipeline (Jaspreet Singh/Reuters) (2026-07-25)",
+          "whats_new": "You can\u2019t ignore Google Zero anymore (2026-07-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260725/p6#a260725p6"
+            "news": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Launching Health in ChatGPT (2026-07-23)",
+          "whats_new": "Open-weight 4B models approach o3-level medical question answering in Swedish [P] (2026-07-26)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/health-in-chatgpt"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/"
           },
           "total": 84.1
         },
