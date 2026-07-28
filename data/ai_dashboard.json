@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-27",
+    "last_updated": "2026-07-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How AI is expanding what people do at work (2026-07-27)",
+          "whats_new": "Sources: OpenAI and Anthropic have lobbied the Trump administration to make sure lagging competitors also have to comply with government reviews of their models (Stephanie Palazzolo/The Information) (2026-07-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+            "news": "https://www.techmeme.com/260728/p26#a260728p26"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "We compared different LLMs on IMO 2026 [R] (2026-07-26)",
+          "whats_new": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D] (2026-07-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/"
           },
           "total": 85.15
         },
@@ -73,7 +73,7 @@
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark (Julie Bort/TechCrunch) (2026-07-09)",
+          "whats_new": "Agent Mini: a minimal, local-first AI agent you can actually read, understand, and extend. [P] (2026-07-28)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.techmeme.com/260709/p15#a260709p15"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v9131l/agent_mini_a_minimal_localfirst_ai_agent_you_can/"
           }
         }
       ]
