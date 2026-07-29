@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: OpenAI and Anthropic have lobbied the Trump administration to make sure lagging competitors also have to comply with government reviews of their models (Stephanie Palazzolo/The Information) (2026-07-28)",
+          "whats_new": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face (2026-07-29)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260728/p26#a260728p26"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D] (2026-07-28)",
+          "whats_new": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms (2026-07-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/"
+            "news": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "You can\u2019t ignore Google Zero anymore (2026-07-24)",
+          "whats_new": "Exploring Human-AI relationships [Honours Thesis] [R] (2026-07-29)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Agent Mini: a minimal, local-first AI agent you can actually read, understand, and extend. [P] (2026-07-28)",
+          "whats_new": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D] (2026-07-28)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v9131l/agent_mini_a_minimal_localfirst_ai_agent_you_can/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1v94h9m/might_need_mathcode_benchmark_for_frontier/"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Open-weight 4B models approach o3-level medical question answering in Swedish [P] (2026-07-26)",
+          "whats_new": "Launching Health in ChatGPT (2026-07-23)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/"
+            "news": "https://openai.com/index/health-in-chatgpt"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft and Mistral sign a multibillion-dollar deal to build European data centers and integrate Mistral models into Foundry, Copilot Studio, and Azure Local (Belle Lin/Wall Street Journal) (2026-07-21)",
+          "whats_new": "The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot (Upmanyu Trivedi/Bloomberg) (2026-07-29)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260721/p16#a260721p16"
+            "news": "https://www.techmeme.com/260729/p15#a260729p15"
           }
         },
         {
