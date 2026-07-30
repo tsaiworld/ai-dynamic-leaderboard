@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face (2026-07-29)",
+          "whats_new": "Sources: Leopold Aschenbrenner's Situational Awareness has sold all of its public stock holdings after losses on AI stocks and a bad bet against software stocks (David Faber/CNBC) (2026-07-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
+            "news": "https://www.techmeme.com/260730/p30#a260730p30"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms (2026-07-28)",
+          "whats_new": "Sources: Amazon staff find \"catastrophically expensive\" AI costs due to a lack of controls, like $1.8M on Claude to fail to match author details with listings (Rafe Rosner-Uddin/Financial Times) (2026-07-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html"
+            "news": "https://www.techmeme.com/260730/p18#a260730p18"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Exploring Human-AI relationships [Honours Thesis] [R] (2026-07-29)",
+          "whats_new": "Scale AI hires former Google Cloud COO Francis deSouza as CEO, replacing interim CEO Jason Droege, who took over last year after Alexandr Wang left for Meta (Madison Mills/Axios) (2026-07-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/"
+            "news": "https://www.techmeme.com/260730/p28#a260730p28"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Launching Health in ChatGPT (2026-07-23)",
+          "whats_new": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (2026-07-29)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/health-in-chatgpt"
+            "news": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot (Upmanyu Trivedi/Bloomberg) (2026-07-29)",
+          "whats_new": "Microsoft confirms Copilot \u2018super app\u2019 coming this year (2026-07-29)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,12 +287,12 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.techmeme.com/260729/p15#a260729p15"
+            "news": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
           }
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion (2026-06-16)",
+          "whats_new": "I taught an LSTM to move a mouse like a human [P] (2026-07-30)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/"
           }
         },
         {
