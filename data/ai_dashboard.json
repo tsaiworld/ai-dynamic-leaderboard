@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: Leopold Aschenbrenner's Situational Awareness has sold all of its public stock holdings after losses on AI stocks and a bad bet against software stocks (David Faber/CNBC) (2026-07-30)",
+          "whats_new": "Advancing responsible AI across Europe (2026-07-31)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260730/p30#a260730p30"
+            "news": "https://openai.com/index/advancing-responsible-ai-across-europe"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Amazon staff find \"catastrophically expensive\" AI costs due to a lack of controls, like $1.8M on Claude to fail to match author details with listings (Rafe Rosner-Uddin/Financial Times) (2026-07-30)",
+          "whats_new": "Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out (Wall Street Journal) (2026-07-31)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260730/p18#a260730p18"
+            "news": "https://www.techmeme.com/260731/p13#a260731p13"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Scale AI hires former Google Cloud COO Francis deSouza as CEO, replacing interim CEO Jason Droege, who took over last year after Alexandr Wang left for Meta (Madison Mills/Axios) (2026-07-30)",
+          "whats_new": "Google starts rolling out access to Gemini Spark for Google AI Pro subscribers to over 160 countries and adds a Chrome auto browse integration on desktop (Abner Li/9to5Google) (2026-07-31)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260730/p28#a260730p28"
+            "news": "https://www.techmeme.com/260731/p21#a260731p21"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "I hate that I don\u2019t hate this song made with Suno (2026-07-19)",
+          "whats_new": "A German court rules that Suno has violated copyrights and must disclose illicit revenue after Germany's state-mandated licensing agency GEMA sued in 2025 (Elizabeth Grenier/Deutsche Welle) (2026-07-31)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+            "news": "https://www.techmeme.com/260731/p18#a260731p18"
           },
           "total": 79.6
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (2026-07-29)",
+          "whats_new": "Univ\u00e9 builds an AI-ready workforce (2026-07-31)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+            "news": "https://openai.com/index/unive"
           },
           "total": 84.1
         },
