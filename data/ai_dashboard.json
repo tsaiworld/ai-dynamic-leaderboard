@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion (2026-08-04)",
+          "whats_new": "Third-party cyber evaluations involving OpenAI models (2026-08-04)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
+            "news": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years (Bloomberg) (2026-08-04)",
+          "whats_new": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider) (2026-08-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260804/p18#a260804p18"
+            "news": "https://www.techmeme.com/260805/p19#a260805p19"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns (2026-08-03)",
+          "whats_new": "Google Assistant will disappear from your phone next month (2026-08-05)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html"
+            "news": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How we built a realtime system for responsive voice AI in six months (2026-08-03)",
+          "whats_new": "New ways to learn and teach with ChatGPT Work and Codex (2026-08-04)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+            "news": "https://openai.com/index/learn-teach-chatgpt-work-codex"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft confirms Copilot \u2018super app\u2019 coming this year (2026-07-29)",
+          "whats_new": "NeurIPS 2026 post-rebuttal score distribution poll [D] (2026-08-04)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/"
           }
         },
         {
