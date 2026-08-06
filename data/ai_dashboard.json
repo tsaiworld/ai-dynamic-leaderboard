@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Third-party cyber evaluations involving OpenAI models (2026-08-04)",
+          "whats_new": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019 (2026-08-06)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+            "news": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Assistant will disappear from your phone next month (2026-08-05)",
+          "whats_new": "Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching (Jada Jones/ZDNET) (2026-08-06)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
+            "news": "https://www.techmeme.com/260806/p20#a260806p20"
           },
           "total": 83.25
         },
