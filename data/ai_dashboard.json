@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-06",
+    "last_updated": "2026-08-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019 (2026-08-06)",
+          "whats_new": "At Black Hat, OpenAI reconstructs the OpenAI-Hugging Face incident and examines its implications for AI security, cyber resilience, and alignment (Black Hat on YouTube) (2026-08-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
+            "news": "https://www.techmeme.com/260807/p14#a260807p14"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider) (2026-08-05)",
+          "whats_new": "Anthropic updates Claude Fable 5's biology safeguards to reduce false positives, cutting biology-related \"fallbacks\" by ~85% in testing across product surfaces (Anthropic) (2026-08-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260805/p19#a260805p19"
+            "news": "https://www.techmeme.com/260807/p15#a260807p15"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching (Jada Jones/ZDNET) (2026-08-06)",
+          "whats_new": "Analysis: Google DeepMind has lost frontier-model momentum amid leadership and RL talent departures, with Google Cloud emerging as a winner with more compute (SemiAnalysis) (2026-08-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260806/p20#a260806p20"
+            "news": "https://www.techmeme.com/260807/p6#a260807p6"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "ARPL \u2014 runtime ISA/topology detection for llama.cpp on ARM (built for Snapdragon 8 Elite) [r] (2026-08-03)",
+          "whats_new": "\u200bBuilt a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P] (2026-08-07)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ven68z/arpl_runtime_isatopology_detection_for_llamacpp/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/"
           }
         }
       ]
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "A German court rules that Suno has violated copyrights and must disclose illicit revenue after Germany's state-mandated licensing agency GEMA sued in 2025 (Elizabeth Grenier/Deutsche Welle) (2026-07-31)",
+          "whats_new": "Suno shares plans to combat spammy AI music (2026-08-06)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.techmeme.com/260731/p18#a260731p18"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
           },
           "total": 79.6
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "New ways to learn and teach with ChatGPT Work and Codex (2026-08-04)",
+          "whats_new": "How HSP GRUPPE builds AI capabilities for tax advisory (2026-08-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+            "news": "https://openai.com/index/hsp-gruppe"
           },
           "total": 84.1
         },
