@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "At Black Hat, OpenAI reconstructs the OpenAI-Hugging Face incident and examines its implications for AI security, cyber resilience, and alignment (Black Hat on YouTube) (2026-08-07)",
+          "whats_new": "Responding to the next frontier of critical cyber capabilities (2026-08-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260807/p14#a260807p14"
+            "news": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic updates Claude Fable 5's biology safeguards to reduce false positives, cutting biology-related \"fallbacks\" by ~85% in testing across product surfaces (Anthropic) (2026-08-07)",
+          "whats_new": "Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux (Marcus Mendes/9to5Mac) (2026-08-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260807/p15#a260807p15"
+            "news": "https://www.techmeme.com/260807/p34#a260807p34"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Analysis: Google DeepMind has lost frontier-model momentum amid leadership and RL talent departures, with Google Cloud emerging as a winner with more compute (SemiAnalysis) (2026-08-07)",
+          "whats_new": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 \u2014 submissions now open, deadline Aug 29 AoE [N] (2026-08-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260807/p6#a260807p6"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/"
           },
           "total": 83.25
         },
