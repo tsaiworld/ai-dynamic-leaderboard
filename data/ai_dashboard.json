@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A look at \"Spiralism\", a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory (Hayden Field/The Verge) (2026-08-08)",
+          "whats_new": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas (2026-08-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260808/p9#a260808p9"
+            "news": "https://openai.com/index/responsible-ai-infrastructure-texas"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog) (2026-08-08)",
+          "whats_new": "Anthropic, Macquarie, and Singapore's GIC form Theseus Infrastructure to develop AI computing sites; Anthropic commits to cover consumer electricity price hikes (Mark Bergen/Bloomberg) (2026-08-10)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260808/p10#a260808p10"
+            "news": "https://www.techmeme.com/260810/p22#a260810p22"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "A look back at \"Move 37\", a watershed AI moment from AlphaGo's 2016 Go victory, as math witnesses similar breakthroughs where AI makes surprising discoveries (Ben Cohen/Wall Street Journal) (2026-08-09)",
+          "whats_new": "Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, expanding support beyond PayPal and Cash App (Ivan Mehta/TechCrunch) (2026-08-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260809/p5#a260809p5"
+            "news": "https://www.techmeme.com/260810/p21#a260810p21"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "AI detectors are creating a new era of distrust (2026-08-09)",
+          "whats_new": "Model ML completes finance work more efficiently with GPT-5.6 Sol (2026-08-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
+            "news": "https://openai.com/index/model-ml"
           },
           "total": 84.1
         },
