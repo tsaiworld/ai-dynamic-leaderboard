@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-08-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas (2026-08-10)",
+          "whats_new": "OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity (Julian Hast/Bloomberg) (2026-08-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/responsible-ai-infrastructure-texas"
+            "news": "https://www.techmeme.com/260811/p9#a260811p9"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic, Macquarie, and Singapore's GIC form Theseus Infrastructure to develop AI computing sites; Anthropic commits to cover consumer electricity price hikes (Mark Bergen/Bloomberg) (2026-08-10)",
+          "whats_new": "Claude will apply invisible watermarks to AI text and images (2026-08-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260810/p22#a260810p22"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, expanding support beyond PayPal and Cash App (Ivan Mehta/TechCrunch) (2026-08-10)",
+          "whats_new": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 \u2014 submissions now open, deadline Aug 29 AoE [N] (2026-08-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260810/p21#a260810p21"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/"
           },
           "total": 83.25
         },
