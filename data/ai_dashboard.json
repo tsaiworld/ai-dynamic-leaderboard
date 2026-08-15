@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-14",
+    "last_updated": "2026-08-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed (2026-08-13)",
+          "whats_new": "Effective altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to \"effective giving\" (Financial Times) (2026-08-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/previewing-ultrafast"
+            "news": "https://www.techmeme.com/260815/p7#a260815p7"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "DeepSeek debuts DeepSeek Harness under the MIT license in developer preview, touting a design where \"everything is a plugin\" that can be swapped out as a plugin (Carl Franzen/VentureBeat) (2026-08-14)",
+          "whats_new": "Sources: Anthropic projects 2028 revenue of ~$190B-$200B, vs. a revenue run rate of $47B in May, as bankers and investors price the company ahead of an IPO (Echo Wang/Reuters) (2026-08-14)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260814/p10#a260814p10"
+            "news": "https://www.techmeme.com/260814/p32#a260814p32"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge) (2026-08-14)",
+          "whats_new": "You can now turn off Google Gemini&#8217;s visible watermarks (2026-08-14)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260814/p8#a260814p8"
+            "news": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
           },
           "total": 83.25
         },
@@ -292,7 +292,7 @@
         },
         {
           "tool": "Cursor IDE",
-          "whats_new": "Reactive Play: Achieved!! Experimenting with Atari Breakout [R] (2026-08-04)",
+          "whats_new": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P] (2026-08-14)",
           "best_used_for": "Full-stack prototyping",
           "pro": "Fast iteration & UX",
           "con": "Smaller plugin ecosystem",
@@ -305,7 +305,7 @@
           },
           "total": 78.2,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1vfa9im/reactive_play_achieved_experimenting_with_atari/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/"
           }
         },
         {
