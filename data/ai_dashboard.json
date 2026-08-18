@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-17",
+    "last_updated": "2026-08-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "The Defender\u2019s Window (2026-08-17)",
+          "whats_new": "Partnering with CodeAI to prepare the first AI generation (2026-08-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/the-defenders-window"
+            "news": "https://openai.com/index/partnering-with-codeai"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P] (2026-08-16)",
+          "whats_new": "Google&#8217;s Pet Memory forgot who my cats are (2026-08-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/"
+            "news": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes (2026-08-16)",
+          "whats_new": "Introducing ChatGPT for Teens: Built for learning, backed by protections (2026-08-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+            "news": "https://openai.com/index/chatgpt-for-teens"
           },
           "total": 84.1
         },
