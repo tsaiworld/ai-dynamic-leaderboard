@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI expands its ad pilot program across 31 European markets, including Germany, France, Spain, and Italy; the pilot launched in the US, the UK, and others (Trishla Ostwal/Adweek) (2026-08-19)",
+          "whats_new": "Offering Zero Data Retention for frontier models (2026-08-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260819/p14#a260819p14"
+            "news": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic explains how Claude&#8217;s invisible text watermarks will work (2026-08-17)",
+          "whats_new": "Anthropic-backed enterprise AI venture Ode is acquiring four-year-old AI consultancy Casper for an undisclosed fee; Ode has 100+ staff after buying Fractional (Julia Hornstein/The Information) (2026-08-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+            "news": "https://www.techmeme.com/260820/p21#a260820p21"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B (Dana Wollman/Bloomberg) (2026-08-19)",
+          "whats_new": "Muon Space, which is building a spacecraft platform for orbital data centers and AI computing, raised a $250M Series C, with participation from Google (Yash Roy/Bloomberg) (2026-08-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260819/p20#a260819p20"
+            "news": "https://www.techmeme.com/260820/p13#a260820p13"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT Ads expands across Europe (2026-08-18)",
+          "whats_new": "Replit expands access to software creation with GPT-5.6 Luna (2026-08-19)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+            "news": "https://openai.com/index/replit"
           },
           "total": 84.1
         },
