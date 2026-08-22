@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-21",
+    "last_updated": "2026-08-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI\u2019s Two-Week Pause + Jill Lepore on the Threat of the \u201cArtificial State\u201d + Train of Thought (2026-08-21)",
+          "whats_new": "OpenAI President Greg Brockman's role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures (Hayden Field/The Verge) (2026-08-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html"
+            "news": "https://www.techmeme.com/260822/p2#a260822p2"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "DeepSeek unveils an experimental multimodal version of its V4 Flash model, saying it nears the performance of Anthropic's Opus 4.8 on multimodal benchmarks (Bloomberg) (2026-08-21)",
+          "whats_new": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. (2026-08-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260821/p9#a260821p9"
+            "news": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Discover is getting an AI chatbot-tuned feed (2026-08-20)",
+          "whats_new": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P] (2026-08-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Stampli cuts launch hours by 68% using ChatGPT Work (2026-08-20)",
+          "whats_new": "Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry's \"ChatGPT moment\" has yet to come (Financial Times) (2026-08-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/stampli"
+            "news": "https://www.techmeme.com/260822/p5#a260822p5"
           },
           "total": 84.1
         },
