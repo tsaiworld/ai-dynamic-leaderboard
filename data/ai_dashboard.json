@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-24",
+    "last_updated": "2026-08-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "I built an open-source roguelike specifically for training game-playing agents [P] (2026-08-22)",
+          "whats_new": "Disrupting a new covert influence campaign from Russia (2026-08-25)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,7 +31,7 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/"
+            "news": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
           },
           "total": 88.65
         },
@@ -55,7 +55,7 @@
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "How Big Tech Captured American Schools (2026-08-23)",
+          "whats_new": "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters) (2026-08-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+            "news": "https://www.techmeme.com/260825/p16#a260825p16"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Stampli cuts launch hours by 68% using ChatGPT Work (2026-08-20)",
+          "whats_new": "Advancing price-performance for developers with GPT\u20115.6 in Kiro (2026-08-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/stampli"
+            "news": "https://openai.com/index/gpt-5-6-in-kiro"
           },
           "total": 84.1
         },
