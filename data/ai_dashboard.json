@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-27",
+    "last_updated": "2026-08-28",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Expanding OpenAI\u2019s presence in Brazil (2026-08-27)",
+          "whats_new": "Supporting Thailand\u2019s next generation of AI startups (2026-08-28)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/expanding-our-presence-in-brazil"
+            "news": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation (Reuters) (2026-08-27)",
+          "whats_new": "Trump Administration\u2019s Blacklisting of Anthropic Was Illegal, Judge Rules (2026-08-28)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260827/p53#a260827p53"
+            "news": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s AI note-taking app now allows you to interact with books (2026-08-27)",
+          "whats_new": "Google CS PhD Fellowship 2026 [R] (2026-08-28)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training (2026-08-27)",
+          "whats_new": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT (2026-08-28)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+            "news": "https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html"
           },
           "total": 84.1
         },
