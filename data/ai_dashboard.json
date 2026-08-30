@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be \"neutral\"; Musk says he \"couldn't care less\" (Amir Efrati/The Information) (2026-08-29)",
+          "whats_new": "Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs (Aaron Tilley/The Information) (2026-08-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260829/p10#a260829p10"
+            "news": "https://www.techmeme.com/260830/p8#a260830p8"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide) (2026-08-29)",
+          "whats_new": "Sony Music Publishing and Warner Chappell are suing Anthropic (2026-08-29)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260829/p11#a260829p11"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Jio Platforms, which owns India's largest carrier and counts Meta and Google as investors, gets regulatory approval to float India's largest-ever IPO of ~$4B (Vallari Sanzgiri/The Hindu BusinessLine) (2026-08-29)",
+          "whats_new": "PhD Internship in smaller lab [D] (2026-08-29)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260829/p1#a260829p1"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Suno is trying to look more like a real music production tool (2026-08-13)",
+          "whats_new": "Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music (Charles Pulliam-Moore/The Verge) (2026-08-29)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects"
+            "news": "https://www.techmeme.com/260829/p17#a260829p17"
           },
           "total": 79.6
         },
