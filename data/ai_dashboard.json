@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "ChatGPT to face tougher regulation in the EU (2026-08-31)",
+          "whats_new": "AI power infrastructure company SB Energy, which is backed by SoftBank, OpenAI, and Nvidia, files for an IPO, and says it is \"substantially dependent\" on OpenAI (CJ Haddad/CNBC) (2026-09-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+            "news": "https://www.techmeme.com/260901/p29#a260901p29"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude Code for Research Papers [R] (2026-08-30)",
+          "whats_new": "I audited 112 real RL post-training environments for reward-hacking vulnerabilities \u2014 54 flagged, 0 false positives [OC, tool] [P] (2026-09-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "PhD Internship in smaller lab [D] (2026-08-29)",
+          "whats_new": "Google Pics is like Canva, but with even more AI (2026-09-01)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/"
+            "news": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "ElevenLabs launches Music v2, which can switch genres mid-track and handle complex vocal compositions, built on licensed data and cleared for commercial use (Ivan Mehta/TechCrunch) (2026-05-27)",
+          "whats_new": "We released TontaubeV1, a character-level TTS model for long-form generation [P] (2026-09-01)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.techmeme.com/260527/p31#a260527p31"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/"
           }
         },
         {
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "A milestone in expanding access to AI (2026-08-31)",
+          "whats_new": "Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents (Chris Welch/Bloomberg) (2026-09-01)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+            "news": "https://www.techmeme.com/260901/p21#a260901p21"
           },
           "total": 84.1
         },
