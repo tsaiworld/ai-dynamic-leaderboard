@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release (2026-09-02)",
+          "whats_new": "ChatGPT, Grok, and Claude all went down at the same time (2026-09-03)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Commerce Secretary Howard Lutnick says \"we trust Anthropic\" as they are \"back on the right side\" with the administration and that \"they've done what we asked\" (Maria Curi/Axios) (2026-09-02)",
+          "whats_new": "Which Investors Will Get Rich From Anthropic\u2019s IPO? (2026-09-03)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260902/p32#a260902p32"
+            "news": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google is sending MrBeast into the wilderness, armed with AI (2026-09-02)",
+          "whats_new": "Google now lets you chat with Gmail, Docs, and Keep (2026-09-03)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
+            "news": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "\u200bBuilt a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P] (2026-08-07)",
+          "whats_new": "Nvidia launches free tool that links idle computers into a personal AI data center (2026-09-03)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT (2026-09-01)",
+          "whats_new": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT (2026-09-02)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+            "news": "https://openai.com/index/atv-big-air-tour"
           },
           "total": 84.1
         },
