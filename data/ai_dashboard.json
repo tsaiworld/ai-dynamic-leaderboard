@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Supporting independent journalism in Ukraine (2026-09-07)",
+          "whats_new": "OpenAI expands initiatives to support journalism from classrooms to newsrooms (2026-09-08)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+            "news": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Matt Clifford steps down as the chair of the UK government's science and tech research unit after joining Anthropic, following conflict of interest concerns (The Guardian) (2026-09-07)",
+          "whats_new": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement (2026-09-05)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260907/p14#a260907p14"
+            "news": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google DeepMind published a paper on how 100 agents tasked with solving math problems learned to cheat and how some agents tried to counter the cheaters (Jack Clark/Import AI) (2026-09-07)",
+          "whats_new": "Google\u2019s Atlas of the human genome could pave the way for new treatments (2026-09-08)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260907/p16#a260907p16"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
           },
           "total": 83.25
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway (Natalie Breymeyer/Axios) (2026-07-06)",
+          "whats_new": "Runway co-CEO Anastasis Germanidis says the startup's annual recurring revenue hit $200M in September; source: it expects ARR to cross $350M by the end of 2026 (Rachel Metz/Bloomberg) (2026-09-08)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.techmeme.com/260706/p15#a260706p15"
+            "news": "https://www.techmeme.com/260908/p21#a260908p21"
           }
         },
         {
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding (Tae Kim/Key Context) (2026-09-07)",
+          "whats_new": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra (2026-09-03)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/260907/p17#a260907p17"
+            "news": "https://openai.com/index/playco-game-prototyping-with-astra"
           },
           "total": 84.1
         },
