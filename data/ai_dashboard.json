@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI expands initiatives to support journalism from classrooms to newsrooms (2026-09-08)",
+          "whats_new": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters) (2026-09-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+            "news": "https://www.techmeme.com/260909/p24#a260909p24"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement (2026-09-05)",
+          "whats_new": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217; (2026-09-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra (2026-09-03)",
+          "whats_new": "How GPT-5.6 Sol helps run quantum computing experiments (2026-09-08)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/playco-game-prototyping-with-astra"
+            "news": "https://openai.com/index/codex-quantum-computing-experiments"
           },
           "total": 84.1
         },
