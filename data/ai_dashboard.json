@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-09",
+    "last_updated": "2026-09-10",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters) (2026-09-09)",
+          "whats_new": "Expanding AI access and cyber defense for federal, state, local, and tribal governments (2026-09-10)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260909/p24#a260909p24"
+            "news": "https://openai.com/index/expanding-ai-access-us-government"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217; (2026-09-09)",
+          "whats_new": "TAR, which builds off-grid power systems for data centers, raised a $120M Series A led by Spark Capital at a ~$1B valuation (Mark Chediak/Bloomberg) (2026-09-10)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+            "news": "https://www.techmeme.com/260910/p22#a260910p22"
           },
           "total": 85.15
         },
@@ -73,7 +73,7 @@
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "Nvidia launches free tool that links idle computers into a personal AI data center (2026-09-03)",
+          "whats_new": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P] (2026-09-10)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/"
           }
         }
       ]
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Roland is getting into generative AI music with Melody Flip (2026-09-04)",
+          "whats_new": "Suno releases its first AI music model made with record industry help (2026-09-09)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
           },
           "total": 79.6
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How GPT-5.6 Sol helps run quantum computing experiments (2026-09-08)",
+          "whats_new": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules (2026-09-10)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/codex-quantum-computing-experiments"
+            "news": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
           },
           "total": 84.1
         },
