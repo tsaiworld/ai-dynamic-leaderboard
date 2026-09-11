@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Expanding AI access and cyber defense for federal, state, local, and tribal governments (2026-09-10)",
+          "whats_new": "The GSA says OpenAI is replacing its $1-per-year pilot for US agencies with a usage-based deal at a 50% discount from October 1, including access to GPT-6 Astra (Maggie Eastland/Bloomberg) (2026-09-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/expanding-ai-access-us-government"
+            "news": "https://www.techmeme.com/260911/p18#a260911p18"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "TAR, which builds off-grid power systems for data centers, raised a $120M Series A led by Spark Capital at a ~$1B valuation (Mark Chediak/Bloomberg) (2026-09-10)",
+          "whats_new": "Anthropic spent this week in hot water over cybersecurity (2026-09-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260910/p22#a260910p22"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Atlas of the human genome could pave the way for new treatments (2026-09-08)",
+          "whats_new": "Slack can now vibe-code interactive charts and reports inside chats (2026-09-10)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+            "news": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "We released TontaubeV1, a character-level TTS model for long-form generation [P] (2026-09-01)",
+          "whats_new": "Universal Music is launching an AI music platform with ElevenLabs (2026-09-10)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
           }
         },
         {
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules (2026-09-10)",
+          "whats_new": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P] (2026-09-11)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/"
           },
           "total": 84.1
         },
