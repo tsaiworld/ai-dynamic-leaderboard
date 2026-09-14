@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-14",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Anthropic and OpenAI are already free to \"pace the frontier\" and should do so for business reasons, instead of first demanding a preferred regulatory framework (David Sacks/@davidsacks) (2026-09-13)",
+          "whats_new": "How Fyxer built an AI executive assistant people trust (2026-09-14)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/260913/p5#a260913p5"
+            "news": "https://openai.com/index/fyxer"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Source: Anthropic has selected the Nasdaq for its potential IPO (Katie Roof/Business Insider) (2026-09-13)",
+          "whats_new": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns (2026-09-14)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260913/p8#a260913p8"
+            "news": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
           },
           "total": 85.15
         },
@@ -115,7 +115,7 @@
         },
         {
           "tool": "Runway Gen-2",
-          "whats_new": "Runway co-CEO Anastasis Germanidis says the startup's annual recurring revenue hit $200M in September; source: it expects ARR to cross $350M by the end of 2026 (Rachel Metz/Bloomberg) (2026-09-08)",
+          "whats_new": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami (2026-09-14)",
           "best_used_for": "Creator workflows",
           "pro": "Strong video editing suite",
           "con": "Expensive at scale",
@@ -128,7 +128,7 @@
           },
           "total": 78.65,
           "links": {
-            "news": "https://www.techmeme.com/260908/p21#a260908p21"
+            "news": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html"
           }
         },
         {
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot (2026-09-04)",
+          "whats_new": "Stockholm-based Tandem Health, which offers clinicians an AI copilot that generates medical notes during patient consultations, raised a $100M Series B (John Reynolds/Tech.eu) (2026-09-14)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+            "news": "https://www.techmeme.com/260914/p25#a260914p25"
           }
         },
         {
