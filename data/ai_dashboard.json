@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How Fyxer built an AI executive assistant people trust (2026-09-14)",
+          "whats_new": "OpenAI says it has been working with Anthropic and Google for several weeks on AI safety, and it does not need an antitrust waiver to coordinate on safety (Maggie Eastland/Bloomberg Law) (2026-09-15)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/fyxer"
+            "news": "https://www.techmeme.com/260915/p27#a260915p27"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns (2026-09-14)",
+          "whats_new": "Artificial Intelligence Underwriting Company, which offers audits and safety certifications for AI agents, raised a $40M Series A, bringing total raised to $55M (Julie Bort/TechCrunch) (2026-09-15)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+            "news": "https://www.techmeme.com/260915/p26#a260915p26"
           },
           "total": 85.15
         },
@@ -73,7 +73,7 @@
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P] (2026-09-10)",
+          "whats_new": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P] (2026-09-15)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/"
           }
         }
       ]
