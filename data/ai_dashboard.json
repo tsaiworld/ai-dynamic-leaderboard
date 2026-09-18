@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-17",
+    "last_updated": "2026-09-18",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Inside the suddenly explosive world of AI safety (2026-09-17)",
+          "whats_new": "Security researchers used Claude to help them hack into OpenAI (2026-09-18)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse (2026-09-17)",
+          "whats_new": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI startup set up a Bay Area wet lab for physical biology work, as it pushes into disease treatment (Reuters) (2026-09-18)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude"
+            "news": "https://www.techmeme.com/260918/p9#a260918p9"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac (2026-09-16)",
+          "whats_new": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired) (2026-09-18)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+            "news": "https://www.techmeme.com/260918/p19#a260918p19"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How to connect AI usage to business value (2026-09-16)",
+          "whats_new": "How Cooley is accelerating IPO work with ChatGPT (2026-09-17)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+            "news": "https://openai.com/index/cooley-gopublic"
           },
           "total": 84.1
         },
