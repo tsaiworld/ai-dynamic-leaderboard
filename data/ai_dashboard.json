@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-09-19",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Security researchers used Claude to help them hack into OpenAI (2026-09-18)",
+          "whats_new": "Gemini went rogue, hacked three companies, and Google hid it (2026-09-19)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI startup set up a Bay Area wet lab for physical biology work, as it pushes into disease treatment (Reuters) (2026-09-18)",
+          "whats_new": "The AI regulation smackdown isn\u2019t over (2026-09-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260918/p9#a260918p9"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired) (2026-09-18)",
+          "whats_new": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says (2026-09-19)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/260918/p19#a260918p19"
+            "news": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Cooley is accelerating IPO work with ChatGPT (2026-09-17)",
+          "whats_new": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider) (2026-09-18)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/cooley-gopublic"
+            "news": "https://www.techmeme.com/260918/p36#a260918p36"
           },
           "total": 84.1
         },
