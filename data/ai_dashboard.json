@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Advisory Group on Mathematics and Artificial Intelligence (2026-09-21)",
+          "whats_new": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta (2026-09-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Nscale's S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg) (2026-09-21)",
+          "whats_new": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity (2026-09-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/260921/p33#a260921p33"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How V7 gives AI agents institutional memory (2026-09-21)",
+          "whats_new": "Higgsfield AI ships new video features in a day with GPT-6 Astra (2026-09-21)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/v7"
+            "news": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
           },
           "total": 84.1
         },
