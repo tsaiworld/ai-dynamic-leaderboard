@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-09-23",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta (2026-09-22)",
+          "whats_new": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI (2026-09-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy"
+            "news": "https://openai.com/index/ringg"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity (2026-09-22)",
+          "whats_new": "Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation (Kate Clark/Wall Street Journal) (2026-09-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+            "news": "https://www.techmeme.com/260923/p33#a260923p33"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says (2026-09-19)",
+          "whats_new": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google) (2026-09-23)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+            "news": "https://www.techmeme.com/260923/p31#a260923p31"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Higgsfield AI ships new video features in a day with GPT-6 Astra (2026-09-21)",
+          "whats_new": "Better prompt caching for GPT-6 (2026-09-22)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+            "news": "https://openai.com/index/better-prompt-caching-for-gpt-6"
           },
           "total": 84.1
         },
