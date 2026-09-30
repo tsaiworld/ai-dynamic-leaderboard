@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-29",
+    "last_updated": "2026-09-30",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "DevDay 2026 Recap (2026-09-29)",
+          "whats_new": "Disrupting a coordinated model-distillation campaign (2026-09-30)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/devday-2026-recap"
+            "news": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing (2026-09-29)",
+          "whats_new": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models (2026-09-30)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+            "news": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Deepmind Optimization Roles [D] (2026-09-28)",
+          "whats_new": "Google reportedly tests paying publishers for AI search results (2026-09-30)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1ws1a92/google_deepmind_optimization_roles_d/"
+            "news": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "Universal Music is launching an AI music platform with ElevenLabs (2026-09-10)",
+          "whats_new": "ElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B (Tim Bradshaw/Financial Times) (2026-09-30)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
+            "news": "https://www.techmeme.com/260930/p32#a260930p32"
           }
         },
         {
