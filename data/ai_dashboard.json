@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-01",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Disrupting a coordinated model-distillation campaign (2026-09-30)",
+          "whats_new": "How Albertsons Companies is reimagining retail from the inside out (2026-10-01)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+            "news": "https://openai.com/index/albertsons-reimagining-retail"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models (2026-09-30)",
+          "whats_new": "Sources: Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving (Bailey Lipschultz/Bloomberg) (2026-10-01)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+            "news": "https://www.techmeme.com/261001/p31#a261001p31"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google reportedly tests paying publishers for AI search results (2026-09-30)",
+          "whats_new": "Judge dismisses antitrust lawsuits over Google\u2019s AI Overviews (2026-10-01)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+            "news": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
           },
           "total": 83.25
         },
