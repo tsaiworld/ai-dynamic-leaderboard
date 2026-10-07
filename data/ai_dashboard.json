@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-06",
+    "last_updated": "2026-10-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Advancing computer use with Ironclad (2026-10-06)",
+          "whats_new": "Radisson Hotel Group brings hotel discovery into ChatGPT (2026-10-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/advancing-computer-use-with-ironclad"
+            "news": "https://openai.com/index/radisson"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction (Olivia Moore/Andreessen Horowitz) (2026-10-06)",
+          "whats_new": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack) (2026-10-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261006/p28#a261006p28"
+            "news": "https://www.techmeme.com/261007/p33#a261007p33"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google is about to remove free access to Gemini Flash and Pro (2026-10-06)",
+          "whats_new": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019 (2026-10-07)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,13 +67,13 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+            "news": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell"
           },
           "total": 83.25
         },
         {
           "tool": "Llama 3.1 (Meta)",
-          "whats_new": "A chunking lib in Rust that is ~20x faster [P] (2026-10-05)",
+          "whats_new": "Looking for developer-friendly inference providers who give you enough API credits to experiment [D] (2026-10-07)",
           "best_used_for": "Custom/private deployments",
           "pro": "Open-source, flexible hosting",
           "con": "Tuning/inference ops burden",
@@ -86,7 +86,7 @@
           },
           "total": 80.9,
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1wzqmka/looking_for_developerfriendly_inference_providers/"
           }
         }
       ]
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P] (2026-10-06)",
+          "whats_new": "Helping teens learn, plan, and shape the future of AI (2026-10-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/"
+            "news": "https://openai.com/index/teens-learn-and-plan"
           },
           "total": 84.1
         },
@@ -274,7 +274,7 @@
       "entries": [
         {
           "tool": "GitHub Copilot Workspace",
-          "whats_new": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office (2026-09-25)",
+          "whats_new": "Microsoft is giving Copilot more control over Windows and your files (2026-10-07)",
           "best_used_for": "Daily coding in IDE",
           "pro": "Deep IDE integration",
           "con": "Team licensing costs",
@@ -287,7 +287,7 @@
           },
           "total": 84.0,
           "links": {
-            "news": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+            "news": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
           }
         },
         {
