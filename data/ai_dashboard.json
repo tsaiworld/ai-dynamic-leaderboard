@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-09",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Pollo AI turns creative ideas into campaigns with OpenAI (2026-10-08)",
+          "whats_new": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak (2026-10-09)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/pollo-ai"
+            "news": "https://openai.com/index/sophos"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude (2026-10-08)",
+          "whats_new": "Anthropic\u2019s Quest to Give A.I. Morals (2026-10-09)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+            "news": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "How Oracle turns days of work into minutes with ChatGPT and Codex (2026-10-08)",
+          "whats_new": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol (2026-10-09)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/oracle"
+            "news": "https://openai.com/index/asana-browser-agent"
           },
           "total": 84.1
         },
@@ -310,7 +310,7 @@
         },
         {
           "tool": "Replit Agent",
-          "whats_new": "Visa makes an undisclosed investment in Replit; the two will explore how developers on Replit can use Visa Intelligent Commerce and the Trusted Agent Protocol (Ivan Mehta/TechCrunch) (2026-05-28)",
+          "whats_new": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N] (2026-10-08)",
           "best_used_for": "Small apps & PoCs",
           "pro": "All-in-one environment",
           "con": "Limited enterprise controls",
@@ -323,7 +323,7 @@
           },
           "total": 74.7,
           "links": {
-            "news": "https://www.techmeme.com/260528/p40#a260528p40"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/"
           }
         }
       ]
