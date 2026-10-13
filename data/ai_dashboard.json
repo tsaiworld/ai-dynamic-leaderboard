@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios) (2026-10-12)",
+          "whats_new": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P] (2026-10-13)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261012/p34#a261012p34"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D] (2026-10-12)",
+          "whats_new": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game (2026-10-13)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/"
+            "news": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Googlebooks hands-on: a rocky start, with severe connectivity, file-sharing, and software stability issues; core productivity software lacks full desktop parity (Dominic Preston/The Verge) (2026-10-12)",
+          "whats_new": "Google makes it easier to launch your vibe-coded apps (2026-10-13)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/261012/p26#a261012p26"
+            "news": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers (Jonathan Vanian/CNBC) (2026-10-12)",
+          "whats_new": "Higgsfield takes AI video from 1 minute to over 10 (2026-10-13)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/261012/p35#a261012p35"
+            "news": "https://openai.com/index/higgsfield-longer-videos-voice"
           },
           "total": 84.1
         },
