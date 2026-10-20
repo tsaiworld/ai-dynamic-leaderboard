@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC) (2026-10-19)",
+          "whats_new": "Sources: Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\" (The Information) (2026-10-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261019/p26#a261019p26"
+            "news": "https://www.techmeme.com/261020/p32#a261020p32"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch) (2026-10-19)",
+          "whats_new": "Elon Musk Says He Will Give a SpaceX Share to \u2018Every Kid in America\u2019 (2026-10-19)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261019/p38#a261019p38"
+            "news": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "ML on a shoestring? [D] (2026-10-19)",
+          "whats_new": "Google Reports Cloud Disruptions in Europe (2026-10-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/"
+            "news": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch) (2026-10-19)",
+          "whats_new": "Franchisee reconciles cash in 94% less time with ChatGPT Work (2026-10-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.techmeme.com/261019/p39#a261019p39"
+            "news": "https://openai.com/index/ted-taylor-restaurant"
           },
           "total": 84.1
         },
