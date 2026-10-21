@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Sources: Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\" (The Information) (2026-10-20)",
+          "whats_new": "OpenAI models are coming to Google Cloud (2026-10-21)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261020/p32#a261020p32"
+            "news": "https://openai.com/index/openai-models-google-cloud"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Elon Musk Says He Will Give a SpaceX Share to \u2018Every Kid in America\u2019 (2026-10-19)",
+          "whats_new": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic) (2026-10-21)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html"
+            "news": "https://www.techmeme.com/261021/p31#a261021p31"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Reports Cloud Disruptions in Europe (2026-10-20)",
+          "whats_new": "Conversational Gemini navigation comes to Apple CarPlay (2026-10-21)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html"
+            "news": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Franchisee reconciles cash in 94% less time with ChatGPT Work (2026-10-20)",
+          "whats_new": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform (2026-10-21)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/ted-taylor-restaurant"
+            "news": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
           },
           "total": 84.1
         },
