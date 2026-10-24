@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) (2026-10-23)",
+          "whats_new": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes) (2026-10-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+            "news": "https://www.techmeme.com/261024/p2#a261024p2"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic) (2026-10-23)",
+          "whats_new": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P] (2026-10-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261023/p14#a261023p14"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/"
           },
           "total": 85.15
         },
