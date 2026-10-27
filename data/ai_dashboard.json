@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-27",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "ChatGPT\u2019s expanding world of work (2026-10-26)",
+          "whats_new": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT (2026-10-27)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/chatgpt-expanding-world-of-work"
+            "news": "https://openai.com/index/oracle-apps-in-chatgpt"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Five weird details from Anthropic\u2019s IPO filing (2026-10-26)",
+          "whats_new": "Anthropic\u2019s elaborate plan to keep Wall Street at bay (2026-10-27)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s AI search changes upended online publishing (2026-10-25)",
+          "whats_new": "Google\u2019s next Genie AI model generates more realistic experiences (2026-10-27)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+            "news": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Fitting a 4D Mandelbulb with KS3 vs MLP [R] (2026-10-26)",
+          "whats_new": "Greptile takes bug detection beyond code review with GPT-6 Astra (2026-10-26)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/"
+            "news": "https://openai.com/index/greptile-code-review-codex-astra"
           },
           "total": 84.1
         },
