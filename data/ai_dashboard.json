@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems (2026-11-06)",
+          "whats_new": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times) (2026-11-07)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/partnering-with-hacktron"
+            "news": "https://www.techmeme.com/261107/p12#a261107p12"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI) (2026-11-06)",
+          "whats_new": "Why a new report on Anthropic automating AI development is alarming researchers (2026-11-07)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,7 +49,7 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261106/p20#a261106p20"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
           },
           "total": 85.15
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Australian universities are creating AI-native graduates (2026-11-05)",
+          "whats_new": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D] (2026-11-07)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/australian-universities-ai-native-graduates"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/"
           },
           "total": 84.1
         },
