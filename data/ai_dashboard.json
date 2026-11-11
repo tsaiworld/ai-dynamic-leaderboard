@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-11",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Helping caregivers use AI in everyday life (2026-11-10)",
+          "whats_new": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D] (2026-11-11)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+            "news": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic targets $1.4 trillion IPO (2026-11-10)",
+          "whats_new": "Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg) (2026-11-11)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+            "news": "https://www.techmeme.com/261111/p27#a261111p27"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Fi launches \"super network\" for automatic carrier switching and Wi-Fi Auto-Connect+ to improve indoor connectivity in places like malls and airports (Sam Rutherford/Engadget) (2026-11-10)",
+          "whats_new": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps (2026-11-11)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/261110/p44#a261110p44"
+            "news": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Introducing Businesses in ChatGPT (2026-11-10)",
+          "whats_new": "ChatGPT Plus for veterans and servicemembers (2026-11-11)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/introducing-businesses-chatgpt"
+            "news": "https://openai.com/index/chatgpt-plus-for-veterans"
           },
           "total": 84.1
         },
