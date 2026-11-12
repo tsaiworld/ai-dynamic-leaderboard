@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-12",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D] (2026-11-11)",
+          "whats_new": "How Amplitude ships product improvements in 1\u20132 days with OpenAI (2026-11-12)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/"
+            "news": "https://openai.com/index/amplitude"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg) (2026-11-11)",
+          "whats_new": "Jensen Huang\u2019s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving (2026-11-12)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261111/p27#a261111p27"
+            "news": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps (2026-11-11)",
+          "whats_new": "No, AI agents did not discover a previously unknown Maya site (2026-11-12)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
           },
           "total": 83.25
         },
