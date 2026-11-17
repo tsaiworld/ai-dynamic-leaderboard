@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-17",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "LVMH\u2019s Media Division announces strategic partnership with OpenAI (2026-11-16)",
+          "whats_new": "Strengthening NATO and allied cyber defenses with AI (2026-11-17)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/lvmh-media-division-partnership"
+            "news": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC) (2026-11-16)",
+          "whats_new": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic (2026-11-16)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261116/p43#a261116p43"
+            "news": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Maps can now create trip itineraries for you (2026-11-16)",
+          "whats_new": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch) (2026-11-17)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+            "news": "https://www.techmeme.com/261117/p47#a261117p47"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Broadening access to AI for scientists (2026-11-16)",
+          "whats_new": "Introducing GPT-6.2 Astra and Sol (2026-11-17)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+            "news": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
           },
           "total": 84.1
         },
