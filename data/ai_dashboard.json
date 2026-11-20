@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast (2026-11-19)",
+          "whats_new": "Combatting adversarial distillation (2026-11-20)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+            "news": "https://openai.com/index/combatting-adversarial-distillation"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic starts trading on Wall Street (2026-11-19)",
+          "whats_new": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude (2026-11-20)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google is putting AI chats right on the homepage (2026-11-19)",
+          "whats_new": "Signal is blocking Gemini and Siri AI from reading your screen (2026-11-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "ChatGPT can transcribe as you speak now with Live Dictation (2026-11-19)",
+          "whats_new": "Hebbia sees improvements in financial research with GPT-6 Astra (2026-11-20)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+            "news": "https://openai.com/business/customer-stories/hebbia"
           },
           "total": 84.1
         },
