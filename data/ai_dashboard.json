@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-22",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "NYU's Tristan Buckmaster and Anthropic's Levent Alp\u00f6ge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American) (2026-11-21)",
+          "whats_new": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI) (2026-11-22)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261121/p4#a261121p4"
+            "news": "https://www.techmeme.com/261122/p9#a261122p9"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Can Anthropic afford to put safety first? (2026-11-21)",
+          "whats_new": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters) (2026-11-22)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+            "news": "https://www.techmeme.com/261122/p8#a261122p8"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times) (2026-11-21)",
+          "whats_new": "Signal is blocking Gemini and Siri AI from reading your screen (2026-11-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/261121/p6#a261121p6"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
           },
           "total": 83.25
         },
@@ -172,7 +172,7 @@
         },
         {
           "tool": "Sun\u014d v3",
-          "whats_new": "Suno now lets you make AI videos for your AI music (2026-11-18)",
+          "whats_new": "Binding of Isaac developer removes AI music from Repentance Plus (2026-11-22)",
           "best_used_for": "Music generation, jingles",
           "pro": "Incredible creativity & speed",
           "con": "Editing granularity limited",
@@ -184,7 +184,7 @@
             "innovation": 86
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+            "news": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
           },
           "total": 79.6
         },
