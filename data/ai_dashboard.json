@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-24",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI) (2026-11-22)",
+          "whats_new": "OpenAI and Cisco introduce Shirudo (2026-11-23)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261122/p9#a261122p9"
+            "news": "https://openai.com/index/introducing-shirudo"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters) (2026-11-22)",
+          "whats_new": "Claude AI can review pull requests and ship fixes on its own now (2026-11-23)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261122/p8#a261122p8"
+            "news": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Signal is blocking Gemini and Siri AI from reading your screen (2026-11-20)",
+          "whats_new": "Google Disrupts Its Search Advertising With Its Embrace of A.I. (2026-11-20)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+            "news": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Hebbia sees improvements in financial research with GPT-6 Astra (2026-11-20)",
+          "whats_new": "Richpanel helps companies automate 50% of support in 30 days (2026-11-23)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/business/customer-stories/hebbia"
+            "news": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
           },
           "total": 84.1
         },
