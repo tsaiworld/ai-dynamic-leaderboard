@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "OpenAI and Cisco introduce Shirudo (2026-11-23)",
+          "whats_new": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg) (2026-11-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://openai.com/index/introducing-shirudo"
+            "news": "https://www.techmeme.com/261124/p36#a261124p36"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Claude AI can review pull requests and ship fixes on its own now (2026-11-23)",
+          "whats_new": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude) (2026-11-24)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+            "news": "https://www.techmeme.com/261124/p40#a261124p40"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "Google Disrupts Its Search Advertising With Its Embrace of A.I. (2026-11-20)",
+          "whats_new": "AG Todd Blanche and FBI Director Kash Patel dodge reporters' questions about a purported probe that led Trump to push Nvidia's board to bring back Jensen Huang (Dan Mangan/CNBC) (2026-11-24)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+            "news": "https://www.techmeme.com/261124/p30#a261124p30"
           },
           "total": 83.25
         },
@@ -214,7 +214,7 @@
       "entries": [
         {
           "tool": "OpenAI GPTs / Assistants",
-          "whats_new": "Richpanel helps companies automate 50% of support in 30 days (2026-11-23)",
+          "whats_new": "GPT-6 models demonstrate intrinsic protein-design capabilities (2026-11-24)",
           "best_used_for": "No-code assistants, automation",
           "pro": "Simple to stand up",
           "con": "Limited autonomy & connectors",
@@ -226,7 +226,7 @@
             "innovation": 84
           },
           "links": {
-            "news": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+            "news": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
           },
           "total": 84.1
         },
