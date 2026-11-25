@@ -2,7 +2,7 @@
   "meta": {
     "title": "AI Dynamic Leaderboard - for Brian",
     "description": "Top AI tools ranked by custom weighting: Popularity 40%, Performance 25%, Cost 10%, Privacy 10%, Innovation 15%.",
-    "last_updated": "2026-11-24",
+    "last_updated": "2026-11-25",
     "weights": {
       "popularity": 0.4,
       "performance": 0.25,
@@ -19,7 +19,7 @@
       "entries": [
         {
           "tool": "GPT-4o (OpenAI)",
-          "whats_new": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg) (2026-11-24)",
+          "whats_new": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say (2026-11-24)",
           "best_used_for": "Enterprise chat, agents, reasoning",
           "pro": "Best-in-class reasoning and ecosystem integrations",
           "con": "Closed ecosystem & variable pricing",
@@ -31,13 +31,13 @@
             "innovation": 92
           },
           "links": {
-            "news": "https://www.techmeme.com/261124/p36#a261124p36"
+            "news": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html"
           },
           "total": 88.65
         },
         {
           "tool": "Claude 3.5 (Anthropic)",
-          "whats_new": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude) (2026-11-24)",
+          "whats_new": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios) (2026-11-25)",
           "best_used_for": "Research, doc analysis, coding help",
           "pro": "Very long context & high safety",
           "con": "Limited integration surface vs competitors",
@@ -49,13 +49,13 @@
             "innovation": 85
           },
           "links": {
-            "news": "https://www.techmeme.com/261124/p40#a261124p40"
+            "news": "https://www.techmeme.com/261125/p31#a261125p31"
           },
           "total": 85.15
         },
         {
           "tool": "Gemini 1.5 Pro (Google)",
-          "whats_new": "AG Todd Blanche and FBI Director Kash Patel dodge reporters' questions about a purported probe that led Trump to push Nvidia's board to bring back Jensen Huang (Dan Mangan/CNBC) (2026-11-24)",
+          "whats_new": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future (2026-11-25)",
           "best_used_for": "Business workflows & search-integrated tasks",
           "pro": "Tight Google Workspace integration",
           "con": "API pricing complexity",
@@ -67,7 +67,7 @@
             "innovation": 83
           },
           "links": {
-            "news": "https://www.techmeme.com/261124/p30#a261124p30"
+            "news": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
           },
           "total": 83.25
         },
@@ -154,7 +154,7 @@
       "entries": [
         {
           "tool": "ElevenLabs v3",
-          "whats_new": "You can post AI music straight to SoundCloud from ElevenLabs (2026-11-05)",
+          "whats_new": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg) (2026-11-25)",
           "best_used_for": "Dubbing, audiobooks, podcasts",
           "pro": "Natural prosody and voice variety",
           "con": "Costs rise for long content",
@@ -167,7 +167,7 @@
           },
           "total": 83.1,
           "links": {
-            "news": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+            "news": "https://www.techmeme.com/261125/p30#a261125p30"
           }
         },
         {
